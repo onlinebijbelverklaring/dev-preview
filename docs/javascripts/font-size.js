@@ -18,7 +18,7 @@
     localStorage.setItem(STORAGE_KEY, currentIndex);
   }
 
-  // Injecteer de knoppen direct bovenaan de TOC-sidebar
+  // Injecteer de knoppen direct bovenaan de TOC-sidebar (boven de titel)
   function injectWidgetInTOC() {
     // Verwijder eventuele oude zwevende widget als die er nog is
     const oldFloatingWidget = document.getElementById('font-size-widget');
@@ -26,7 +26,7 @@
 
     // Zoek het navigatieblok van de TOC (rechterkolom)
     const tocContainer = document.querySelector('.md-sidebar--secondary .md-nav--secondary');
-    if (!tocContainer) return; // Pagina heeft geen TOC (bijv. als TOC verborgen is via hide)
+    if (!tocContainer) return; // Pagina heeft geen TOC
 
     // Voorkom dubbele injectie bij Instant Loading
     if (tocContainer.querySelector('.font-size-toc-container')) return;
@@ -42,10 +42,10 @@
       </div>
     `;
 
-    // Voeg toe direct onder de TOC-titel
+    // Voeg toe DIRECT BOVEN de TOC-titel
     const tocTitle = tocContainer.querySelector('.md-nav__title');
-    if (tocTitle && tocTitle.nextSibling) {
-      tocContainer.insertBefore(widgetWrapper, tocTitle.nextSibling);
+    if (tocTitle) {
+      tocContainer.insertBefore(widgetWrapper, tocTitle);
     } else {
       tocContainer.prepend(widgetWrapper);
     }
