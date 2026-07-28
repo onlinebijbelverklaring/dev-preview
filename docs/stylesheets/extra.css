@@ -17,6 +17,7 @@
   padding: 0.5rem 0.6rem;
   margin: 0.6rem 0.8rem 0.8rem 0.8rem;
   background-color: var(--md-default-bg-color--subtle, rgba(0, 0, 0, 0.03));
+  border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.1));
   border-radius: 6px;
 }
 
@@ -34,13 +35,13 @@
 }
 
 .font-size-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   background: var(--md-default-bg-color, #ffffff);
   border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.15));
   color: var(--md-default-fg-color);
-  font-family: inherit;
-  font-size: 0.7rem;
-  font-weight: 600;
-  padding: 2px 7px;
+  padding: 3px 6px;
   border-radius: 4px;
   cursor: pointer;
   transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
@@ -52,10 +53,7 @@
   border-color: var(--md-accent-fg-color, #3f51b5);
 }
 
-#fs-decrease {
-  font-size: 0.65rem;
-}
-
-#fs-increase {
-  font-size: 0.8rem;
+.font-size-btn svg {
+  display: block;
+  pointer-events: none;
 }
