@@ -2,7 +2,7 @@
 hide:
   - toc
 
-icon: lucide/bookshelf
+icon: lucide/library
 ---
 
 # Bijbelverklaring van Karl August Dächsel

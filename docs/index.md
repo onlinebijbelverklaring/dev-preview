@@ -3,8 +3,7 @@ hide:
   - toc
   - navigation
 
-icon: 
-  page: lucide/home
+icon: lucide/home
 ---
 
 # Welkom op Onlinebijbelverklaring.nl 
