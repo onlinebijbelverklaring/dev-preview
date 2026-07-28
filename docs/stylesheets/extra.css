@@ -1,0 +1,10 @@
+/* ==========================================================================
+   Font Size Toggles - Mobile Responsive
+   ========================================================================== */
+
+/* Verberg de font-size knoppen op mobiele schermen en kleine tablets */
+@media screen and (max-width: 47.9375em) {
+  .md-header__option--fontsize {
+    display: none !important;
+  }
+}

@@ -18,10 +18,15 @@ repo_name: onlinebijbelverklaring.github.io
 extra_javascript:
   - javascripts/font-size.js
 
+# Extra CSS
+extra_css:
+  - stylesheets/extra.css
+
+
 # Configuration
 theme:
-  font:
-    text: Montserrat
+#  font:
+#    text: Montserrat
   icon:
     repo: fontawesome/brands/github
     edit: material/playlist-edit
