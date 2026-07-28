@@ -1,4 +1,6 @@
 ---
+title: Maarten Luther
+
 hide:
   - toc
 

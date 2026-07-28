@@ -1,4 +1,6 @@
 ---
+title: Karl August Dächsel
+
 hide:
   - toc
 
