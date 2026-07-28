@@ -1,3 +1,5 @@
+# Psalm 87
+
 1. EEN psalm, een lied voor de kinderen van Korach. Zijn grondslag is op de bergen der heiligheid.
 2. De HEERE bemint de poorten Sions, boven alle woningen Jakobs.
 3. Zeer heerlijke dingen worden van u gesproken, o stad Gods. Sela.

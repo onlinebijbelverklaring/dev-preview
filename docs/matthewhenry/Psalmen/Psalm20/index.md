@@ -1,3 +1,5 @@
+# Psalm 20
+
 1. EEN psalm van David, voor den opperzangmeester.
 2. De HEERE verhore u in den dag der benauwdheid; de Naam van den God Jakobs zette u in een hoog vertrek.
 3. Hij zende uw hulp uit het heiligdom, en ondersteune u uit Sion.

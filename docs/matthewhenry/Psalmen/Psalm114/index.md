@@ -1,3 +1,5 @@
+# Psalm 114
+
 1. TOEN Israël uit Egypte toog, het huis Jakobs van een volk dat een vreemde taal had,
 2. Zo werd Juda tot Zijn heiligdom, Israël Zijn volkomen heerschappij.
 3. De zee zag het en vlood, de Jordaan keerde achterwaarts.

@@ -1,3 +1,5 @@
+# Romeinen 5
+
 1. WIJ dan gerechtvaardigd zijnde uit het geloof, hebben vrede bij God door onzen Heere Jezus Christus;
 2. Door Welken wij ook de toeleiding hebben door het geloof tot deze genade, in welke wij staan, en roemen in de hoop der heerlijkheid Gods.
 3. En niet alleenlijk dit, maar wij roemen ook in de verdrukkingen, wetende dat de verdrukking lijdzaamheid werkt,

@@ -1,3 +1,5 @@
+# Psalm 47
+
 1. EEN psalm, voor den opperzangmeester, onder de kinderen van Korach.
 2. Alle gij volken, klapt in de hand; juicht Gode met een stem van vreugdegezang.
 3. Want de HEERE, de Allerhoogste, is vreselijk, een groot Koning over de ganse aarde.

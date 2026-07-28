@@ -1,3 +1,5 @@
+# Psalm 75
+
 1. VOOR den opperzangmeester, Altáscheth; een psalm, een lied, voor Asaf.
 2. Wij loven U, o God, wij loven, dat Uw Naam nabij is; men vertelt Uw wonderen.
 3. Als ik het bestemde ambt zal ontvangen hebben, zo zal ik gans recht richten.

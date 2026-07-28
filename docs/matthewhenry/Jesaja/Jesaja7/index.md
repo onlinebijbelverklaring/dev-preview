@@ -1,3 +1,5 @@
+# Jesaja 7
+
 1. HET geschiedde nu in de dagen van Achaz, den zoon van Jotham, den zoon van Uzzia, den koning van Juda, dat Rezin, de koning van Syrië, en Pekah, de zoon van Remália, de koning van Israël, optoog naar Jeruzalem ten oorlog tegen haar; maar hij vermocht met strijden niet tegen haar.
 2. Als men het huis Davids boodschapte, zeggende: De Syriërs rusten op Efraïm; zo bewoog zich zijn hart en het hart zijns volks, gelijk de bomen des wouds bewogen worden van den wind.
 3. En de HEERE zeide tot Jesaja: Ga nu uit, Achaz tegemoet, gij en uw zoon Schear-Jaschub, aan het einde van den watergang des oppersten vijvers, aan den hogen weg van het veld des vollers;

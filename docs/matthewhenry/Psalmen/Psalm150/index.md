@@ -1,3 +1,5 @@
+# Psalm 150
+
 1. HALLELUJAH. Looft God in Zijn heiligdom; looft Hem in het uitspansel Zijner sterkte.
 2. Looft Hem vanwege Zijn mogendheden; looft Hem naar de menigvuldigheid Zijner grootheid.
 3. Looft Hem met geklank der bazuin; looft Hem met de luit en met de harp.

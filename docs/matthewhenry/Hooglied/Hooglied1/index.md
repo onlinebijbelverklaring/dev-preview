@@ -1,3 +1,5 @@
+# Hooglied 1
+
 1. HET Hooglied, hetwelk van Sálomo is.
 2. Hij kusse mij met de kussen Zijns monds; want Uw uitnemende liefde is beter dan wijn.
 3. Uw oliën zijn goed tot reuk, Uw Naam is een olie die uitgestort wordt; daarom hebben U de maagden lief.

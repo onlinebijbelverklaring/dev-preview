@@ -1,3 +1,5 @@
+# Psalm 51
+
 1. EEN psalm van David, voor den opperzangmeester;
 2. Toen de profeet Nathan tot hem was gekomen, nadat hij tot Bathséba was ingegaan.
 3. Zijt mij genadig, o God, naar Uw goedertierenheid; delg mijn overtreding uit, naar de grootheid Uwer barmhartigheden.

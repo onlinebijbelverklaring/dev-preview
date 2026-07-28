@@ -1,3 +1,5 @@
+# Handelingen 11
+
 1. DE apostelen nu, en de broeders die in Judéa waren, hebben gehoord dat ook de heidenen het Woord Gods aangenomen hadden.
 2. En toen Petrus opgegaan was naar Jeruzalem, twistten tegen hem degenen die uit de besnijdenis waren,
 3. Zeggende: Gij zijt ingegaan tot mannen die de voorhuid hebben, en hebt met hen gegeten.

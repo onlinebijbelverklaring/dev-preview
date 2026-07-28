@@ -115,7 +115,7 @@ nav:
     - Voorrede: matthewhenry/voorrede.md
     - Oude Testament:
       - Genesis:
-        - Genesis: matthewhenry/Genesis/index.md
+        - Genesis: matthewhenry/Genesis/index.md 
         - Genesis 1: matthewhenry/Genesis/Genesis1/index.md
         - Genesis 2: matthewhenry/Genesis/Genesis2/index.md
         - Genesis 3: matthewhenry/Genesis/Genesis3/index.md
