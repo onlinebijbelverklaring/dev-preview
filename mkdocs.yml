@@ -34,6 +34,7 @@ theme:
     logo: material/book-open-variant
   favicon: assets/favicon.png
   name: material
+  variant: modern
   custom_dir: overrides
   features:
     - header.autohide
