@@ -1,3 +1,5 @@
+# Leviticus 26
+
 GEDREIGDE VLOEK EN BELOOFDE ZEGEN.
 
 ## I. Vers 1-46

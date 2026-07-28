@@ -1,3 +1,5 @@
+# Inleiding
+
 Een merkwaardige getuigenis van de grote **Calvijn**, omtrent de persoon van Doctor
 Martinus Luther.
 

@@ -1,3 +1,5 @@
+# 1 Korinthe 2
+
 EENVOUDIGE WIJZE VAN EVANGELIEPREDIKING
 
 ### b. Vers 1-16

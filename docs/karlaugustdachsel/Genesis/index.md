@@ -1,3 +1,5 @@
+# Genesis
+
 ## HET EERSTE BOEK VAN MOZES, GENESIS.
 
 *Wording.*

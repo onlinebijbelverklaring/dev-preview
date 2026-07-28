@@ -1,3 +1,5 @@
+# Leviticus 22
+
 DE HEILIGHOUDING VAN DE GEHEILIGDEN.
 
 ## I. Vers 1-33

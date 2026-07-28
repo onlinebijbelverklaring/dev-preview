@@ -1,3 +1,5 @@
+# Exodus 18
+
 JETHRO GEEFT AAN MOZES EEN GOEDE RAAD.
 
 ## I. Vers 1-12

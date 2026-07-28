@@ -1,3 +1,5 @@
+# Genesis 10
+
 GESLACHT EN NAKOMELINGEN VAN NOACH’S ZONEN.
 
 ## I. Vers 1-5

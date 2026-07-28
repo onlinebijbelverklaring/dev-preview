@@ -1,3 +1,5 @@
+# Exodus 1
+
 ## I. Vers 1-7
 De namen en het getal der kinderen Israëls die in Egypte kwamen, en hun vermenigvuldiging.
 

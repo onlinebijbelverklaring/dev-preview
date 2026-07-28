@@ -1,3 +1,5 @@
+# Genesis 42
+
 DE EERSTE REIS VAN JAKOB’S ZONEN NAAR EGYPTE.
 
 ## I. Vers 1-26

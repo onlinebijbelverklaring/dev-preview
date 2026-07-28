@@ -1,3 +1,5 @@
+# Leviticus 14
+
 GENEZING VAN DE MELAATSHEID.
 
 ## I. Vers 1-32

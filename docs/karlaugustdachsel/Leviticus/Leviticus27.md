@@ -1,3 +1,5 @@
+# Leviticus 27
+
 OVER GELOFTEN EN TIENDEN.
 
 ## I. Vers 1-34

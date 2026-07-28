@@ -1,3 +1,5 @@
+# Leviticus 2
+
 WET VAN DE SPIJSOFFERS.
 
 ## II. Vers 1-16

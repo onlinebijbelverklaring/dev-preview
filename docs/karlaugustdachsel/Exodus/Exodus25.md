@@ -1,3 +1,5 @@
+# Exodus 25
+
 OPRICHTING VAN EEN HEILIGDOM.
 
 ## I. Vers 1-9

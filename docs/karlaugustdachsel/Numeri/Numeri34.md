@@ -1,3 +1,5 @@
+# Numeri 34
+
 GRENZEN VAN HET BELOOFDE LAND. HOE EN DOOR WIE HET VERDEELD MOEST WORDEN.
 
 ***1. Voorts sprak de HEERE tot Mozes, zeggende:***

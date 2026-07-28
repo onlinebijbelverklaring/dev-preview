@@ -1,3 +1,5 @@
+# Exodus 10
+
 SPRINKHANEN EN DUISTERNIS.
 
 ## I. Vers 1-20

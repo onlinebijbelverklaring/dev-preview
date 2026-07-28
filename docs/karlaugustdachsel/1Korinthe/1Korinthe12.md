@@ -1,3 +1,5 @@
+# 1 Korinthe 12
+
 HOE GEESTELIJKE GAVEN GEBRUIKT MOETEN WORDEN
 
 ### c. Vers 1-Hoofdstuk 14:40

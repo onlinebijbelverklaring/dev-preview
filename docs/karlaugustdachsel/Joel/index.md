@@ -1,3 +1,5 @@
+# Joel
+
 ## DE PROFEET JOEL
 
 Het Boek der Profetieën van Joël, den zoon van Pethuël, bevat voorspellingen, die betrekking hebben op het Rijk van Juda.

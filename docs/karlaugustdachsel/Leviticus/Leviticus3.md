@@ -1,3 +1,5 @@
+# Leviticus 3
+
 WET VAN HET DANKOFFER.
 
 ## III. Vers 1-17

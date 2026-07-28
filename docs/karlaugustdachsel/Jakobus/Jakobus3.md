@@ -1,3 +1,5 @@
+# Jakobus 3
+
 OVER GEBRUIK EN MISBRUIK VAN DE TONG
 
 ## III. Vers 1-hoofdstuk 4:17

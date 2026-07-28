@@ -1,3 +1,5 @@
+# Exodus 16
+
 KWAKKELS EN MANNA WORDEN GEGEVEN.
 
 ## I. Vers 1-12

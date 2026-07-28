@@ -1,3 +1,5 @@
+# Leviticus 20
+
 STRAFFEN OP VERSCHILLENDE ZONDEN GESTELD.
 
 ## I. Vers 1-27

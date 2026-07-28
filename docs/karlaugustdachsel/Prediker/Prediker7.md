@@ -1,3 +1,5 @@
+# Prediker 7
+
 OVER MIDDELEN TOT HET VERKRIJGEN VAN GELUK.
 
 ## II. Vers 1-22

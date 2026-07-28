@@ -1,3 +1,5 @@
+# 2 Korinthe 2
+
 OVER HET OPNEMEN VAN DE BOETVAARDIGE ZONDAAR
 
 ### b. Vers 1-11
