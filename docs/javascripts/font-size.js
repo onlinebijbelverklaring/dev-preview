@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Zensical / Material Content Font Resizer
+   Zensical / Material Content Font Resizer (TOC Integratie)
    ========================================================================== */
 
 (function () {
@@ -7,7 +7,6 @@
   // Beschikbare schalen: 85%, 100% (standaard), 115%, 130%
   const SCALES = [0.85, 1.0, 1.15, 1.30];
   
-  // Haal de opgeslagen index op of gebruik 1 (100%)
   let currentIndex = parseInt(localStorage.getItem(STORAGE_KEY) || '1', 10);
 
   // Pas de schaal toe op de CSS-variabele
@@ -15,53 +14,66 @@
     currentIndex = Math.max(0, Math.min(index, SCALES.length - 1));
     const scale = SCALES[currentIndex];
     
-    // Zet de CSS variabele op de <html> root
     document.documentElement.style.setProperty('--content-font-scale', scale);
     localStorage.setItem(STORAGE_KEY, currentIndex);
   }
 
-  // Injecteer de widget in de DOM
-  function injectWidget() {
-    // Voorkom dubbele injectie bij pagina-wissels
-    if (document.getElementById('font-size-widget')) return;
+  // Injecteer de knoppen direct bovenaan de TOC-sidebar
+  function injectWidgetInTOC() {
+    // Verwijder eventuele oude zwevende widget als die er nog is
+    const oldFloatingWidget = document.getElementById('font-size-widget');
+    if (oldFloatingWidget) oldFloatingWidget.remove();
 
-    const widget = document.createElement('div');
-    widget.id = 'font-size-widget';
-    widget.className = 'font-size-widget';
-    widget.setAttribute('aria-label', 'Tekstgrootte aanpassen');
+    // Zoek het navigatieblok van de TOC (rechterkolom)
+    const tocContainer = document.querySelector('.md-sidebar--secondary .md-nav--secondary');
+    if (!tocContainer) return; // Pagina heeft geen TOC (bijv. als TOC verborgen is via hide)
 
-    widget.innerHTML = `
-      <button type="button" class="font-size-btn" id="fs-decrease" title="Tekst verkleinen">A-</button>
-      <button type="button" class="font-size-btn" id="fs-reset" title="Herstellen naar 100%">100%</button>
-      <button type="button" class="font-size-btn" id="fs-increase" title="Tekst vergroten">A+</button>
+    // Voorkom dubbele injectie bij Instant Loading
+    if (tocContainer.querySelector('.font-size-toc-container')) return;
+
+    const widgetWrapper = document.createElement('div');
+    widgetWrapper.className = 'font-size-toc-container';
+
+    widgetWrapper.innerHTML = `
+      <span class="font-size-label">Tekstgrootte</span>
+      <div class="font-size-buttons">
+        <button type="button" class="font-size-btn" id="fs-decrease" title="Tekst verkleinen">A-</button>
+        <button type="button" class="font-size-btn" id="fs-reset" title="Herstellen naar 100%">100%</button>
+        <button type="button" class="font-size-btn" id="fs-increase" title="Tekst vergroten">A+</button>
+      </div>
     `;
 
-    document.body.appendChild(widget);
+    // Voeg toe direct onder de TOC-titel
+    const tocTitle = tocContainer.querySelector('.md-nav__title');
+    if (tocTitle && tocTitle.nextSibling) {
+      tocContainer.insertBefore(widgetWrapper, tocTitle.nextSibling);
+    } else {
+      tocContainer.prepend(widgetWrapper);
+    }
 
-    // Event listeners
-    document.getElementById('fs-decrease').addEventListener('click', function() {
+    // Event listeners koppelen
+    widgetWrapper.querySelector('#fs-decrease').addEventListener('click', function() {
       applyScale(currentIndex - 1);
     });
     
-    document.getElementById('fs-reset').addEventListener('click', function() {
+    widgetWrapper.querySelector('#fs-reset').addEventListener('click', function() {
       applyScale(1);
     });
     
-    document.getElementById('fs-increase').addEventListener('click', function() {
+    widgetWrapper.querySelector('#fs-increase').addEventListener('click', function() {
       applyScale(currentIndex + 1);
     });
 
-    // Pas direct toe
     applyScale(currentIndex);
   }
 
-  // Direct toepassen tegen 'flikkeren' bij laden
+  // Direct schaal toepassen tegen flikkeren
   applyScale(currentIndex);
 
-  // Zorg dat het werkt met Zensical/Material instant loading
+  // Zorg voor compatibiliteit met instant page loading van Zensical/Material
   if (typeof document$ !== 'undefined') {
-    document$.subscribe(injectWidget);
+    document$.subscribe(injectWidgetInTOC);
   } else {
-    document.addEventListener('DOMContentLoaded', injectWidget);
+    document.addEventListener('DOMContentLoaded', injectWidgetInTOC);
   }
 })();
