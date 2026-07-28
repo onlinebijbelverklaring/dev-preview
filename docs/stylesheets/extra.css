@@ -1,0 +1,62 @@
+/* ==========================================================================
+   Tekstgrootte Logica - Alleen het leesgedeelte (.md-typeset)
+   ========================================================================== */
+
+/* Pas uitsluitend de inhoud van het artikel aan */
+.md-typeset {
+  font-size: calc(0.8rem * var(--content-font-scale, 1)) !important;
+}
+
+/* ==========================================================================
+   Zwevende Widget Styling (Rechtsonder)
+   ========================================================================== */
+
+.font-size-widget {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  background-color: var(--md-default-bg-color, #ffffff);
+  border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.15));
+  border-radius: 20px;
+  padding: 3px 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  z-index: 90;
+  backdrop-filter: blur(8px);
+}
+
+.font-size-btn {
+  background: transparent;
+  border: none;
+  color: var(--md-default-fg-color--light);
+  font-family: inherit;
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 4px 8px;
+  border-radius: 14px;
+  cursor: pointer;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+
+.font-size-btn:hover {
+  background-color: var(--md-accent-bg-color--light, rgba(0, 0, 0, 0.08));
+  color: var(--md-default-fg-color);
+}
+
+#fs-decrease {
+  font-size: 0.7rem;
+}
+
+#fs-increase {
+  font-size: 0.9rem;
+}
+
+/* Aanpassing op mobiel */
+@media screen and (max-width: 47.9375em) {
+  .font-size-widget {
+    bottom: 16px;
+    right: 16px;
+  }
+}
