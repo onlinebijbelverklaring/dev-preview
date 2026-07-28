@@ -1,7 +1,7 @@
 ---
 hide:
   - toc
-#  - navigation
+  - navigation
 
 icon: lucide/home
 ---
