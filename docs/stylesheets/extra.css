@@ -17,7 +17,6 @@
   padding: 0.5rem 0.6rem;
   margin: 0.6rem 0.8rem 0.8rem 0.8rem;
   background-color: var(--md-default-bg-color--subtle, rgba(0, 0, 0, 0.03));
-  border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.1));
   border-radius: 6px;
 }
 
