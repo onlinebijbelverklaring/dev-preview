@@ -56,7 +56,7 @@
 /* Aanpassing op mobiel */
 @media screen and (max-width: 47.9375em) {
   .font-size-widget {
-    bottom: 16px;
+    bottom: 56px;
     right: 16px;
   }
 }
