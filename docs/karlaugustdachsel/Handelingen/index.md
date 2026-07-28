@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Handelingen
 
 ## DE HANDELINGEN VAN DE HEILIGE APOSTELEN, BESCHREVEN DOOR LUKAS

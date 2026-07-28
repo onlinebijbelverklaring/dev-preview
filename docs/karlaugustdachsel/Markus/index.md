@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Markus
 
 ## HET EVANGELIE VAN MARKUS

@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Zefanja
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK VAN DE PROFEET ZEFANJA

@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Ruth
 
 ## HET BOEK RUTH.

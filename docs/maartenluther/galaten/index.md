@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Galaten
 
 ## De Inhoud van Paulus' Brief aan de Galaten.

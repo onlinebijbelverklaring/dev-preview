@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Openbaring
 
 HET PROFETISCHE BOEK VAN HET NIEUWE TESTAMENT

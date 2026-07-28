@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 1 Timotheus
 
 ## DE EERSTE BRIEF VAN DE APOSTEL PAULUS AAN TIMOTHEUS

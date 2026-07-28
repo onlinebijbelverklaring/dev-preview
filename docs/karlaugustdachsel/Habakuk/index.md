@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Habakuk
 
 ## DE PROFEET HABAKUK.

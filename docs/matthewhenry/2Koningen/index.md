@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 2 Koningen
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET TWEEDE BOEK DER KONINGEN

@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Genesis
 
 ## HET EERSTE BOEK VAN MOZES, GENESIS.

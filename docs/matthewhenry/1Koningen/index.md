@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 1 Koningen
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET EERSTE BOEK DER KONINGEN

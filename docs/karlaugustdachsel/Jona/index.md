@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Jona
 
 ## DE PROFEET JONA.

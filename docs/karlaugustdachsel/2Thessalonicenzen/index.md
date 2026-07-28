@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 2 Thessalonicenzen
 
 ## DE TWEEDE BRIEF VAN de APOSTEL PAULUS AAN DE THESSALONICENZEN

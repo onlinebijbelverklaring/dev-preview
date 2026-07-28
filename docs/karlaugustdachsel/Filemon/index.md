@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Filemon
 
 ## DE BRIEF VAN DE APOSTEL PAULUS AAN FILEMON

@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 2 Timotheus
 
 ## DE TWEEDE BRIEF VAN DE APOSTEL PAULUS AAN TIMOTHEUS

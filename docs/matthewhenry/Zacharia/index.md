@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Zacharia
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK VAN DE PROFEET ZACHARIA

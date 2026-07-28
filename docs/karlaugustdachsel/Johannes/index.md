@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Johannes
 
 ## HET EVANGELIE VAN JOHANNES

@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 1 Korinthe
 
 ## DE EERSTE BRIEF VAN PAULUS AAN DE CORINTHIËRS

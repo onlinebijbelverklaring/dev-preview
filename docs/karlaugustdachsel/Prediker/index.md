@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Prediker
 
 ## HET BOEK DE PREDIKER.

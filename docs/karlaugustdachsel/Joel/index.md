@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Joel
 
 ## DE PROFEET JOEL

@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Filippenzen
 
 ## DE BRIEF VAN DE APOSTEL PAULUS AAN DE FILIPPENSEN

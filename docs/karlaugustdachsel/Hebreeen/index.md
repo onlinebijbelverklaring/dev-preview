@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Hebreeen
 
 ## DE BRIEF VAN DE APOSTEL PAULUS AAN DE HEBREEËN.

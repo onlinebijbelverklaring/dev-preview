@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 1 Thessalonicenzen
 
 ## DE EERSTE BRIEF VAN DE APOSTEL PAULUS AAN DE THESSALONICENZEN

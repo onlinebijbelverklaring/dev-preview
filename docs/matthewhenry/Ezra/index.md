@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Ezra
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK EZRA

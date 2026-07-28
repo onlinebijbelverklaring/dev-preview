@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 3 Johannes
 
 ## DE DERDE BRIEF VAN DE APOSTEL JOHANNES

@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Nahum
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK VAN DE PROFEET NAHUM

@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Hebreeen
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN DE BRIEF AAN DE HEBREEËN.

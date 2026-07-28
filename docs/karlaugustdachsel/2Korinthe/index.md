@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 2 Korinthe
 
 ## DE TWEEDE BRIEF VAN PAULUS AAN DE CORINTHIËRS

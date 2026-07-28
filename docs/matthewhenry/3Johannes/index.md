@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 3 Johannes
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN, VAN DE DERDE BRIEF VAN de APOSTEL JOHANNES.

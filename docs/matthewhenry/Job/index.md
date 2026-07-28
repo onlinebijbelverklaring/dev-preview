@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Job
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK JOB

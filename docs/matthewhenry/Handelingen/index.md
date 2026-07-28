@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Handelingen
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN DE HANDELINGEN DER APOSTELEN

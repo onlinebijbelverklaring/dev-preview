@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Efeze
 
 ## DE BRIEF VAN DE APOSTEL PAULUS AAN DIE VAN EFEZE

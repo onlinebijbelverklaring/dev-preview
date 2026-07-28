@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Openbaring
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN, VAN DE OPENBARING VAN JOHANNES.

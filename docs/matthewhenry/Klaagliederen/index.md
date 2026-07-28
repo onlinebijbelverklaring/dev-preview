@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Klaagliederen
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN DE KLAAGLIEDEREN VAN JEREMIA

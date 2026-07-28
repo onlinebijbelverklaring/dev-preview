@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Obadja
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK VAN DE PROFEET OBADJA

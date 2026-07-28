@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 1 Petrus
 
 ## DE EERSTE ALGEMENE BRIEF VAN DE APOSTEL PETRUS

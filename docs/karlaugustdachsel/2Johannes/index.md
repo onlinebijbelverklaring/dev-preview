@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 2 Johannes
 
 ## DE TWEEDE BRIEF VAN DE APOSTEL JOHANNES

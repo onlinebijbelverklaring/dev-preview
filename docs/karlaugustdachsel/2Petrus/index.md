@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 2 Petrus
 
 DE TWEEDE ALGEMENE BRIEF VAN DE APOSTEL PETRUS

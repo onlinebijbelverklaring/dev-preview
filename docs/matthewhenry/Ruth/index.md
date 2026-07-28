@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Ruth
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK RUTH

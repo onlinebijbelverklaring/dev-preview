@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Esther
 
 ## EEN VERKLARING MET PRAKICALE OPMERKINGEN VAN HET BOEK ESTHER

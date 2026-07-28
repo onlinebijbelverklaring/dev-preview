@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Psalmen
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK DER PSALMEN

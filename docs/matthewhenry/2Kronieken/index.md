@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 2 Kronieken
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET TWEEDE BOEK DER KRONIEKEN

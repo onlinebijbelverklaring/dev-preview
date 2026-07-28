@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 1 Johannes
 
 ## DE EERSTE ALGEMENE BRIEF VAN DE APOSTEL JOHANNES

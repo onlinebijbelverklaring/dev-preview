@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Richteren
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK RICHTEREN

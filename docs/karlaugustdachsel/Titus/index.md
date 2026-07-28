@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Titus
 
 ## DE ZENDBRIEF VAN DE APOSTEL PAULUS AAN TITUS

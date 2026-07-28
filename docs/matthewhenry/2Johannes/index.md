@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # 2 Johannes
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN, VAN DE TWEEDE BRIEF VAN de APOSTEL JOHANNES.

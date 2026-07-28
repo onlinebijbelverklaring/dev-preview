@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Daniel
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK DANIËL

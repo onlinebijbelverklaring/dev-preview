@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Kolossenzen
 
 ## DE BRIEF VAN DE APOSTEL PAULUS AAN DE COLOSSENZEN

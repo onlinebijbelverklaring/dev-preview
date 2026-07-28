@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Nehemia
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK NEHÉMIA

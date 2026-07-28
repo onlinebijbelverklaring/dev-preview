@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Amos
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK VAN DE PROFEET AMOS

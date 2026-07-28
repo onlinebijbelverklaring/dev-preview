@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Jakobus
 
 ## DE ALGEMENE BRIEF VAN DE APOSTEL JAKOBUS

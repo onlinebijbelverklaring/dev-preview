@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Galaten
 
 ## DE BRIEF VAN DE APOSTEL PAULUS AAN DE GALATEN

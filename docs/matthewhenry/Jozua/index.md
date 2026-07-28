@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Jozua
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK JOZUA

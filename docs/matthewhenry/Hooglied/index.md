@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Hooglied
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET HOOGLIED VAN SALOMO

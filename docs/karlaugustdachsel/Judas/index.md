@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Judas
 
 ## DE ALGEMENE BRIEF VAN DE APOSTEL JUDAS

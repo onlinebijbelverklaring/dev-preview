@@ -1,3 +1,7 @@
+---
+icon: lucide/book
+---
+
 # Prediker
 
 ## EEN VERKLARING MET PRAKTISCHE OPMERKINGEN VAN HET BOEK PREDIKER
