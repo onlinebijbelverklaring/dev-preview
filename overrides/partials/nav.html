@@ -1,0 +1,42 @@
+<nav class="md-nav md-nav--primary" aria-label="{{ lang.t('nav') }}" data-md-level="0">
+  
+  <label class="md-nav__title" for="__drawer">
+    <a href="{{ config.extra.homepage | default(nav.homepage.url, true) | url }}" title="{{ config.site_name | e }}" class="md-nav__button md-logo" aria-label="{{ config.site_name | e }}" data-md-component="logo">
+      {% include "partials/logo.html" %}
+    </a>
+    {{ config.site_name }}
+  </label>
+
+  <div class="md-nav__item--fontsize">
+    <span class="fontsize-label">Tekstgrootte</span>
+    <div class="fontsize-buttons">
+      <button type="button" 
+              class="md-icon md-button--icon" 
+              title="Lettergrootte verkleinen" 
+              onclick="changeFontSize(-1)">
+        {% include ".icons/material/format-font-size-decrease.svg" %}
+      </button>
+
+      <button type="button" 
+              class="md-icon md-button--icon" 
+              title="Lettergrootte herstellen" 
+              onclick="resetFontSize()">
+        {% include ".icons/material/format-size.svg" %}
+      </button>
+
+      <button type="button" 
+              class="md-icon md-button--icon" 
+              title="Lettergrootte vergroten" 
+              onclick="changeFontSize(1)">
+        {% include ".icons/material/format-font-size-increase.svg" %}
+      </button>
+    </div>
+  </div>
+
+  <ul class="md-nav__list" data-md-scrollfix>
+    {% for item in nav %}
+      {% set path = "partials/nav-item.html" %}
+      {% include path with context %}
+    {% endfor %}
+  </ul>
+</nav>

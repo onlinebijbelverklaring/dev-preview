@@ -27,16 +27,10 @@
     </div>
     
     {% if config.theme.palette %}
-      {% if config.theme.palette is mapping %}
-        {% include "partials/palette.html" %}
-      {% else %}
-        {% for palette in config.theme.palette %}
-          {% include "partials/palette.html" %}
-        {% endfor %}
-      {% endif %}
+      {% include "partials/palette.html" %}
     {% endif %}
 
-<div class="md-header__option md-header__option--fontsize">
+    <div class="md-header__option md-header__option--fontsize">
       <button type="button" 
               class="md-header__button md-icon" 
               title="Lettergrootte verkleinen" 
