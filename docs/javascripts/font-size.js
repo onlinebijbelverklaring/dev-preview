@@ -1,21 +1,17 @@
-// Standaard font-size factor
+// Standaard font-size schaal (1.0 = 100% van het standaard thema)
 let currentScale = parseFloat(localStorage.getItem('user-font-scale')) || 1.0;
-const MIN_SCALE = 0.8;  // Maximaal 20% kleiner
-const MAX_SCALE = 1.4;  // Maximaal 40% groter
-const STEP = 0.05;      // Elke klik is 5% groter/kleiner
+const MIN_SCALE = 0.85; // Maximaal 15% kleiner
+const MAX_SCALE = 1.45; // Maximaal 45% groter
+const STEP = 0.05;      // Stapjes van 5%
 
 function applyFontSize() {
-    // Pas de schaal aan op het hoofdelement
-    const root = document.documentElement;
-    root.style.setProperty('--md-typeset-font-size', (0.8 * currentScale) + 'rem');
-    
-    // Directe stijlaanpassing op de content container
+    // Pas het percentage toe op het document root/body element
     const typesetElements = document.getElementsByClassName('md-typeset');
     for (let el of typesetElements) {
         el.style.fontSize = (currentScale * 100) + '%';
     }
 
-    // Onthoud de instelling in de browser
+    // Onthoud de instelling voor de volgende pagina
     localStorage.setItem('user-font-scale', currentScale);
 }
 
@@ -32,12 +28,13 @@ function resetFontSize() {
     applyFontSize();
 }
 
-// Direct toepassen bij eerste pagina-load
+// Zorg dat de grootte direct juist staat wanneer de DOM geladen is
 document.addEventListener("DOMContentLoaded", applyFontSize);
 
-// Ondersteuning voor snelle navigatie zonder herladen (Instant Navigation)
+// Ondersteuning voor Instant Navigation (SPA-navigatie)
 if (typeof location$ !== "undefined") {
     location$.subscribe(function() {
-        applyFontSize();
+        // Korte timeout om te zorgen dat de nieuwe pagina-content geladen is
+        setTimeout(applyFontSize, 10);
     });
 }
