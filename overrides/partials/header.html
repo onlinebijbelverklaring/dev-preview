@@ -1,0 +1,28 @@
+{% extends "partials/header.html" %}
+
+{% block repository %}
+  {{ super() }}
+
+  <div class="md-header__option">
+    <button type="button" 
+            class="md-header__button md-icon" 
+            title="Lettergrootte verkleinen" 
+            onclick="changeFontSize(-1)">
+      {% include ".icons/material/format-font-size-decrease.svg" %}
+    </button>
+
+    <button type="button" 
+            class="md-header__button md-icon" 
+            title="Lettergrootte herstellen" 
+            onclick="resetFontSize()">
+      {% include ".icons/material/format-size.svg" %}
+    </button>
+
+    <button type="button" 
+            class="md-header__button md-icon" 
+            title="Lettergrootte vergroten" 
+            onclick="changeFontSize(1)">
+      {% include ".icons/material/format-font-size-increase.svg" %}
+    </button>
+  </div>
+{% endblock %}

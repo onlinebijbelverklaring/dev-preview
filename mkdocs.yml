@@ -14,6 +14,10 @@ repo_url: https://github.com/onlinebijbelverklaring/onlinebijbelverklaring.githu
 edit_uri: blob/main/docs/
 repo_name: onlinebijbelverklaring.github.io
 
+# Extra JavaScript
+extra_javascript:
+  - javascripts/font-size.js
+
 # Configuration
 theme:
   font:
