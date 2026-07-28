@@ -35,7 +35,6 @@
     widgetWrapper.className = 'font-size-toc-container';
 
     widgetWrapper.innerHTML = `
-      <span class="font-size-label">Tekstgrootte</span>
       <div class="font-size-buttons">
         <button type="button" class="font-size-btn" id="fs-decrease" title="Tekst verkleinen">A-</button>
         <button type="button" class="font-size-btn" id="fs-reset" title="Herstellen naar 100%">100%</button>
