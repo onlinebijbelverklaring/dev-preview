@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Zensical / Material Content Font Resizer (TOC Integratie)
+   Zensical / Material Content Font Resizer (Inline SVGs in TOC)
    ========================================================================== */
 
 (function () {
@@ -20,7 +20,7 @@
 
   // Injecteer de knoppen direct bovenaan de TOC-sidebar (boven de titel)
   function injectWidgetInTOC() {
-    // Verwijder eventuele oude zwevende widget als die er nog is
+    // Oude zwevende widget opruimen indien aanwezig
     const oldFloatingWidget = document.getElementById('font-size-widget');
     if (oldFloatingWidget) oldFloatingWidget.remove();
 
@@ -34,15 +34,26 @@
     const widgetWrapper = document.createElement('div');
     widgetWrapper.className = 'font-size-toc-container';
 
+    // Inline Lucide SVG iconen: a-arrow-down, rotate-ccw, a-arrow-up
+    const iconArrowDown = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-a-arrow-down"><path d="M3.5 13h6"/><path d="m2 16 4.5-9 4.5 9"/><path d="M18 7v9"/><path d="m14 12 4 4 4-4"/></svg>`;
+    const iconReset = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-rotate-ccw"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>`;
+    const iconArrowUp = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-a-arrow-up"><path d="M3.5 13h6"/><path d="m2 16 4.5-9 4.5 9"/><path d="M18 17V8"/><path d="m14 12 4-4 4 4"/></svg>`;
+
     widgetWrapper.innerHTML = `
       <div class="font-size-buttons">
-        <button type="button" class="font-size-btn" id="fs-decrease" title="Tekst verkleinen">A-</button>
-        <button type="button" class="font-size-btn" id="fs-reset" title="Herstellen naar 100%">100%</button>
-        <button type="button" class="font-size-btn" id="fs-increase" title="Tekst vergroten">A+</button>
+        <button type="button" class="font-size-btn" id="fs-decrease" title="Tekst verkleinen" aria-label="Tekst verkleinen">
+          ${iconArrowDown}
+        </button>
+        <button type="button" class="font-size-btn" id="fs-reset" title="Herstellen naar 100%" aria-label="Herstellen naar 100%">
+          ${iconReset}
+        </button>
+        <button type="button" class="font-size-btn" id="fs-increase" title="Tekst vergroten" aria-label="Tekst vergroten">
+          ${iconArrowUp}
+        </button>
       </div>
     `;
 
-    // Voeg toe DIRECT BOVEN de TOC-titel
+    // Injecteer direct boven de titel van de TOC
     const tocTitle = tocContainer.querySelector('.md-nav__title');
     if (tocTitle) {
       tocContainer.insertBefore(widgetWrapper, tocTitle);
@@ -51,25 +62,25 @@
     }
 
     // Event listeners koppelen
-    widgetWrapper.querySelector('#fs-decrease').addEventListener('click', function() {
+    widgetWrapper.querySelector('#fs-decrease').addEventListener('click', function () {
       applyScale(currentIndex - 1);
     });
     
-    widgetWrapper.querySelector('#fs-reset').addEventListener('click', function() {
+    widgetWrapper.querySelector('#fs-reset').addEventListener('click', function () {
       applyScale(1);
     });
     
-    widgetWrapper.querySelector('#fs-increase').addEventListener('click', function() {
+    widgetWrapper.querySelector('#fs-increase').addEventListener('click', function () {
       applyScale(currentIndex + 1);
     });
 
     applyScale(currentIndex);
   }
 
-  // Direct schaal toepassen tegen flikkeren
+  // Schaal direct toepassen bij het eerste laden
   applyScale(currentIndex);
 
-  // Zorg voor compatibiliteit met instant page loading van Zensical/Material
+  // Ondersteuning voor Zensical instant navigation
   if (typeof document$ !== 'undefined') {
     document$.subscribe(injectWidgetInTOC);
   } else {
