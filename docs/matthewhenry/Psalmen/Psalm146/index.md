@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 146
 
 1. HALLELUJAH. O mijn ziel, prijs den HEERE.

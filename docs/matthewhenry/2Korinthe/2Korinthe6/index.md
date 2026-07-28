@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 6
 
 1. EN wij als medearbeidende, bidden u ook, dat gij de genade Gods niet tevergeefs moogt ontvangen hebben.

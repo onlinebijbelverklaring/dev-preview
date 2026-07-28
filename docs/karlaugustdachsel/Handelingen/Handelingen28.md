@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 28
 
 PAULUS WONDERDAAD OP HET EILAND MELITE. AANKOMST TE ROME.

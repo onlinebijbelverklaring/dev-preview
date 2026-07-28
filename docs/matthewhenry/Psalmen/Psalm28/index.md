@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 28
 
 1. EEN psalm van David. Tot U roep ik, HEERE; mijn Rotssteen, houd U niet als doof van mij af; opdat ik niet, zo Gij U van mij stilhoudt, vergeleken worde met degenen die in den kuil nederdalen.

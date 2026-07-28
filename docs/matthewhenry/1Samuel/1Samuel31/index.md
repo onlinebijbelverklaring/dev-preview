@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 31
 
 1. De Filistijnen dan streden tegen Israël; en de mannen Israëls vloden voor het aangezicht der Filistijnen, en vielen verslagen op het gebergte Gilboa. 

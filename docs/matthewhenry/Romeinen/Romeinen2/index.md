@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 2
 
 1. DAAROM zijt gij niet te verontschuldigen, o mens, wie gij zijt, die anderen oordeelt; want waarin gij een ander oordeelt, veroordeelt gij uzelven; want gij, die anderen oordeelt, doet dezelfde dingen.

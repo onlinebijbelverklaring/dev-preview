@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Johannes 1
 
 1. De ouderling aan de uitverkoren vrouwe en aan haar kinderen, die ik in waarheid liefheb, en niet alleen ik, maar ook allen, die de waarheid gekend hebben; 

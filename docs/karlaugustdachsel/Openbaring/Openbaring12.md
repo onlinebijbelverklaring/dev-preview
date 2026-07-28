@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 12
 
 ## V. Vers 1-17

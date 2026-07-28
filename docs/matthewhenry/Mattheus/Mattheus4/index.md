@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 4
 
 1. TOEN werd Jezus van den Geest weggeleid in de woestijn, om verzocht te worden van den duivel.

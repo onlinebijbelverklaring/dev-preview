@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 26
 
 GEDREIGDE VLOEK EN BELOOFDE ZEGEN.

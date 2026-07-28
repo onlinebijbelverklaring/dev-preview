@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 142
 
 1. EEN onderwijzing van David, een gebed, als hij in de spelonk was.

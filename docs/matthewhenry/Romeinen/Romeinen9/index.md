@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 9
 
 1. IK zeg de waarheid in Christus, ik lieg niet (mijn consciëntie mij medegetuigenis gevende door den Heiligen Geest),

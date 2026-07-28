@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 72
 
 1. VOOR Sálomo. O God, geef den koning Uw rechten, en Uw gerechtigheid den zoon des konings.

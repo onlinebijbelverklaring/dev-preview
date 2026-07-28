@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 21
 
 1. Het geschiedde nu na deze dingen, alzo Naboth, een Jizreëliet, een wijngaard had, die te Jizreël was, bij het paleis van Achab, de koning van Samaria. 

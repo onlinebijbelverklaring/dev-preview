@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 44
 
 1. MAAR hoor nu, Mijn knecht Jakob, en Israël, dien Ik verkoren heb.

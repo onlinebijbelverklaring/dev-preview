@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 2
 
 1. SCHRIJF aan den engel der gemeente van Éfeze: Dit zegt Hij Die de zeven sterren in Zijn rechterhand houdt, Die in het midden der zeven gouden kandelaren wandelt:

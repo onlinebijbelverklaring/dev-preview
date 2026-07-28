@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 48
 
 JAKOBS TESTAMENT TEN AANZlEN VAN EFRAIM EN MANASSE.

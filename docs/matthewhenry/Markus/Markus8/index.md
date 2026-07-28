@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 8
 
 1. IN dezelve dagen, als er een geheel grote schare was, en zij niet hadden wat zij eten zouden, riep Jezus Zijn discipelen tot Zich en zeide tot hen:

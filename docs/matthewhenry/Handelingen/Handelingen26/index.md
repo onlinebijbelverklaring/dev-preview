@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 26
 
 1. EN Agrippa zeide tot Paulus: Het is u geoorloofd voor uzelven te spreken. Toen strekte Paulus de hand uit, en verantwoordde zich aldus:

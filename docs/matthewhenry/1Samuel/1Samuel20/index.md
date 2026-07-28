@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 20
 
 1. Toen vluchtte David van Najoth bij Rama, en hij kwam, en zeide voor het aangezicht van Jonathan: Wat heb ik gedaan, wat is mijn misdaad, en wat is mijn zonde voor het aangezicht uws vaders, dat hij mijn ziel zoekt? 

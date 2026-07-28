@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 6
 
 1. Verder sprak God tot Mozes, en zeide tot hem: Ik ben de HEERE, 

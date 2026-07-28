@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 16
 
 1. EEN gouden kleinood van David. Bewaar mij, o God, want ik betrouw op U.

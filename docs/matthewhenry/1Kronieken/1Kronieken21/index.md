@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 21
 
 1. Toen stond de satan op tegen Israël, en hij porde David aan, dat hij Israël telde. 

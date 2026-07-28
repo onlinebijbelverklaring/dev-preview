@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Petrus 1
 
 1. SIMEON PETRUS, een dienstknecht en apostel van JEZUS CHRISTUS, aan degenen die even dierbaar geloof met ons verkregen hebben door de rechtvaardigheid van onzen God en Zaligmaker Jezus Christus:

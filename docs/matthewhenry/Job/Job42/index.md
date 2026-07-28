@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 42
 
 1. TOEN antwoordde Job den HEERE en zeide:

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 34
 
 1. Toen zeide de HEERE tot Mozes: Houw u twee stenen tafelen, gelijk de eerste waren, zo zal Ik op de tafelen schrijven dezelfde woorden, die op de eerste tafelen geweest zijn, die gij gebroken hebt. 

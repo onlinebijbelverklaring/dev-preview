@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 11
 
 1. En het geschiedde met de wederkomst van het jaar, ter tijde als de koningen uittrekken, dat David Joab, en zijn knechten met hem, en gans Israël henenzond, dat zij de kinderen Ammons verderven, en Rabba belegeren zouden. Doch David bleef te Jeruzalem. 

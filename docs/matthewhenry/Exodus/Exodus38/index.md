@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 38
 
 1. Hij maakte ook het brandofferaltaar van sittimhout; vijf ellen was deszelfs lengte, en vijf ellen zijn breedte, vierkant, en drie ellen zijn hoogte. 

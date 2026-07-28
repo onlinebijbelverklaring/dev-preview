@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 20
 
 1. DE wijn is een spotter, de sterke drank is woelachtig; al wie daarin dwaalt, zal niet wijs zijn.

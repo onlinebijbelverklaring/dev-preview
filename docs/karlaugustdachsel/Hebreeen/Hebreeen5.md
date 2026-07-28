@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 5
 
 ## III. Vers 1-Hoofdstuk 10:18

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 92
 
 1. EEN psalm, een lied, op den sabbatdag.

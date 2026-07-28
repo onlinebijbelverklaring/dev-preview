@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 9
 
 MEN MOET DE IJDELHEID VOORKOMEN EN NAAR HET BEZIT DER WIJSHEID STREVEN.

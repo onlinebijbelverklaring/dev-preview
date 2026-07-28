@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 78
 
 1. EEN onderwijzing van Asaf. O mijn volk, neem mijn leer ter ore, neigt ulieder oor tot de redenen mijns monds.

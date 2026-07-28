@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 5
 
 1. Toen kwamen alle stammen van Israël tot David te Hebron; en zij spraken, zeggende: Zie, wij, uw gebeente en uw vlees zijn wij. 

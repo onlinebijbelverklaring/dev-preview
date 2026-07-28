@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 16
 
 1. EN de farizeeën en sadduceeën tot Hem gekomen zijnde en Hem verzoekende, begeerden van Hem dat Hij hun een teken uit den hemel zou tonen.

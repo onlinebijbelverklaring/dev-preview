@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 58
 
 1. ROEP uit de keel, houd niet in, verhef uw stem als een bazuin, en verkondig Mijn volk hun overtreding, en het huis van Jakob hun zonden.

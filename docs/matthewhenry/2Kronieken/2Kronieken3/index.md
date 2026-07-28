@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 3
 
 1. En Salomo begon het huis des HEEREN te bouwen te Jeruzalem, op de berg Moria, die zijn vader David gewezen was, in de plaats, die David toebereid had, op de dorsvloer van Ornan, de Jebusiet. 

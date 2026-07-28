@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 3
 
 1. WANT zie, de Heere HEERE der heirscharen zal van Jeruzalem en van Juda wegnemen den stok en den staf, allen stok des broods en allen stok des waters;

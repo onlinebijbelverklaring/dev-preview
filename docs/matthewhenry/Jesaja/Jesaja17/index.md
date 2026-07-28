@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 17
 
 1. DE last van Damascus. Zie, Damascus zal weggenomen worden, dat zij geen stad meer zij, maar zij zal een vervallen steenhoop zijn.

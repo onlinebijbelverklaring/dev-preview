@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 38
 
 1. EEN psalm van David, om te doen gedenken.

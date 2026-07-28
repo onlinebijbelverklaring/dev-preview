@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 21
 
 ---HOOFDSTUK---21

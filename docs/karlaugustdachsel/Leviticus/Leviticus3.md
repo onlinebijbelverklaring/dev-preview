@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 3
 
 WET VAN HET DANKOFFER.

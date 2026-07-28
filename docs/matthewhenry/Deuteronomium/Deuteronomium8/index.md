@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 8
 
 1. Alle geboden, die ik u heden gebiede, zult gij waarnemen om te doen, opdat gij leeft, en vermenigvuldigt, en inkomt, en het land erft, dat de HEERE aan uw vaderen gezworen heeft. 

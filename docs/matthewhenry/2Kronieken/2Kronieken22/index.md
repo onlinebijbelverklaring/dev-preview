@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 22
 
 1. En de inwoners van Jeruzalem maakten Ahazia, zijn kleinsten zoon, koning in zijn plaats; want een bende, die met de Arabieren in het leger gekomen was, had al de eersten gedood. Ahazia dan, de zoon van Joram, de koning van Juda, regeerde. 

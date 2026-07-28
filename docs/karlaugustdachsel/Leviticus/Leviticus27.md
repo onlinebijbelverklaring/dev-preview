@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 27
 
 OVER GELOFTEN EN TIENDEN.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 1
 
 DE MENS IS MET ZIJNE AARDSE WIJSHEID NIET GELUKKIG, MAAR ENKEL IJDELHEID.

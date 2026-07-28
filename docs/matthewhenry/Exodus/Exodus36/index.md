@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 36
 
 1. Toen wrocht Bezaleel en Aholiab, en alle man, die wijs van hart was, in denwelken de HEERE wijsheid en verstand gegeven had, om te weten, hoe zij maken zouden alle werk ten dienste des heiligdoms naar alles, dat de HEERE geboden had. 

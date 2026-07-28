@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 4
 
 1. En Adam bekende Heva, zijn huisvrouw, en zij werd zwanger, en baarde, Kain, en zeide: Ik heb een man van de HEERE verkregen! 

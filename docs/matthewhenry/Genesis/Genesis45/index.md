@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 45
 
 1. Toen kon zich Jozef niet bedwingen voor allen, die bij hem stonden, en hij riep: Doet alle man van mij uitgaan! En er stond niemand bij hem, als Jozef zich aan zijn broederen bekend maakte. 

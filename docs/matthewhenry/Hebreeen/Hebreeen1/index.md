@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 1
 
 1. GOD voortijds veelmaals en op velerlei wijze tot de vaderen gesproken hebbende door de profeten, heeft in deze laatste dagen tot ons gesproken door den Zoon;

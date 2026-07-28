@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 12
 
 1. EN Hij begon door gelijkenissen tot hen te zeggen: Een mens plantte een wijngaard, en zette een tuin daarom, en groef een wijnpersbak, en bouwde een toren, en verhuurde dien aan de landlieden, en reisde buitenslands.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 1
 
 1. Welgelukzalig is de man, die niet wandelt in de raad der goddelozen, noch staat op de weg der zondaren, noch zit in het gestoelte der spotters; 

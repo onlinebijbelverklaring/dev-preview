@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 80
 
 1. VOOR den opperzangmeester, op Schóschannim; een getuigenis, een psalm van Asaf.

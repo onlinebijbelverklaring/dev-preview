@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 71
 
 1. OP U, o HEERE, betrouw ik; laat mij niet beschaamd worden in eeuwigheid.

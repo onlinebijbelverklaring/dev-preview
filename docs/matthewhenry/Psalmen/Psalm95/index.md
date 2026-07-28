@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 95
 
 1. KOMT, laat ons den HEERE vrolijk zingen, laat ons juichen den Rotssteen onzes heils.

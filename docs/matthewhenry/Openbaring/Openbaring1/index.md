@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 1
 
 1. DE openbaring van JEZUS CHRISTUS, die God Hem gegeven heeft, om Zijn dienstknechten te tonen de dingen die haast geschieden moeten, en die Hij door Zijn engel gezonden en aan Zijn dienstknecht Johannes te kennen gegeven heeft;

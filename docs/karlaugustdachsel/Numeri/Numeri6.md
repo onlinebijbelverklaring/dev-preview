@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 6
 
 WET OMTRENT DE NAZIREEERS. FORMULIER OM HET VOLK TE ZEGENEN.

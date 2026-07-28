@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 2
 
 EENVOUDIGE WIJZE VAN EVANGELIEPREDIKING

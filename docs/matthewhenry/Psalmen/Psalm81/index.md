@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 81
 
 1. VOOR den opperzangmeester, op de Gittith, een psalm van Asaf.

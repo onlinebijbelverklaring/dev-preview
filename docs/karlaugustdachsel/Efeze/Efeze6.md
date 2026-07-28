@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Efeze 6
 
 CHRISTELIJKE HUISREGELS. GEESTELIJKE WAPENS

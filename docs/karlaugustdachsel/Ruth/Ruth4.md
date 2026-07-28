@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ruth 4
 
 BOAZ' HUWELIJK MET RUTH WORDT GESLOTEN EN GEZEGEND.

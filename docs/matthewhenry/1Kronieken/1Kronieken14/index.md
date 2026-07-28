@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 14
 
 1. Toen zond Hiram, de koning van Tyrus, boden tot David, en cederenhout, en metselaars, en timmerlieden, dat zij hem een huis bouwden. 

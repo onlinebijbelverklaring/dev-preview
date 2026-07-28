@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 79
 
 1. EEN psalm van Asaf. O God, heidenen zijn gekomen in Uw erfenis, zij hebben den tempel Uwer heiligheid verontreinigd, zij hebben Jeruzalem tot steenhopen gesteld.

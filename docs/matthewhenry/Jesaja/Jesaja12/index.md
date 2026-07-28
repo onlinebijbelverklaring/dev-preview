@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 12
 
 1. EN te dienzelven dage zult gij zeggen: Ik dank U, HEERE, dat Gij toornig op mij geweest zijt, maar Uw toorn is afgekeerd, en Gij troost mij.

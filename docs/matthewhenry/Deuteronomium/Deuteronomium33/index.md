@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 33
 
 1. Dit nu is de zegen, met welken Mozes, de man Gods, de kinderen Israëls gezegend heeft, voor zijn dood. 

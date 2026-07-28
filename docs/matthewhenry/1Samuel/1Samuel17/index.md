@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 17
 
 1. En de Filistijnen verzamelden hun heir ten strijde, en verzamelden zich te Socho, dat in Juda is; en zij legerden zich tussen Socho en tussen Azeka, aan het einde van Dammim. 

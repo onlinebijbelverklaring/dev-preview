@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 133
 
 1. EEN lied Hammaäloth, van David. Zie, hoe goed en hoe lieflijk is het, dat broeders ook tezamen wonen.

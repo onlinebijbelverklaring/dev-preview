@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 32
 
 1. TOEN hielden die drie mannen op van Job te antwoorden, dewijl hij in zijn ogen rechtvaardig was.

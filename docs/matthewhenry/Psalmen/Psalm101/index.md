@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 101
 
 1. EEN psalm van David. Ik zal van goedertierenheid en recht zingen; U zal ik psalmzingen, o HEERE.

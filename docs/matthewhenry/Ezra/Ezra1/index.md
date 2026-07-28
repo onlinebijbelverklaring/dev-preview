@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezra 1
 
 1. In het eerste jaar nu van Kores, koning van Perzië, opdat volbracht wierd het woord des HEEREN, uit de mond van Jeremia, verwekte de HEERE de geest van Kores, koning van Perzië, dat hij een stem liet doorgaan door zijn ganse koninkrijk, zelfs ook in geschrift, zeggende: 

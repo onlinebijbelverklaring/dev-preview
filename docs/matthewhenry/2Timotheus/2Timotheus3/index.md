@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Timotheus 3
 
 1. EN weet dit, dat in de laatste dagen ontstaan zullen zware tijden.

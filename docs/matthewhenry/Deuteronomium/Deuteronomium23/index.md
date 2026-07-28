@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 23
 
 1. Die door plettering verwond of uitgesneden is aan de mannelijkheid, zal in de vergadering des HEEREN niet komen. 

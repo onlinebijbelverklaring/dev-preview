@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 17
 
 1. EEN droge bete en rust daarbij is beter dan een huis vol van geslachte beesten met twist.

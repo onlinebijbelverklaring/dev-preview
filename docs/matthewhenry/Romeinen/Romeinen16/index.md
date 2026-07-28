@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 16
 
 1. EN ik beveel u Fébe, onze zuster, die een dienares is der gemeente die te Kenchreeën is;

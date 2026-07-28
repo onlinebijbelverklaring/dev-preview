@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 16
 
 OVER HET INZAMELEN VAN GIFTEN VOOR DE BEHOEFTIGE CHRISTENEN TE JERUZALEM

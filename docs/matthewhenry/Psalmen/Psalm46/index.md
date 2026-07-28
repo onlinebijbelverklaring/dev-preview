@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 46
 
 1. EEN lied op Alámoth, voor den opperzangmeester, onder de kinderen van Korach.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Esther 8
 
 1. TE dienzelven dage gaf de koning Ahasvéros aan de koningin Esther het huis van Haman, den vijand der Joden; en Mórdechai kwam voor het aangezicht des konings, want Esther had te kennen gegeven wat hij van haar was.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 136
 
 1. LOOFT den HEERE, want Hij is goed; want Zijn goedertierenheid is in der eeuwigheid.

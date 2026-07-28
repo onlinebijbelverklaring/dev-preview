@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 38
 
 1. DAARNA antwoordde de HEERE Job uit een onweder en zeide:

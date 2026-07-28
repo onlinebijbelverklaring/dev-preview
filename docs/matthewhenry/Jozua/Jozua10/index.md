@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 10
 
 1. Het geschiedde nu, toen Adoni-zedek, de koning van Jeruzalem, gehoord had, dat Jozua Ai ingenomen, en haar verbannen had, en aan Ai en haar koning alzo gedaan had, gelijk als hij aan Jericho en haar koning gedaan had; en dat de inwoners van Gibeon vrede met Israël gemaakt hadden, en in derzelver midden waren; 

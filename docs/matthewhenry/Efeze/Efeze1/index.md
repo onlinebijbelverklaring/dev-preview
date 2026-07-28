@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Efeze 1
 
 1. PAULUS, een apostel van JEZUS CHRISTUS door den wil Gods, den heiligen die te Éfeze zijn, en gelovigen in Christus Jezus:

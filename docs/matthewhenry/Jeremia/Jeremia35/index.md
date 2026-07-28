@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 35
 
 1. HET woord dat tot Jeremía geschied is van den HEERE, in de dagen van Jójakim, den zoon van Josía, den koning van Juda, zeggende:

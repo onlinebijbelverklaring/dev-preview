@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 29
 
 1. Verder zeide de koning David tot de ganse gemeente: God heeft mijn zoon Salomo alleen verkoren, een jongeling en teder; dit werk daarentegen is groot, want het is geen paleis voor een mens, maar voor God, de HEERE. 

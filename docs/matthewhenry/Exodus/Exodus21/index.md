@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 21
 
 1. Dit nu zijn de rechten, die gij hun zult voorstellen. 

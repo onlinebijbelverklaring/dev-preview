@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 25
 
 1. TOEN antwoordde Bildad, de Suhiet, en zeide:

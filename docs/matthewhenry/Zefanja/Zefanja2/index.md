@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zefanja 2
 
 1. Doorzoek u zelf nauw, ja, doorzoek nauw, gij volk, dat met geen lust bevangen wordt! 

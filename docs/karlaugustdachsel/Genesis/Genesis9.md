@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 9
 
 GOD BEVESTIGT ZIJN VERBOND DOOR DE REGENBOOG.

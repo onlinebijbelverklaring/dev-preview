@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 4
 
 1. En het woord van Samuël geschiedde aan gans Israël. En Israël toog uit, de Filistijnen tegemoet, ten strijde, en legerde zich bij Eben-Haezer, maar de Filistijnen legerden zich bij Afek. 

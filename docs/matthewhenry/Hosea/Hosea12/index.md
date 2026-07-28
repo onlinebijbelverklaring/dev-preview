@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hosea 12
 
 1. Die van Efraïm hebben Mij omsingeld met leugen, en het huis Israëls met bedrog; maar Juda heerste nog met God, en was met de heiligen getrouw. 

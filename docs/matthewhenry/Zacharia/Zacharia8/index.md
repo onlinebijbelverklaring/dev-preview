@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 8
 
 1. Daarna geschiedde het woord des HEEREN der heirscharen tot mij, zeggende:

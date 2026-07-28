@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 50
 
 1. EEN psalm van Asaf. De God der goden, de HEERE spreekt, en roept de aarde, van den opgang der zon tot aan haar ondergang.

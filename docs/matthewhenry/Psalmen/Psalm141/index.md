@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 141
 
 1. EEN psalm van David. HEERE, ik roep U aan, haast U tot mij; neem mijn stem ter ore, als ik tot U roep.

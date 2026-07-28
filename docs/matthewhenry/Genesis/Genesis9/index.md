@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 9
 
 1. En God zegende Noach en zijn zonen, en Hij zeide tot hen: Zijt vruchtbaar en vermenigvuldigt, en vervult de aarde! 

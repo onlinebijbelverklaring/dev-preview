@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 4
 
 1. EN terwijl zij tot het volk spraken, kwamen daarover tot hen de priesters en de hoofdman des tempels en de sadduceeën,

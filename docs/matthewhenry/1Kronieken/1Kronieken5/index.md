@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 5
 
 1. De kinderen van Ruben nu, de eerstgeborene van Israël; (want hij was de eerstgeborene; maar dewijl hij zijns vaders bed ontheiligd had, werd zijn eerstgeboorte gegeven aan de kinderen van Jozef, de zoon van Israël; doch niet alzo, dat hij zich in het geslachtsregister naar de eerstgeboorte rekenen mocht; 

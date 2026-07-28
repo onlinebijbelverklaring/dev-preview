@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Habakuk 1
 
 INVAL DER CHALDEEN TEGEN JUDA.

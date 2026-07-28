@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Thessalonicenzen 1
 
 VERMANING AAN DE THESSALONICENZEN OM IN HET CHRISTENDOM TE VOLHARDEN

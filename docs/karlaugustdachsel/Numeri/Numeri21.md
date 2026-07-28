@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 21
 
 DE BEET VAN VURIGE SLANGEN NA HET AANSCHOUWEN VAN DE KOPEREN SLANG GEHEELD.

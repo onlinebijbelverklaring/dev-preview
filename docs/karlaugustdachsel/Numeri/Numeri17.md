@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 17
 
 AÄRONS PRIESTERSCHAP WORDT DOOR DE BLOEIENDE STAF BEVESTIGD.

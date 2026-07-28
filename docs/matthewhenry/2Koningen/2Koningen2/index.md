@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 2
 
 1. Het geschiedde nu, als de HEERE Elia met een onweder ten hemel opnemen zou, dat Elia met Elisa ging van Gilgal. 

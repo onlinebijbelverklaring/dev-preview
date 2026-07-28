@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 2
 
 1. EN na sommige dagen is Hij wederom binnen Kapérnaüm gekomen; en het werd gehoord dat Hij in huis was.

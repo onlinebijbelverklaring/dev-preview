@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 18
 
 1. En het gebeurde na vele dagen, dat het woord des HEEREN geschiedde tot Elia, in het derde jaar, zeggende: Ga heen, vertoon u aan Achab; want Ik zal regen geven op de aardbodem. 

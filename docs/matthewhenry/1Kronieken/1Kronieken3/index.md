@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 3
 
 1. Dezen nu waren de kinderen van David, die hem te Hebron geboren zijn: de eerstgeborene Amnon, van Ahinoam, de Jizreëlietische; de tweede Daniel, van Abigail, de Karmelietische; 

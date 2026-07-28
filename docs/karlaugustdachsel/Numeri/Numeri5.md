@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 5
 
 REINIGING VAN DE LEGERPLAATS. VERZOENINGS- EN IJVEROFFER.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 9
 
 1. Het geschiedde nu, als Salomo voleind had te bouwen het huis des HEEREN en het huis des konings, en al de begeerte van Salomo, die hem gelust had te maken; 

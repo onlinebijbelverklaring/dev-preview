@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 10
 
 1. EN Zijn twaalf discipelen tot Zich geroepen hebbende, heeft Hij hun macht gegeven over de onreine geesten, om dezelve uit te werpen, en om alle ziekte en alle kwaal te genezen.

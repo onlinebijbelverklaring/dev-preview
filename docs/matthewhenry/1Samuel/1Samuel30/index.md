@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 30
 
 1. Het geschiedde nu, als David en zijn mannen de derden dag te Ziklag kwamen, dat de Amalekieten in het zuiden en te Ziklag ingevallen waren, en Ziklag geslagen, en dezelve met vuur verbrand hadden; 

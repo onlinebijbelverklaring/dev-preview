@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 144
 
 1. EEN psalm van David. Gezegend zij de HEERE, mijn Rotssteen, Die mijn handen onderwijst ten strijde, mijn vingeren ten oorlog;

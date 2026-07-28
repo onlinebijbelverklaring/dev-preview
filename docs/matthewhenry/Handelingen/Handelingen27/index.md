@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 27
 
 1. EN als het besloten was dat wij naar Italië zouden afvaren, leverden zij Paulus en enige andere gevangenen over aan een hoofdman over honderd, met name Július, van de keizerlijke bende.

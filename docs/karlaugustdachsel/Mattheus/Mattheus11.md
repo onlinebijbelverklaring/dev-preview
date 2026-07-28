@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 11
 
 ***1. En het is geschied, toen Jezus geëindigd had Zijn twaalf discipelen bevelen te geven, dat Hij van daar voortging (MATTHEUS. 9: 27), terwijl zij zich werkelijk op de hun aangewezen weg begaven en hun werk verrichtten (Mark. 6: 12vv. Luk. 9: 6), alleen vergezeld door Zijn discipelen in de ruimere zin van het woord om te leren en te prediken in hun steden, de steden van Galilea, waaruit de meeste apostelen afkomstig waren.***

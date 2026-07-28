@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 10
 
 CHRISTUS DE GOEDE HERDER EN ZIJNE SCHAPEN. OF HIJ DE MESSIAS WAS

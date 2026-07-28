@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 24
 
 1. Abraham nu was oud en wel bedaagd; en de HEERE had Abraham in alles gezegend. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 22
 
 1. ALZO zegt de HEERE: Ga af in het huis des konings van Juda, en spreek aldaar dit woord,

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 8
 
 1. Elisa nu had gesproken tot die vrouw, welker zoon hij levend gemaakt had, zeggende: Maak u op, en ga heen, gij en uw huisgezin, en verkeer als vreemdeling, waar gij verkeren kunt; want de HEERE heeft een honger geroepen, die ook in het land zeven jaren komen zal. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 1
 
 1. PAULUS, een geroepen apostel van JEZUS CHRISTUS door den wil Gods, en Sósthenes, de broeder,

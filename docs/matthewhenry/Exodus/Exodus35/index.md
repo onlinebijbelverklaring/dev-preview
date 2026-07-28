@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 35
 
 1. Toen deed Mozes de ganse vergadering der kinderen Israëls verzamelen, en zeide tot hen: Dit zijn de woorden, die de HEERE geboden heeft, dat men ze doe. 

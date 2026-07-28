@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 3
 
 1. Daarna toonde Hij mij Josua, de hogepriester, staande voor het aangezicht van de Engel des HEEREN; en de satan stond aan zijn rechterhand, om hem te wederstaan. 

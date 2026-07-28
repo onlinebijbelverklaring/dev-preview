@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 8
 
 1. En de HEERE sprak tot Mozes, zeggende: 

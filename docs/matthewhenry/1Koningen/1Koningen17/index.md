@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 17
 
 1. En Elia, de Thisbiet, van de inwoneren van Gilead, zeide tot Achab: Zo waarachtig als de HEERE, de God Israëls, leeft, voor Wiens aangezicht ik sta, indien deze jaren dauw of regen zijn zal, tenzij dan naar mijn woord! 

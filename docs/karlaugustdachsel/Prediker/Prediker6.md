@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 6
 
 GIERIGHEID EN WERELDSE EER ZIJN IJDEL.

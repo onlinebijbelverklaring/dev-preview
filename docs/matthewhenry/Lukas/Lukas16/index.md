@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 16
 
 1. EN Hij zeide ook tot Zijn discipelen: Er was een zeker rijk mens, welke een rentmeester had; en deze werd bij hem verklaagd, als die zijn goederen doorbracht.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 10
 
 1. En de zonen van Aäron, Nadab en Abihu, namen een ieder zijn wierookvat, en deden vuur daarin, en leiden reukwerk daarop, en brachten vreemd vuur voor het aangezicht des HEEREN, hetwelk hij hen niet geboden had. 

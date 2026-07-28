@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Thessalonicenzen 1
 
 1. PAULUS en Silvánus en Timótheüs aan de gemeente der Thessalonicenzen, welke is in God onzen Vader en den Heere Jezus Christus:

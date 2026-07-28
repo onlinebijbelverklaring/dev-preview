@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 8
 
 1. VERDER zeide de HEERE tot mij: Neem u een grote rol; en schrijf daarop met eens mensen griffie: Haastende tot den roof, is hij spoedig tot den buit.

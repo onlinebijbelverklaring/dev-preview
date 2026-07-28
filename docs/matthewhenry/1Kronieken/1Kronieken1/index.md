@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 1
 
 1. Adam, Seth, Enos, 

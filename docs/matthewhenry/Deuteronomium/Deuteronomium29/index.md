@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 29
 
 1. Dit zijn de woorden des verbonds, dat de HEERE Mozes geboden heeft te maken met de kinderen Israëls, in het land van Moab, boven het verbond, dat Hij met hen gemaakt had aan Horeb. 

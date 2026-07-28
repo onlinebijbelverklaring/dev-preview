@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 9
 
 1. EN de vijfde engel heeft gebazuind, en ik zag een ster, gevallen uit den hemel op de aarde, en haar werd gegeven de sleutel van den put des afgronds.

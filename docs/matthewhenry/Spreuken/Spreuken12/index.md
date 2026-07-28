@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 12
 
 1. WIE de tucht liefheeft, die heeft de wetenschap lief, maar wie de bestraffing haat, is onvernuftig.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 14
 
 1. Dit is nu hetgeen de kinderen Israëls geerfd hebben in het land Kanaän; hetwelk de priester Eleazar, en Jozua, de zoon van Nun, en de hoofden der vaderen van de stammen der kinderen Israëls, hun hebben doen erven; 

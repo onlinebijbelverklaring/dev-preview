@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Thessalonicenzen 2
 
 VOORSPELLING VAN DE ANTICHRIST VOOR DE LAATSTE TOEKOMST VAN DE HEERE

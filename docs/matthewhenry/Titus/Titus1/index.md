@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Titus 1
 
 1. PAULUS, een dienstknecht Gods en een apostel van JEZUS CHRISTUS, naar het geloof der uitverkorenen Gods, en de kennis der waarheid, die naar de godzaligheid is,

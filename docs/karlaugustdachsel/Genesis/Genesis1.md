@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 1
 
 ## I. Vers 1 en 2 

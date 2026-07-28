@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 22
 
 1. En het geschiedde na deze dingen, dat God Abraham verzocht; en Hij zeide tot hem: Abraham! En hij zeide: Zie, hier ben ik! 

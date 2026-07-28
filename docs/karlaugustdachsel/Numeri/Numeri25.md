@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 25
 
 AFGODERIJ EN HOERERIJ ERNSTIG BESTRAFT.

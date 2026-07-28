@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 1
 
 1. PAULUS, een dienstknecht van JEZUS CHRISTUS, een geroepen apostel, afgezonderd tot het Evangelie Gods

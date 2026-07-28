@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 56
 
 1. EEN gouden kleinood van David, voor den opperzangmeester, op Jonath Elem Rechokim; als de Filistijnen hem gegrepen hadden te Gath.

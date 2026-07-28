@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 15
 
 1. DE last van Moab. Zekerlijk, in den nacht is Ar-Moabs verwoest, zij is uitgeroeid; zekerlijk, in den nacht is Kir-Moabs verwoest, zij is uitgeroeid.

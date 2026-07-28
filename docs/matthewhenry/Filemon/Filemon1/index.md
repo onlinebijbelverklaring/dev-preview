@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Filemon 1
 
 1. PAULUS, een gevangene van CHRISTUS JEZUS, en Timótheüs, de broeder, aan Filémon, den geliefde, en onzen medearbeider,

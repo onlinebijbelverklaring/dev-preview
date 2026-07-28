@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 97
 
 1. DE HEERE regeert, de aarde verheuge zich; dat vele eilanden zich verblijden.

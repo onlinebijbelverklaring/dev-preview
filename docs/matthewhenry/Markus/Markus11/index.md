@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 11
 
 1. EN toen zij Jeruzalem genaakten, te Bethfagé en Bethanië aan den Olijfberg, zond Hij twee van Zijn discipelen uit,

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 22
 
 1. TOEN antwoordde Elifaz, de Themaniet, en zeide:

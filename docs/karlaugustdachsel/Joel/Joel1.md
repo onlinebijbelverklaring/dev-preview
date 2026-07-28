@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Joel 1
 
 AANKONDIGING VAN GODS STRAFFEN AAN DE JODEN.

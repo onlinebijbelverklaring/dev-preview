@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 17
 
 PLAATS VOOR DE OFFERS BESTEMD. HET GEBRUIK VAN BLOED VERBODEN.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 31
 
 1. WEE dengenen die in Egypte om hulp aftrekken, en steunen op paarden, en vertrouwen op wagens, omdat er vele zijn, en op ruiters, omdat die zeer machtig zijn; en zien niet op den Heilige Israëls en zoeken den HEERE niet.

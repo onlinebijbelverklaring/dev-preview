@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 3
 
 1. En Mozes hoedde de kudde van Jethro, zijn schoonvader, de priester in Midian; en hij leidde de kudde achter de woestijn, en hij kwam aan de berg Gods, aan Horeb. 

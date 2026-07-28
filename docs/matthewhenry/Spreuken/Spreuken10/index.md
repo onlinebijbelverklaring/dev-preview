@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 10
 
 1. DE spreuken van Sálomo. Een wijs zoon verblijdt den vader, maar een zot zoon is zijner moeder droefheid.

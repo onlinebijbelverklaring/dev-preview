@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 125
 
 1. EEN lied Hammaäloth. Die op den HEERE vertrouwen, zijn als de berg Sion, die niet wankelt, maar blijft in eeuwigheid.

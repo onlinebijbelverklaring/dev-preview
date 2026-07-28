@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 21
 
 1. EN als zij nu Jeruzalem genaakten en gekomen waren te Bethfagé, aan den Olijfberg, toen zond Jezus twee discipelen, zeggende tot hen:

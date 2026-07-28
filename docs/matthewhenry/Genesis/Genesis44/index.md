@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 44
 
 1. En hij gebood dengene, die over zijn huis was, zeggende: Vul de zakken dezer mannen met spijze, naar dat zij zullen kunnen dragen, en leg ieders mans geld in de mond van zijn zak; 

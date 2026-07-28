@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 12
 
 !!! note "Gedeelte mist in digitale bronnen"

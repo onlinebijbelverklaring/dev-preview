@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 27
 
 1. Gij zult ook een altaar maken van sittimhout; vijf ellen zal de lengte zijn, en vijf ellen de breedte (vierkant zal dit altaar zijn), en drie ellen zijn hoogte. 

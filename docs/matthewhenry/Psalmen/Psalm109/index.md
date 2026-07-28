@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 109
 
 1. EEN psalm van David, voor den opperzangmeester. O God mijns lofs, zwijg niet.

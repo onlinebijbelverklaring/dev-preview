@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 2
 
 AARDSE GENIETINGEN ZIJN IJDEL.

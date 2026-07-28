@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 20
 
 MOZES ONTVANGT DE TIEN GEBODEN VAN GOD.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 84
 
 1. VOOR den opperzangmeester, op de Gittith; een psalm voor de kinderen van Korach.

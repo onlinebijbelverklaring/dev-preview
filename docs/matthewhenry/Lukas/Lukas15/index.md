@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 15
 
 1. EN al de tollenaars en de zondaars naderden tot Hem om Hem te horen.

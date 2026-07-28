@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 23
 
 1. Toen nu David oud was en zat van dagen, maakte hij zijn zoon Salomo tot koning over Israël. 

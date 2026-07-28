@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 18
 
 1. JEZUS dit gezegd hebbende, ging uit met Zijn discipelen over de beek Kidron, waar een hof was, in welken Hij ging en Zijn discipelen.

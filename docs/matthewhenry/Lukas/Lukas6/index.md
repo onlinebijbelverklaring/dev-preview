@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 6
 
 1. EN het geschiedde op den tweeden eersten sabbat, dat Hij door het gezaaide ging, en Zijn discipelen plukten aren, en aten ze, die wrijvende met de handen.

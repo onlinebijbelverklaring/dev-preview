@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 7
 
 1. MIJN zoon, bewaar mijn redenen, en leg mijn geboden bij u weg.

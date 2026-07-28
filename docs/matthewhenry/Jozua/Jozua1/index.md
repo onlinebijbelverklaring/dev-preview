@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 1
 
 1. Het geschiedde nu, na de dood van Mozes, de knecht des HEEREN, dat de HEERE tot Jozua, de zoon van Nun, de dienaar van Mozes, sprak, zeggende: 

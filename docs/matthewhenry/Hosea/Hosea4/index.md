@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hosea 4
 
 1. Hoort des HEEREN woord, gij kinderen Israëls! want de HEERE heeft een twist met de inwoners des lands, omdat er geen trouw, en geen weldadigheid, en geen kennis van God in het land is; 

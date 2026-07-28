@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 28
 
 1. WEE de hovaardige kroon der dronkenen van Efraïm, welks heerlijk sieraad is een afvallende bloem, die daar is op het hoofd der zeer vette vallei, der geslagenen van den wijn.

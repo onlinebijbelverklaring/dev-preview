@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 39
 
 1. Zij maakten ook ambtsklederen, om in het heilige te dienen, van hemelsblauw, en purper, en scharlaken; ook maakten zij de heilige klederen, die voor Aaron waren, gelijk de HEERE aan Mozes geboden had. 

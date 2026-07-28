@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 52
 
 1. EEN onderwijzing van David, voor den opperzangmeester;

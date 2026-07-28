@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 12
 
 1. TE roemen is mij waarlijk niet oorbaar; want ik zal komen tot gezichten en openbaringen des Heeren.

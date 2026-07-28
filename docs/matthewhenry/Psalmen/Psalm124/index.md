@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 124
 
 1. EEN lied Hammaäloth, van David. Tenware de HEERE, Die bij ons geweest is, zegge nu Israël,

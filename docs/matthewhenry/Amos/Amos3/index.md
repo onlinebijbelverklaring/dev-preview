@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Amos 3
 
 1. Hoort dit woord, dat de HEERE tegen ulieden spreekt, gij kinderen van Israël! namelijk tegen het ganse geslacht, dat Ik uit Egypteland heb opgevoerd, zeggende:

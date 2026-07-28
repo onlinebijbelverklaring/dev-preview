@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 27
 
 1. BEROEM u niet over den dag van morgen, want gij weet niet wat de dag zal baren.

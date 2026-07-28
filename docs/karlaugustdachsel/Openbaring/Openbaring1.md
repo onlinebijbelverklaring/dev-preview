@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 1
 
 VERBORGENHEID VAN DE ZEVEN KANDELAREN EN DE ZEVEN STERREN

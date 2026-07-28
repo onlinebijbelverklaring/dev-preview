@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 11
 
 1. Toen nu Athalia, de moeder van Ahazia, zag, dat haar zoon dood was, zo maakte zij zich op, en bracht al het koninklijke zaad om. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 33
 
 1. Manasse was twaalf jaren oud, als hij koning werd, en regeerde vijf en vijftig jaren te Jeruzalem. 

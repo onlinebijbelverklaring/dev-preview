@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 10
 
 BEKERING VAN DE HOOFDMAN CORNELIUS OP DE PREDIKING VAN PETRUS

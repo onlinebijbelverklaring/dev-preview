@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 1
 
 1. Voorts sprak de HEERE tot Mozes, in de woestijn van Sinai, in de tent der samenkomst, op de eersten der tweede maand, in het tweede jaar, nadat zij uit Egypteland uitgetogen ware, zeggende: 

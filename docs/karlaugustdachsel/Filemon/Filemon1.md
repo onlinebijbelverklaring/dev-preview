@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Filemon 1
 
 PAULUS VOORBEDE VOOR ONESIMUS, DE BEKEERDE DIENSTKNECHT

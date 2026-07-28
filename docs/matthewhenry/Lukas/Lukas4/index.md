@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 4
 
 1. EN Jezus, vol des Heiligen Geestes, keerde weder van de Jordaan, en werd door den Geest geleid in de woestijn,

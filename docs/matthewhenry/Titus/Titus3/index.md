@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Titus 3
 
 1. VERMAAN hen dat zij den overheden en machten onderdanig zijn, dat zij hun gehoorzaam zijn, dat zij tot alle goed werk bereid zijn;

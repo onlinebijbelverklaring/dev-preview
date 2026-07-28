@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 20
 
 ---HOOFDSTUK---20

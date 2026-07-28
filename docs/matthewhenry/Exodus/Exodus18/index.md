@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 18
 
 1. Toen Jethro, priester van Midian, schoonvader van Mozes, hoorde al wat God aan Mozes, en aan Israël, Zijn volk, gedaan had: dat de HEERE Israël uit Egypte uitgevoerd had; 

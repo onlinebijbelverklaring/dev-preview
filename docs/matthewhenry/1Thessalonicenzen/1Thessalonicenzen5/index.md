@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Thessalonicenzen 5
 
 1. MAAR van de tijden en de gelegenheden, broeders, hebt gij niet van node dat men u schrijft.

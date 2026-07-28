@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 2
 
 1. En het geschiedde daarna, dat David de HEERE vraagde, zeggende: Zal ik optrekken in een der steden van Juda? En de HEERE zeide tot hem: Trek op. En David zeide: Waarheen zal ik optrekken? En Hij zeide: Naar Hebron. 

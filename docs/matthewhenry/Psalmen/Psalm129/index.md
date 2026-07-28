@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 129
 
 1. EEN lied Hammaäloth. Zij hebben mij dikwijls benauwd van mijn jeugd af, zegge nu Israël;

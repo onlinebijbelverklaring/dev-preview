@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 13
 
 AANMANING TOT BEKERING

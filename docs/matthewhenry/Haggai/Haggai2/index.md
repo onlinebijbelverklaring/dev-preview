@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Haggai 2
 
 1. Op de vier en twintigsten dag der maand, in de zesde maand, in het tweede jaar van de koning Darius. 

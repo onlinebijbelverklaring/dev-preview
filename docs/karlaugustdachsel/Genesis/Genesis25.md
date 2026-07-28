@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 25
 
 ABRAHAMS TWEEDE HUWELIJK. ISMAELS EN ISAAK’S ZONEN.

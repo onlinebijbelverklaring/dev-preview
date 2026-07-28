@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 24
 
 1. ZIE, de HEERE maakt het land ledig en Hij maakt het woest, en Hij keert deszelfs gestaltenis om en Hij verstrooit zijn inwoners.

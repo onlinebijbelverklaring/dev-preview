@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 14
 
 1. DE mens, van een vrouw geboren, is kort van dagen en zat van onrust.

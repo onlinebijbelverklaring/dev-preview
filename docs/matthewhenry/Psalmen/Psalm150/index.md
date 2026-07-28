@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 150
 
 1. HALLELUJAH. Looft God in Zijn heiligdom; looft Hem in het uitspansel Zijner sterkte.

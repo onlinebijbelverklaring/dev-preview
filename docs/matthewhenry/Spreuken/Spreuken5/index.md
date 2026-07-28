@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 5
 
 1. MIJN zoon, merk op mijn wijsheid; neig uw oor tot mijn verstand;

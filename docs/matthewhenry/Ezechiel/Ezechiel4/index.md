@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 4
 
 1. EN gij, mensenkind, neem u een tichelsteen, en leg dien voor uw aangezicht, en bewerp daarop de stad Jeruzalem.

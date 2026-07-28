@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 68
 
 1. EEN psalm, een lied van David, voor den opperzangmeester.

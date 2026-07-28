@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 10
 
 1. VOORWAAR, voorwaar zeg Ik ulieden: Die niet ingaat door de deur in den stal der schapen, maar van elders inklimt, die is een dief en moordenaar.

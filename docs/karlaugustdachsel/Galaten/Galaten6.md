@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Galaten 6
 
 HET BEOEFENEN VAN ZACHTMOEDIGHEID EN MILDDADIGHEID

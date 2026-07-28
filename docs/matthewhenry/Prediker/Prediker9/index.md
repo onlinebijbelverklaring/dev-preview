@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 9
 
 1. ZEKERLIJK, dit alles heb ik in mijn hart gelegd, opdat ik dit alles klaarlijk mocht verstaan, dat de rechtvaardigen en de wijzen en hun werken in de hand Gods zijn; ook liefde, ook haat weet de mens niet uit al hetgeen dat voor zijn aangezicht is.

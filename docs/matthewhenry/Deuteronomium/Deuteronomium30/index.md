@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 30
 
 1. Voorts zal het geschieden, wanneer al deze dingen over u zullen gekomen zijn, deze zegen of deze vloek, die ik u voorgesteld heb; zo zult gij het weder ter harte nemen, onder alle volken, waarheen u de HEERE, uw God, gedreven heeft; 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 3
 
 GODS VOORZIENIGHEID LEERT NU, DAT DE HEIDENSE ZORG VOOR DE VOEDING IJDEL IS.

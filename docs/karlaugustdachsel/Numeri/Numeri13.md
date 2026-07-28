@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 13
 
 DE VERSPIEDERS VAN HET LAND KANAÄN.

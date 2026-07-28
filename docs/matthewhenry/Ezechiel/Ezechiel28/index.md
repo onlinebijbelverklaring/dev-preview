@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 28
 
 1. VOORTS geschiedde des HEEREN woord tot mij, zeggende:

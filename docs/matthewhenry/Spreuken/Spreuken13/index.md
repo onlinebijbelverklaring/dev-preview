@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 13
 
 1. EEN wijs zoon hoort de tucht des vaders, maar een spotter hoort de bestraffing niet.

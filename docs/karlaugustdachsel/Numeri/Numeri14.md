@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 14
 
 HET MORRENDE VOLK WORDT GESLAGEN.

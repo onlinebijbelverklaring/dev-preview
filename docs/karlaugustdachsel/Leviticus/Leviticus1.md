@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 1
 
 WET VAN HET BRANDOFFER.

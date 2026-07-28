@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 3
 
 1. En er was een lange krijg tussen het huis van Saul, en tussen het huis van David. Doch David ging en werd sterker; maar die van het huis van Saul gingen en werden zwakker. 

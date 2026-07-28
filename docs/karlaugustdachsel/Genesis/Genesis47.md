@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 47
 
 JAKOB WOONT IN HET LAND GOSEN. DE HONGER IS ZWAAR IN EGYPTE.

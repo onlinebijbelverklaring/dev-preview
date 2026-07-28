@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 122
 
 1. EEN lied Hammaäloth, van David. Ik verblijd mij in degenen die tot mij zeggen: Wij zullen in het huis des HEEREN gaan.

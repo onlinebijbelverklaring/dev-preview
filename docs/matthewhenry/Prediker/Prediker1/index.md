@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 1
 
 1. DE woorden van den Prediker, den zoon van David, den koning te Jeruzalem.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 26
 
 1. GELIJK de sneeuw in den zomer en gelijk de regen in den oogst, alzo past den zot de eer niet.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 15
 
 1. EN ik zag een ander groot en wonderlijk teken in den hemel, namelijk zeven engelen, hebbende de zeven laatste plagen; want in deze is de toorn Gods geëindigd.

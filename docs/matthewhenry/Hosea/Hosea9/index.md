@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hosea 9
 
 1. Verblijd u niet, o Israël! tot opspringens toe, gelijk de volken; want gij hoereert van uw God af; gij hebt hoerenloon lief, op alle dorsvloeren des korens. 

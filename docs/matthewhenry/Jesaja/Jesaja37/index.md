@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 37
 
 1. EN het geschiedde als de koning Hizkía dat hoorde, zo scheurde hij zijn klederen, en bedekte zich met een zak en ging in het huis des HEEREN.

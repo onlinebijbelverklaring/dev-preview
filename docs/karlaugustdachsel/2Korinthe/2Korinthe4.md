@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 4
 
 HEERLIJKE VRUCHTEN VAN HET EVANGELIE BIJ DE GELOVIGEN, DIE ONDER HET KRUIS STRIJDEN

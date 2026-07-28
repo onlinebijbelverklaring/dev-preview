@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 19
 
 UITLEGGING VAN DE TIEN GEBODEN EN ANDERE WETTEN.

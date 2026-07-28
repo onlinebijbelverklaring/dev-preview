@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 28
 
 1. EN laat na den sabbat, als het begon te lichten tegen den eersten dag der week, kwam Maria Magdaléna en de andere Maria, om het graf te bezien.

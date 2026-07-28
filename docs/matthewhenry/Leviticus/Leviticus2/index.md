@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 2
 
 1. Als nu een ziel een offerande van spijsoffer de HEERE zal offeren, zijn offerande zal van meelbloem zijn; en hij zal olie daarop gieten, en wierook daarop leggen. 

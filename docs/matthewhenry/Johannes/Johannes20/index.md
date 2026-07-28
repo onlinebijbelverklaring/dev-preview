@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 20
 
 1. EN op den eersten dag der week ging Maria Magdaléna vroeg, als het nog duister was, naar het graf, en zag den steen van het graf weggenomen.

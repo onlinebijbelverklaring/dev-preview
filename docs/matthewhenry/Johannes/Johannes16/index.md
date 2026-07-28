@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 16
 
 1. DEZE dingen heb Ik tot u gesproken, opdat gij niet geërgerd wordt.

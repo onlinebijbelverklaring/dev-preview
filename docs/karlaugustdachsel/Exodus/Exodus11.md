@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 11
 
 DE UITTOCHT UIT EGYPTE AANGEKONDIGD.

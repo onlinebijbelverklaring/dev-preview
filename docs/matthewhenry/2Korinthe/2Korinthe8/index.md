@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 8
 
 1. VOORTS maken wij u bekend, broeders, de genade Gods die in de gemeenten van Macedónië gegeven is;

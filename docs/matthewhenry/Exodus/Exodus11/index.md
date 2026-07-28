@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 11
 
 1. Want de HEERE had tot Mozes gesproken: Ik zal nog een plaag over Farao, en over Egypte brengen, daarna zal hij ulieden van hier laten trekken; als hij u geheel zal laten trekken, zo zal hij u haastelijk van hier uitdrijven. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 12
 
 1. Mirjam nu sprak, en Aäron, tegen Mozes, ter oorzake der vrouw, der Cuschietische, die hij genomen had; want hij had een Cuschietische ter vrouw genomen. 

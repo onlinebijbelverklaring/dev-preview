@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 9
 
 1. EN Hij zeide tot hen: Voorwaar Ik zeg u, dat er sommigen zijn van degenen die hier staan, die den dood niet zullen smaken, totdat zij zullen hebben gezien dat het Koninkrijk Gods met kracht gekomen is.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 7
 
 OFFERS EN GAVEN VAN DE VORSTEN TOT INWIJDING VAN DE TABERNAKEL.

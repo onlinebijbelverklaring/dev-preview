@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 20
 
 1. ALS Pashur, de zoon van Immer, de priester (deze nu was bestelde voorganger in het huis des HEEREN), Jeremía hoorde, diezelve woorden profeterende,

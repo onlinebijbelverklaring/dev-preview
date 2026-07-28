@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 28
 
 WETTEN VAN VERSCHILLENDE OFFERS HERHAALD.

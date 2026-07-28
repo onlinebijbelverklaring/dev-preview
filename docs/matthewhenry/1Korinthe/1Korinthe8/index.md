@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 8
 
 1. AANGAANDE nu de dingen die den afgoden geofferd zijn: Wij weten dat wij altezamen kennis hebben. De kennis maakt opgeblazen, maar de liefde sticht.

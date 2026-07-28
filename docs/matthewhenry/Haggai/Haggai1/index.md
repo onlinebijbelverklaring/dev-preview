@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Haggai 1
 
 1. In het tweede jaar van de koning Darius, in de zesde maand, op de eersten dag der maand, geschiedde het woord des HEEREN, door de dienst van Haggaï, de profeet, tot Zerubbabel, de zoon van Sealthiël, de vorst van Juda, en tot Josua, de zoon van Jozadak, de hogepriester, zeggende: 

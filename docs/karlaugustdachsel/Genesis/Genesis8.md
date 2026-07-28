@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 8
 
 DE ZONDVLOED NEEMT EEN EINDE.

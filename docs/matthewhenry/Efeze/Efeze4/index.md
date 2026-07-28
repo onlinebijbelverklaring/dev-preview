@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Efeze 4
 
 1. ZO bid ik u dan, ik, de gevangene in den Heere, dat gij wandelt waardiglijk der roeping met welke gij geroepen zijt;

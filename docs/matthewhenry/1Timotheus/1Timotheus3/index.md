@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Timotheus 3
 
 1. DIT is een getrouw woord: zo iemand tot eens opzieners ambt lust heeft, die begeert een treffelijk werk.

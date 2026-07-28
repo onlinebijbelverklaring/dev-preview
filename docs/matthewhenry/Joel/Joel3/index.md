@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Joel 3
 
 1. Want ziet, in die dagen en te dier tijd, als Ik de gevangenis van Juda en Jeruzalem zal wenden; 

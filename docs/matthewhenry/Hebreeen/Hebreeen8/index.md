@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 8
 
 1. DE hoofdsom nu der dingen waarvan wij spreken, is, dat wij hebben zodanigen Hogepriester, Die gezeten is aan de rechterhand van den troon der Majesteit in de hemelen,

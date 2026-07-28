@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 13
 
 1. Te dien dage zal er een Fontein geopend zijn voor het huis Davids, en voor de inwoners van Jeruzalem, tegen de zonde en tegen de onreinheid. 

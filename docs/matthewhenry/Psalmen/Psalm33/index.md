@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 33
 
 1. GIJ rechtvaardigen, zingt vrolijk in den HEERE; lof betaamt den oprechten.

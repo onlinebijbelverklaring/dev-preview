@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Johannes 5
 
 1. Een iegelijk, die gelooft, dat Jezus is de Christus, die is uit God geboren; en een iegelijk, die liefheeft Dengene, Die geboren heeft, die heeft ook lief dengene, die uit Hem geboren is. 

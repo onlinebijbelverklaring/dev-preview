@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hosea 6
 
 1. Komt en laat ons wederkeren tot de HEERE, want Hij heeft verscheurd, en Hij zal ons genezen; Hij heeft geslagen, en Hij zal ons verbinden. 

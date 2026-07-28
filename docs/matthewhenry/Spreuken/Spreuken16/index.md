@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 16
 
 1. DE mens heeft schikkingen des harten, maar het antwoord der tong is van den HEERE.

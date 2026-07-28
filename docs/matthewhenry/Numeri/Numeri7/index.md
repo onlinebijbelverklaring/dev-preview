@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 7
 
 1. En het geschiedde ten dage, als Mozes geeindigd had de tabernakel op te richten, en dat hij dien gezalfd, en dien geheiligd had, en al zijn gereedschap, mitsgaders het altaar en al zijn gereedschap, en hij ze gezalfd, en dezelve geheiligd had; 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 10
 
 1. IN het derde jaar van Kores, den koning van Perzië, werd aan Daniël, wiens naam genoemd werd Béltsazar, een zaak geopenbaard; en die zaak is de waarheid, doch in een gezetten groten tijd; en hij verstond die zaak en hij had verstand van het gezicht.

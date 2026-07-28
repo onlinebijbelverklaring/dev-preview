@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 7
 
 1. Maar aan zijn huis bouwde Salomo dertien jaren, en hij volmaakte zijn ganse huis. 

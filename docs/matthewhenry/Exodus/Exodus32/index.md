@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 32
 
 1. Toen het volk zag, dat Mozes vertoog van de berg af te komen, zo verzamelde zich het volk tot Aaron, en zij zeiden tot hem: Sta op, maak ons goden, die voor ons aangezicht gaan; want dezen Mozes, dien man, die ons uit Egypteland uitgevoerd heeft, wij weten niet, wat hem geschied zij. 

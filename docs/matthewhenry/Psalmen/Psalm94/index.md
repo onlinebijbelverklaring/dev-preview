@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 94
 
 1. O God der wraken, o HEERE, God der wraken, verschijn blinkende.

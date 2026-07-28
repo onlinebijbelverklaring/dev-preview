@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 14
 
 VOORTZETTING VAN DE UITTOCHT, ONDERGANG VAN DE EGYPTENAREN IN DE RODE ZEE.

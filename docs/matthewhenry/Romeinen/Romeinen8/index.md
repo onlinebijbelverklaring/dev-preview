@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 8
 
 1. ZO is er dan nu geen verdoemenis voor degenen die in Christus Jezus zijn, die niet naar het vlees wandelen, maar naar den Geest.

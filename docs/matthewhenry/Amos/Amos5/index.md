@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Amos 5
 
 1. Hoort dit woord, dat Ik over ulieden ophef, een klaaglied, o huis Israëls! 

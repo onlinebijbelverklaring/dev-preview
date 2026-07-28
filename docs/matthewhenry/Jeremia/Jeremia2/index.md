@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 2
 
 1. EN des HEEREN woord geschiedde tot mij, zeggende:

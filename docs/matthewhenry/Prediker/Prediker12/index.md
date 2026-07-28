@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 12
 
 1. EN gedenk aan uw Schepper in de dagen uwer jongelingschap, eer dat de kwade dagen komen en de jaren naderen, van dewelke gij zeggen zult: Ik heb geen lust in dezelve.

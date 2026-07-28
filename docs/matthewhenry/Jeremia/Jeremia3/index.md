@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 3
 
 1. MEN zegt: Zo een man zijn huisvrouw verlaat, en zij gaat van hem en wordt eens anderen mans, zal hij ook tot haar nog wederkeren? Zou datzelve land niet grotelijks ontheiligd worden? Gij nu hebt met vele boeleerders gehoereerd, keer nochtans weder tot Mij, spreekt de HEERE.

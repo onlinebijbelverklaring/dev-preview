@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jona 2
 
 1. En Jona bad tot de HEERE, zijn God, uit het ingewand van de vis. 

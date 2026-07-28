@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 130
 
 1. EEN lied Hammaäloth. Uit de diepten roep ik tot U, o HEERE.

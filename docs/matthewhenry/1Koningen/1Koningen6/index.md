@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 6
 
 1. Het geschiedde nu in het vierhonderd en tachtigste jaar, na de uitgang der kinderen Israëls uit Egypte, in het vierde jaar van het koninkrijk van Salomo over Israël, in de maand Ziv (deze is de tweede maand), dat hij het huis des HEEREN bouwde. 

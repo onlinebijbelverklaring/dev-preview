@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 2
 
 BRUILOFT TE KANA. TEMPELREINIGING

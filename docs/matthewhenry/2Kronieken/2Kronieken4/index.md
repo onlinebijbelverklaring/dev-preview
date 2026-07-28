@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 4
 
 1. Hij maakte ook een koperen altaar, van twintig ellen in zijn lengte, en twintig ellen in zijn breedte, en tien ellen in zijn hoogte. 

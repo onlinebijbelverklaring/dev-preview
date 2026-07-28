@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 7
 
 1. Daarna zeide de HEERE tot Noach: Ga gij, en uw ganse huis in de ark; want u heb Ik gezien rechtvaardig voor Mijn aangezicht in dit geslacht. 

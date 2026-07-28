@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 15
 
 1. Toen zong Mozes en de kinderen Israëls de HEERE dit lied, en spraken, zeggende: Ik zal de HEERE zingen; want Hij is hogelijk verheven! Het paard en zijn ruiter heeft Hij in de zee geworpen. 

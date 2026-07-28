@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Thessalonicenzen 3
 
 1. DAAROM, deze begeerte niet langer kunnende verdragen, hebben wij gaarne willen te Athene alleen gelaten worden,

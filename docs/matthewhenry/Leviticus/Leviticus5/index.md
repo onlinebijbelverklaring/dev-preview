@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 5
 
 1. Als nu een mens zal gezondigd hebben, dat hij gehoord heeft een stem des vloeks, waarvan hij getuige is, hetzij dat hij het gezien of geweten heeft; indien hij het niet te kennen geeft, zo zal hij zijn ongerechtigheid dragen. 

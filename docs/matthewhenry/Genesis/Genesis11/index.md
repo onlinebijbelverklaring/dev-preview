@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 11
 
 1. En de ganse aarde was van enerlei spraak en enerlei woorden. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Johannes 2
 
 1. Mijn kinderkens, ik schrijf u deze dingen, opdat gij niet zondigt. En indien iemand gezondigd heeft, wij hebben een Voorspraak bij de Vader, Jezus Christus, de Rechtvaardige; 

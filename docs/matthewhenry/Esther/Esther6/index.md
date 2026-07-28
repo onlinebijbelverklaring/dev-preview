@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Esther 6
 
 1. IN denzelven nacht was de slaap van den koning geweken; en hij zeide dat men het boek der gedachtenissen, de kronieken, brengen zou, en zij werden in de tegenwoordigheid des konings gelezen.

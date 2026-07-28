@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Esther 3
 
 1. NA deze geschiedenissen maakte de koning Ahasvéros Haman groot, den zoon van Hammedátha, den Agagiet, en hij verhoogde hem; en hij zette zijn stoel boven al de vorsten die bij hem waren.

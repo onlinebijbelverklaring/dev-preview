@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 14
 
 1. Ziet, de dag komt de HEERE, dat uw roof zal uitgedeeld worden in het midden van u, o Jeruzalem! 

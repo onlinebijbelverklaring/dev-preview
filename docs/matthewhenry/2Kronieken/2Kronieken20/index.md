@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 20
 
 1. Het geschiedde nu na dezen, dat de kinderen Moabs, en de kinderen Ammons, en met hen anderen benevens de Ammonieten, kwamen tegen Jósafath ten strijde. 

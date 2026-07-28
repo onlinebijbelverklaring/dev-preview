@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 2
 
 1. Dezen zijn de kinderen van Israël: Ruben, Simeon, Levi en Juda, Issaschar en Zebulon, 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 23
 
 1. Gij zult geen vals gerucht opnemen; en stelt uw hand niet bij de goddeloze, om een getuige tot geweld te zijn. 

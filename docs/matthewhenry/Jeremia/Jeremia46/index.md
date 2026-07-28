@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 46
 
 1. HET woord des HEEREN dat tot den profeet Jeremía geschied is tegen de heidenen.

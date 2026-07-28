@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 26
 
 PAULUS ONTVANGT, NA ZIJN VERANTWOORDING, VAN AGRIPPA GETUIGENIS VAN ONSCHULD

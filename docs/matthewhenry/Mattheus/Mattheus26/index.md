@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 26
 
 1. EN het is geschied als Jezus al deze woorden geëindigd had, dat Hij tot Zijn discipelen zeide:

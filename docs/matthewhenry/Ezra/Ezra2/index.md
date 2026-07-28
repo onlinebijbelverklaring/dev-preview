@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezra 2
 
 1. Dit zijn de kinderen van dat landschap, die optogen uit de gevangenis, van de weggevoerden, die Nebukadnézar, koning van Babel, weggevoerd had naar Babel, die naar Jeruzalem en Juda zijn wedergekeerd, een iegelijk naar zijn stad; 

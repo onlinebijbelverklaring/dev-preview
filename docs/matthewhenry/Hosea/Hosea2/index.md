@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hosea 2
 
 1. Twist tegen ulieder moeder, twist, omdat zij Mijn vrouw niet is, en Ik haar Man niet ben; en laat ze haar hoererijen van haar aangezicht, en haar overspelerijen van tussen haar borsten wegdoen. 

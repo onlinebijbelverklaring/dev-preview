@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 19
 
 1. En Joab werd aangezegd: Zie, de koning weent, en bedrijft rouw over Absalom. 

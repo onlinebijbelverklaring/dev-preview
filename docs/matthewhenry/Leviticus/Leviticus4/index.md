@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 4
 
 1. Verder sprak de HEERE tot Mozes, zeggende: 

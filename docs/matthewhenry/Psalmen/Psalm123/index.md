@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 123
 
 1. EEN lied Hammaäloth. Ik hef mijn ogen op tot U, Die in de hemelen zit.

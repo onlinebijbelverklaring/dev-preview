@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Habakuk 1
 
 1. De last, welken Habakuk, de profeet, gezien heeft. 

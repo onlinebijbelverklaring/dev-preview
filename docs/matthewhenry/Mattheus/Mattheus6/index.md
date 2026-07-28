@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 6
 
 1. HEBT acht dat gij uw aalmoes niet doet voor de mensen, om van hen gezien te worden; anders zo hebt gij geen loon bij uw Vader, Die in de hemelen is.

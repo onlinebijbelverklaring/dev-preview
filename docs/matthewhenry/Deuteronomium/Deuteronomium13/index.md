@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 13
 
 1. Wanneer een profeet, of dromen-dromer, in het midden van u zal opstaan, en u geven een teken of wonder; 

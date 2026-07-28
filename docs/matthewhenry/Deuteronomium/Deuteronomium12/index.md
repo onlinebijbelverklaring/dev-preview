@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 12
 
 1. Dit zijn de inzettingen en de rechten, die gijlieden zult waarnemen om te doen, in dat land, hetwelk u de HEERE, uwer vaderen God, gegeven heeft, om het te erven; al de dagen, die gijlieden op de aardbodem leeft. 

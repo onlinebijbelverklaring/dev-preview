@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 3
 
 1. Jozua dan maakte zich des morgens vroeg op, en zij reisden van Sittim, en kwamen tot aan de Jordaan, hij en al de kinderen Israëls; en zij vernachtten aldaar, eer zij overtrokken. 

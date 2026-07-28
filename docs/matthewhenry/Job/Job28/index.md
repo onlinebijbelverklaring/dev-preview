@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 28
 
 1. GEWISSELIJK, er is voor het zilver een uitgang, en een plaats voor het goud, dat zij smelten.

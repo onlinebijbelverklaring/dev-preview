@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 27
 
 1. IN het begin des koninkrijks van Jójakim, zoon van Josía, koning van Juda, geschiedde dit woord tot Jeremía van den HEERE, zeggende:

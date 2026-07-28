@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 16
 
 1. Korach nu, de zoon van Jizhar, zoon van Kohath, zoon van Levi, nam tot zich zo Dathan als Abiram, zonen van Eliab, en On, de zoon van Peleth, zonen van Ruben. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 9
 
 1. En de HEERE sprak tot Mozes in de woestijn van Sinai, in het tweede jaar, nadat zij uit Egypteland uitgetogen waren, in de eerste maand, zeggende: 

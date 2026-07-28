@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 1
 
 1. En Moab viel van Israël af, na Achabs dood. 

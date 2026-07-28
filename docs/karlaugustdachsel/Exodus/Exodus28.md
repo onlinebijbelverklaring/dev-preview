@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 28
 
 PRIESTERLIJKE KLEDING VAN AÄRON EN ZIJN ZONEN.

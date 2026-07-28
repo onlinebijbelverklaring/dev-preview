@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 30
 
 1. Daarna zond Jehizkia tot het ganse Israël en Juda, en schreef ook brieven tot Efraim en Manasse, dat zij zouden komen tot het huis des HEEREN te Jeruzalem, om de HEERE, de God Israëls, pascha te houden. 

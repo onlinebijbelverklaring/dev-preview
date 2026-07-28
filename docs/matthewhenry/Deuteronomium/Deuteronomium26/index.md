@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 26
 
 1. Voorts zal het geschieden, wanneer gij zult gekomen zijn in het land, dat u de HEERE, uw God, ten erve geven zal, en gij dat erfelijk zult bezitten, en daarin wonen; 

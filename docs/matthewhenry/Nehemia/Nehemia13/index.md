@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 13
 
 1. Te dien dage werd er gelezen in het boek van Mozes voor de oren des volks; en daarin werd geschreven gevonden, dat de Ammonieten en Moabieten niet zouden komen in de gemeente Gods tot in eeuwigheid;

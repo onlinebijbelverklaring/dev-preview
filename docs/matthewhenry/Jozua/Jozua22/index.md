@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 22
 
 1. Toen riep Jozua de Rubenieten, en de Gadieten, en de halven stam van Manasse, 

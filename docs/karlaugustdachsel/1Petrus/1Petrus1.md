@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Petrus 1
 
 OVER GODS GEESTELIJKE WELDADEN EN DE PLICHTEN VAN DE CHRISTENEN

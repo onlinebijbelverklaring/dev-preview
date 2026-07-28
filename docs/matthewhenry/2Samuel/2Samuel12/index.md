@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 12
 
 1. En de HEERE zond Nathan tot David. Als die tot hem inkwam, zeide hij tot hem: Er waren twee mannen in een stad, de een rijk en de ander arm. 

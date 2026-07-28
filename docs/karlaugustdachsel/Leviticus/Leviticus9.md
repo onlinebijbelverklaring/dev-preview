@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 9
 
 HET EERSTE OFFER VAN AÄRON WORDT DOOR VUUR VERTEERD.

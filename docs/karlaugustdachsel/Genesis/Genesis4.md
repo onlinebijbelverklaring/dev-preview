@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 4
 
 KAÏN’S BROEDERMOORD. ZIJN NAKOMELINGEN.

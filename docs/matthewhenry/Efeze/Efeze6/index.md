@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Efeze 6
 
 1. GIJ kinderen, zijt uw ouders gehoorzaam in den Heere; want dat is recht.

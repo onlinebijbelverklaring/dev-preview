@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 27
 
 PAULUS’ GEVAARLIJKE EN WONDERLIJKE SCHEEPVAART

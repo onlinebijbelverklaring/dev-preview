@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 3
 
 1. EN in die dagen kwam Johannes de Doper, predikende in de woestijn van Judéa,

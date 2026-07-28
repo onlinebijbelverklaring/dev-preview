@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 14
 
 1. Het geschiedde nu op een dag, dat Jonathan, de zoon van Saul, tot de jongen, die zijn wapenen droeg, zeide: Kom, en laat ons tot de bezetting der Filistijnen overgaan, welke aan gene zijde is; doch hij gaf het zijn vader niet te kennen. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 20
 
 1. EN ik zag een Engel afkomen uit den hemel, hebbende den sleutel des afgronds en een grote keten in Zijn hand.

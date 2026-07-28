@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 1
 
 1. In de beginne schiep God de hemel en de aarde. 

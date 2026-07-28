@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 5
 
 1. EN ik zag in de rechterhand Desgenen Die op den troon zat, een boek, geschreven vanbinnen en vanbuiten, verzegeld met zeven zegelen.

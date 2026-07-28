@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 17
 
 1. EEN gebed van David.

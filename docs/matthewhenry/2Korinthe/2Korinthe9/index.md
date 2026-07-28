@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 9
 
 1. WANT van de bediening die voor de heiligen geschiedt, is mij onnodig aan u te schrijven.

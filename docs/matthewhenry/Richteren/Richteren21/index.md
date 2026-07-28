@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 21
 
 1. De mannen van Israël nu hadden te Mizpa gezworen, zeggende: Niemand van ons zal zijn dochter aan de Benjaminieten ter vrouwe geven. 

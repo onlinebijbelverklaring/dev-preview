@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 41
 
 1. MAAR het geschiedde in de zevende maand, dat Ismaël, de zoon van Nethánja, den zoon van Elisáma, van koninklijk zaad, en de oversten des konings, te weten tien mannen met hem, kwamen tot Gedália, den zoon van Ahíkam, te Mizpa; en zij aten aldaar brood tezamen, te Mizpa.

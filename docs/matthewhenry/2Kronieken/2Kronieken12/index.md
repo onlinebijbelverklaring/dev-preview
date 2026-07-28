@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 12
 
 1. Het geschiedde nu, als Rehabeam het koninkrijk bevestigd had, en hij sterk geworden was, dat hij de wet des HEEREN verliet, en gans Israël met hem. 

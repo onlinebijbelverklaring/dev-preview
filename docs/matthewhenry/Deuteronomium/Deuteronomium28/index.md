@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 28
 
 1. En het zal geschieden, indien gij der stem des HEEREN, uws Gods, vlijtiglijk zult gehoorzamen, waarnemende te doen al Zijn geboden, die ik u heden gebiede, zo zal de HEERE, uw God, u hoog zetten boven alle volken der aarde. 

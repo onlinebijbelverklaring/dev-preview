@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 7
 
 1. Maar de kinderen Israëls overtraden door overtreding met het verbannene; want Achan, de zoon van Charmi, de zoon van Zabdi, de zoon van Zerah, uit de stam van Juda, nam van het verbannene. Toen ontstak de toorn des HEEREN tegen de kinderen Israëls. 

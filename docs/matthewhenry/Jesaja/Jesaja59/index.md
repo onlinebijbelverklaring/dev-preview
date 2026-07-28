@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 59
 
 1. ZIE, de hand des HEEREN is niet verkort, dat zij niet zou kunnen verlossen; en Zijn oor is niet zwaar geworden, dat het niet zou kunnen horen.

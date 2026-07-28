@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 15
 
 1. Toen kwam de Geest Gods op Azaria, de zoon van Oded. 

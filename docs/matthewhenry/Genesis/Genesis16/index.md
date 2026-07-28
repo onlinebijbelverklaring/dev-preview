@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 16
 
 1. Doch Sarai, Abrams huisvrouw, baarde hem niet; en zij had een Egyptische dienstmaagd, welker naam was Hagar. 

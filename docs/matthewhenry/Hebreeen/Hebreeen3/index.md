@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 3
 
 1. HIEROM, heilige broeders, die der hemelse roeping deelachtig zijt, aanmerkt den Apostel en Hogepriester onzer belijdenis, Christus Jezus,

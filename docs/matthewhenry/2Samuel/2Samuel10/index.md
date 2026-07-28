@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 10
 
 1. En het geschiedde daarna, dat de koning der kinderen Ammons stierf, en zijn zoon Hanun werd koning in zijn plaats. 

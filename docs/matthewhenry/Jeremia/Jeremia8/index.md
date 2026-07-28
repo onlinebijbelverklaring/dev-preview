@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 8
 
 1. TERZELFDER tijd, spreekt de HEERE, zullen zij de beenderen der koningen van Juda en de beenderen hunner vorsten en de beenderen der priesters en de beenderen der profeten en de beenderen der inwoners van Jeruzalem uit hun graven uithalen.

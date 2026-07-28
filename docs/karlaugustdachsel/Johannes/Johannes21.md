@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 21
 
 DE OPSTANDING VAN CHRISTUS GEOPENBAARD IN GALILEA

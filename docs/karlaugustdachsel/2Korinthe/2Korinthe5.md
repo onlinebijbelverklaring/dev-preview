@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 5
 
 TROOST VAN DE GELOVIGEN IN ALLERLEI LEED. KRACHT VAN HET EVANGELIE

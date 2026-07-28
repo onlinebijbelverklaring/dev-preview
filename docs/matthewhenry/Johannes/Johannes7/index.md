@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 7
 
 1. EN na dezen wandelde Jezus in Galiléa; want Hij wilde in Judéa niet wandelen, omdat de Joden Hem zochten te doden.

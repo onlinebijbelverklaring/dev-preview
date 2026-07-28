@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jona 2
 
 JONA’S GEBED OM VERLOSSING.

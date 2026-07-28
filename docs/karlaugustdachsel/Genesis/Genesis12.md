@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 12
 
 ABRAHAMS ROEPING EN TOCHT NAAR EGYPTE.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 12
 
 REDE VAN CHRISTUS TEGEN DE FARIZEEËN.

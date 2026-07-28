@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 45
 
 1. HET woord dat de profeet Jeremía gesproken heeft tot Baruch, den zoon van Neríja, als hij die woorden uit den mond van Jeremía in een boek schreef, in het vierde jaar van Jójakim, den zoon van Josía, den koning van Juda, zeggende:

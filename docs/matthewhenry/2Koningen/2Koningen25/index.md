@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 25
 
 1. En het geschiedde in het negende jaar zijner regering, in de tiende maand, op de tienden der maand, dat Nebukadnézar, de koning van Babel, kwam tegen Jeruzalem, hij en zijn ganse heir, en legerde zich tegen haar; en zij bouwden tegen haar sterkten rondom. 

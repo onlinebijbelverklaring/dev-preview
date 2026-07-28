@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 24
 
 1. In zijn dagen toog Nebukadnézar, de koning van Babel, op, en Jojakim werd zijn knecht drie jaren; daarna keerde hij zich om, en rebelleerde tegen hem. 

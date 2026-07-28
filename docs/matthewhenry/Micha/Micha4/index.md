@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Micha 4
 
 1. Maar in het laatste der dagen zal het geschieden, dat de berg van het huis des HEEREN zal vastgesteld zijn op de top der bergen; en hij zal verheven zijn boven de heuvelen, en de volken zullen tot hem toevloeien. 

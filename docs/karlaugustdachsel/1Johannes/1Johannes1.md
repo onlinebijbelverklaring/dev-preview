@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Johannes 1
 
 OVER CHRISTUS’ PERSOON, ZIJN GEOPENBAARD WOORD EN DE WARE BEKERING

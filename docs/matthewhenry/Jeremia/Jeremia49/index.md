@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 49
 
 1. TEGEN de kinderen Ammons zegt de HEERE alzo: Heeft dan Israël geen kinderen? Heeft hij geen erfgenaam? Waarom is dan Malcam erfgenaam van Gad en waarom woont zijn volk in deszelfs steden?

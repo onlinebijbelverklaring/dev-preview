@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 1
 
 1. NADEMAAL velen ter hand genomen hebben om in orde te stellen een verhaal van de dingen die onder ons volkomen zekerheid hebben,

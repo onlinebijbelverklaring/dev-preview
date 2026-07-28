@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 24
 
 1. EN Jezus ging uit en vertrok van den tempel; en Zijn discipelen kwamen bij Hem om Hem de gebouwen des tempels te tonen.

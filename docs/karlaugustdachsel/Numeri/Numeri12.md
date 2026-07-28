@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 12
 
 DE TWISTENDE MIRJAM WORDT MELAATS.

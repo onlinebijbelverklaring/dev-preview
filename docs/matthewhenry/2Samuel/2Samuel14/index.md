@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 14
 
 1. Als nu Joab, de zoon van Zeruja, merkte, dat des konings hart over Absalom was; 

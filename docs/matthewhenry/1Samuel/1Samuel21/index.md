@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 21
 
 1. Toen kwam David te Nob, tot de priester Achimelech; en Achimelech kwam bevende David tegemoet, en hij zeide tot hem: Waarom zijt gij alleen, en geen man met u? 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 13
 
 1. EN te dien dage Jezus uit het huis gegaan zijnde, zat bij de zee.

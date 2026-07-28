@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 5
 
 1. MEN hoort ganselijk dat er hoererij onder u is, en zodanige hoererij die ook onder de heidenen niet genaamd wordt, alzo dat er een zijns vaders huisvrouw heeft.

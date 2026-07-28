@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 3
 
 1. En de jongeling Samuël diende de HEERE voor het aangezicht van Eli; en het woord des HEEREN was dierbaar in die dagen; er was geen openbaar gezicht. 

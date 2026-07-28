@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ruth 2
 
 1. Naomi nu had een bloedvriend van haar man, een man, geweldig van vermogen, van het geslacht van Elimelech; en zijn naam was Boaz. 

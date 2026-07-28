@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 7
 
 1. WEET gij niet, broeders (want ik spreek tot degenen die de wet verstaan), dat de wet heerst over den mens, zo langen tijd als hij leeft?

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 7
 
 1. EN de hogepriester zeide: Zijn dan deze dingen alzo?

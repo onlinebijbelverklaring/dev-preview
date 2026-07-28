@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Amos 1
 
 1. De woorden van Amos, die onder de veeherderen was van Thekoa, dewelk hij gezien heeft over Israël, in de dagen van Uzzia, koning van Juda, en in de dagen van Jerobeam, zoon van Joas, koning van Israël; twee jaren voor de aardbeving. 

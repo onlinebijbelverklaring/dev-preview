@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 26
 
 1. Gij zult ulieden geen afgoden maken; noch gesneden beeld, noch opgericht beeld zult gij u stellen, noch gebeelden steen in uw land zetten, om u daarvoor te buigen; want Ik ben de HEERE, uw God! 

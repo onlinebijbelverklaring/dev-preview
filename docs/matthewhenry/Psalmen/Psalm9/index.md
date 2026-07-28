@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 9
 
 1. EEN psalm van David, voor den opperzangmeester, op Mûth-Labben.

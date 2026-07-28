@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 5
 
 1. EN het geschiedde als de schare op Hem aandrong om het Woord Gods te horen, dat Hij stond bij het Meer Gennésaret.

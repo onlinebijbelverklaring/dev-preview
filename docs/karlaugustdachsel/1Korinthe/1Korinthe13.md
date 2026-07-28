@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 13
 
 VOORTREFFELIJKHEID EN EIGENSCHAPPEN VAN DE LIEFDE

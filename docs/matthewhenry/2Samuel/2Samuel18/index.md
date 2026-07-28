@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 18
 
 1. En David monsterde het volk, dat met hem was; en hij stelde over hen oversten van duizenden, en oversten van honderden. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 18
 
 1. VOOR den opperzangmeester, een psalm van David, den knecht des HEEREN, die de woorden dezes lieds tot den HEERE gesproken heeft, ten dage als hem de HEERE gered had uit de hand van al zijn vijanden en uit de hand van Saul.

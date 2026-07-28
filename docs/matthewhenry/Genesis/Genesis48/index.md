@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 48
 
 1. Het geschiedde nu na deze dingen, dat men Jozef zeide: Zie, uw vader is krank! Toen nam hij zijn twee zonen met zich, Manasse en Efraim! 

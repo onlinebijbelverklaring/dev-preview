@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Filipenzen 2
 
 1. INDIEN er dan enige vertroosting is in Christus, indien er enige troost is der liefde, indien er enige gemeenschap is des Geestes, indien er enige innerlijke bewegingen en ontfermingen zijn,

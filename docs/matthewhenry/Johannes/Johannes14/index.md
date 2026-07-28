@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 14
 
 1. UW hart worde niet ontroerd; gijlieden gelooft in God, gelooft ook in Mij.

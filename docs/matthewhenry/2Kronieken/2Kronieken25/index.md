@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 25
 
 1. Amazia, vijf en twintig jaren oud zijnde, werd koning, en regeerde negen en twintig jaren te Jeruzalem; en de naam zijner moeder was Joaddan, van Jeruzalem. 

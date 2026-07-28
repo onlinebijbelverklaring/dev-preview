@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 25
 
 1. HEERE, Gij zijt mijn God, U zal ik verhogen, Uw Naam zal ik loven, want Gij hebt wonder gedaan; Uw raadslagen van verre zijn waarheid en vastigheid.

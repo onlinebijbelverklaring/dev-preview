@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 8
 
 WIJDING VAN DE LEVIETEN.

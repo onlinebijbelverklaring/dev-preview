@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 13
 
 ABRAM EN LOT SCHEIDEN VAN ELKAAR.

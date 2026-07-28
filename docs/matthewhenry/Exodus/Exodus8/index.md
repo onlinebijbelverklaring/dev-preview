@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 8
 
 1. Daarna zeide de HEERE tot Mozes: Ga in tot Farao, en zeg tot hem: Zo zegt de HEERE: Laat Mijn volk trekken, dat zij Mij dienen. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 39
 
 1. Jozef nu werd naar Egypte afgevoerd; en Potifar, een hoveling van Farao, een overste der trawanten, een Egyptisch man, kocht hem uit de hand der Ismaëlieten, die hem derwaarts afgevoerd hadden. 

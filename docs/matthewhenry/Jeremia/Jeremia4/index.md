@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 4
 
 1. ZO gij u bekeren zult, Israël, spreekt de HEERE, bekeer u tot Mij; en zo gij uw verfoeiselen van Mijn aangezicht zult wegdoen, zo zwerf niet om;

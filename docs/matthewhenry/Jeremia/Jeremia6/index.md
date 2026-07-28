@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 6
 
 1. VLUCHT met hopen, gij kinderen van Benjamin, uit het midden van Jeruzalem, en blaast de bazuin te Tekóa en heft een vuurteken op te Beth-Chérem; want er kijkt een kwaad uit van het noorden, en een grote breuk.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 15
 
 VERMANING OM TE VOLHARDEN IN GELOOF, LIEFDE EN GEDULD

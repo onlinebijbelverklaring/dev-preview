@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 54
 
 1. EEN onderwijzing van David, voor den opperzangmeester, op Neginôth;

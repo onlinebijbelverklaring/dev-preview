@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 22
 
 1. EN zij zaten drie jaren stil, dat er geen krijg was tussen Syrië en tussen Israël.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 16
 
 HAGAR BAART ISMAËL.

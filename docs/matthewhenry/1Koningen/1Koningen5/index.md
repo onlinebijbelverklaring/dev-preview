@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 5
 
 1. En Hiram, de koning van Tyrus, zond zijn knechten tot Salomo (want hij had gehoord, dat zij Salomo tot koning gezalfd hadden in zijns vaders plaats), dewijl Hiram David altijd bemind had. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 31
 
 1. TERZELFDER tijd, spreekt de HEERE, zal Ik allen geslachten Israëls tot een God zijn, en zij zullen Mij tot een volk zijn.

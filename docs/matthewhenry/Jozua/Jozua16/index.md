@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 16
 
 1. Daarna kwam het lot der kinderen van Jozef uit: van de Jordaan bij Jericho, aan het water van Jericho, oostwaarts, de woestijn opgaande van Jericho, door het gebergte Beth-el; 

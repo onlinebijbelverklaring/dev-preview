@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 24
 
 VAN DE KANDELAAR, VAN DE TOONBRODEN, DE STRAF, VAN GODSLASTERAARS EN DOODSLAGERS.

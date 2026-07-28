@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 7
 
 1. HEEFT niet de mens een strijd op de aarde? En zijn zijn dagen niet als de dagen des dagloners?

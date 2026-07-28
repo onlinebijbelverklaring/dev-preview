@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 29
 
 1. EEN psalm van David. Geeft den HEERE, gij kinderen der machtigen, geeft den HEERE eer en sterkte.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 10
 
 VLESELIJKE GERUSTHEID TE MIJDEN

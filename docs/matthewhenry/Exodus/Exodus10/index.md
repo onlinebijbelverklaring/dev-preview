@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 10
 
 1. Daarna zeide de HEERE tot Mozes: Ga in tot Farao; want Ik heb zijn hart verzwaard, ook het hart zijner knechten, opdat Ik deze Mijn tekenen in het midden van hen zette; 

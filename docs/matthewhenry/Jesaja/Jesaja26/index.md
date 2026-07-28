@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 26
 
 1. TE dien dage zal dit lied gezongen worden in het land van Juda: Wij hebben een sterke stad, God stelt heil tot muren en voorschansen.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 19
 
 1. DE arme in zijn oprechtheid wandelende, is beter dan de verkeerde van lippen, en die een zot is.

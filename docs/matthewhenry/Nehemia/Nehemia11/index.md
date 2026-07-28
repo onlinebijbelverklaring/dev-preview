@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 11
 
 1. Voorts woonden de oversten des volks te Jeruzalem; maar het overige des volks wierpen loten, om uit tien één uit te brengen die in de heilige stad Jeruzalem zou wonen, en negen delen in de andere steden.

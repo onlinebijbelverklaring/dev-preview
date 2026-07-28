@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 19
 
 1. En het geschiedde, als de koning Hizkia dat hoorde, zo scheurde hij zijn klederen, en bedekte zich met een zak, en ging in het huis des HEEREN. 

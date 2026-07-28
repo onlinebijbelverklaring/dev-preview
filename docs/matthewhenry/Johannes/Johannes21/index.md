@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 21
 
 1. Na dezen openbaarde Jezus Zichzelf wederom de discipelen aan de zee van Tiberias. En Hij openbaarde Zich aldus: 

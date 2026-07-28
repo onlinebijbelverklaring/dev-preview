@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 6
 
 BESTRAFFING VAN TE RECHT GAAN VOOR ONGELOVIGEN EN VAN HOERERIJ.

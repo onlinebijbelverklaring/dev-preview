@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 18
 
 1. In die dagen was er geen koning in Israël; en in dezelve dagen zocht de stam der Danieten voor zich een erfenis om te wonen; want hun was tot op dien dag onder de stammen van Israël niet genoegzaam ter erfenis toegevallen. 

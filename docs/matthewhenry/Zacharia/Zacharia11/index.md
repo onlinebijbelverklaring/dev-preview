@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 11
 
 1. Doe uw deuren open, o Libanon! opdat het vuur uw cederen vertere. 

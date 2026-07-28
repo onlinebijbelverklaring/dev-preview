@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Maleachi 3
 
 1. Ziet, Ik zende Mijn engel, die voor Mijn aangezicht de weg bereiden zal; en snellijk zal tot Zijn tempel komen die Heere, Dien gijlieden zoekt, te weten de Engel des verbonds, aan Denwelken gij lust hebt; ziet, Hij komt, zegt de HEERE der heirscharen. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 1
 
 !!! note "Gedeelte mist in digitale bronnen"

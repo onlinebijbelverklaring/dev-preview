@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Timotheus 1
 
 1. PAULUS, een apostel van JEZUS CHRISTUS, naar het bevel van God onzen Zaligmaker, en van den Heere Jezus Christus, Die onze Hoop is,

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 36
 
 1. EN het geschiedde in het veertiende jaar van den koning Hizkía, dat Sanherib, de koning van Assyrië, optoog tegen alle vaste steden van Juda, en nam ze in.

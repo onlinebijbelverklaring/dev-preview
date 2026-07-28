@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 18
 
 VERRICHTINGEN VAN PAULUS TE KORINTHE EN OP REIS NAAR ANTIOCHIE. APOLLOS TE EFEZE.

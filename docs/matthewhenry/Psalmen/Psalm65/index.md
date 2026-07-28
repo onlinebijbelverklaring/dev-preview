@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 65
 
 1. EEN psalm van David, een lied, voor den opperzangmeester.

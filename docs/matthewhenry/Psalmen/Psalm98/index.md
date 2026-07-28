@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 98
 
 1. EEN psalm. Zingt den HEERE een nieuw lied, want Hij heeft wonderen gedaan; Zijn rechterhand en de arm Zijner heiligheid heeft Hem heil gegeven.

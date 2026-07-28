@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 14
 
 1. En Simson ging af naar Thimnath, en gezien hebbende een vrouw te Thimnath, van de dochteren der Filistijnen, 

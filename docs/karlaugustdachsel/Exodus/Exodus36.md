@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 36
 
 DE DELEN VAN HET HEILIGDOM WORDEN VERVAARDIGD.

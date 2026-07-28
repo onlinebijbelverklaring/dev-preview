@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 36
 
 1. HET gebeurde ook in het vierde jaar van Jójakim, den zoon van Josía, den koning van Juda, dat dit woord tot Jeremía geschiedde van den HEERE, zeggende:

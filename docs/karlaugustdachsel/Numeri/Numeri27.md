@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 27
 
 RECHT VAN ERVEN. JOZUA IN PLAATS VAN MOZES TOT AANVOERDER VAN HET VOLK AANGEWEZEN.

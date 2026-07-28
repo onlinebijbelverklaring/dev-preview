@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 11
 
 1. En de HEERE sprak tot Mozes en tot Aäron, zeggende tot hen: 

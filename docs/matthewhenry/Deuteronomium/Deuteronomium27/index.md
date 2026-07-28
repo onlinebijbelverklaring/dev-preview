@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 27
 
 1. En Mozes, te zamen met de oudsten van Israël, gebood het volk, zeggende: Behoudt al deze geboden, die ik ulieden heden gebiede. 

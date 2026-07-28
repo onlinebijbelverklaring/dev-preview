@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 13
 
 1. En de kinderen Israëls voeren voort te doen, dat kwaad was in de ogen des HEEREN; zo gaf de HEERE hen in de hand der Filistijnen veertig jaren. 

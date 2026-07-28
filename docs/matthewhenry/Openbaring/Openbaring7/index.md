@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 7
 
 1. EN na dezen zag ik vier engelen staan op de vier hoeken der aarde, houdende de vier winden der aarde, opdat geen wind zou waaien op de aarde, noch op de zee, noch tegen enigen boom.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Maleachi 4
 
 1. Want ziet, die dag komt, brandende als een oven, dan zullen alle hoogmoedigen, en al wie goddeloosheid doet, een stoppel zijn, en de toekomstige dag zal ze in vlam zetten, zegt de HEERE der heirscharen, Die hun noch wortel, noch tak laten zal. 

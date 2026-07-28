@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Amos 9
 
 1. Ik zag de Heere staan op het altaar, en Hij zeide: Sla dien knoop, dat de posten beven, en doorkloof ze allen in het hoofd; en Ik zal hun achterste met het zwaard doden; en vliedende zal onder hen niet ontvlieden, noch de ontkomende onder hen behouden worden. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 37
 
 OVER ENIGE GEREEDSCHAPPEN VAN HET HEILIGDOM.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 10
 
 1. Verder sprak de HEERE tot Mozes, zeggende: 

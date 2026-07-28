@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 11
 
 1. WERP uw brood uit op het water, want gij zult het vinden na vele dagen.

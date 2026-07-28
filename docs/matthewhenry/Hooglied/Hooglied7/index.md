@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hooglied 7
 
 1. HOE schoon zijn uw gangen in de schoenen, gij Prinsedochter! De omdraaiingen uwer heupen zijn als kostelijke ketens, zijnde het werk van de handen eens kunstenaars.

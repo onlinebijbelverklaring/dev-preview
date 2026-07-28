@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 4
 
 WET VAN DE ZONDOFFERS.

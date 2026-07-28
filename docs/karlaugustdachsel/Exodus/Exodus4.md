@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 4
 
 MOZES   WORDT   IN   ZIJN   ROEPING   DOOR   DE   GAVE   VAN   WONDERKRACHT GESTERKT.

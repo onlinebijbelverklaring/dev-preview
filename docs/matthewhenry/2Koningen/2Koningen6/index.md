@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 6
 
 1. En de kinderen der profeten zeiden tot Elisa: Zie nu, de plaats, waar wij wonen voor uw aangezicht, is voor ons te eng. 

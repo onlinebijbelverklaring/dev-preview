@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 15
 
 1. En David maakte zich huizen in zijn stad; en hij bereidde der ark Gods een plaats, en spande een tent voor haar. 

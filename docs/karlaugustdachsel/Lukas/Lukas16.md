@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 16
 
 MISBRUIK VAN DE RIJKDOM

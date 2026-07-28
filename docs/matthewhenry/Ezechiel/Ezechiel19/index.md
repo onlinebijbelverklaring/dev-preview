@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 19
 
 1. VERDER, hef gij een weeklage op over de vorsten van Israël,

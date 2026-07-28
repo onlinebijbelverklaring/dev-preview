@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 21
 
 1. En er was in Davids dagen een honger, drie jaren, jaar achter jaar; en David zocht het aangezicht des HEEREN. En de HEERE zeide: Het is om Saul en om des bloedhuizes wil, omdat hij de Gibeonieten gedood heeft. 

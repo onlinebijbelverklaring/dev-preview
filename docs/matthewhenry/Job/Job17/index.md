@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 17
 
 1. MIJN geest is verdorven, mijn dagen worden uitgeblust, de graven zijn voor mij.

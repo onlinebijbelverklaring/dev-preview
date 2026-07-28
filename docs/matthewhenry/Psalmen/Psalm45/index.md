@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 45
 
 1. EEN onderwijzing, een lied der liefden, voor den opperzangmeester, onder de kinderen van Korach, op Schóschannim.

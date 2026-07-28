@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 2
 
 1. TOEN nu Jezus geboren was te Bethlehem, gelegen in Judéa, in de dagen van den koning Herodes, zie, enige wijzen van het oosten zijn te Jeruzalem aangekomen,

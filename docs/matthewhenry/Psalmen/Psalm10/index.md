@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 10
 
 1. O HEERE, waarom staat Gij van verre? Waarom verbergt Gij U in tijden van benauwdheid?

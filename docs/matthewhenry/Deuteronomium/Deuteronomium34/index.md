@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 34
 
 1. Toen ging Mozes op uit de vlakke velden van Moab, naar de berg Nebo, op de hoogten van Pisga, welke recht tegenover Jericho is; en de HEERE wees hem dat ganse land, Gilead tot Dan toe; 

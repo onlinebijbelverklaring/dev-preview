@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 28
 
 CHRISTUS' OPSTANDING EN BEVEL AAN ZIJN DISCIPEL

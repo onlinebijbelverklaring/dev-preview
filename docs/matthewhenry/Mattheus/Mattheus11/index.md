@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 11
 
 1. EN het is geschied toen Jezus geëindigd had Zijn twaalf discipelen bevelen te geven, dat Hij vandaar voortging, om te leren en te prediken in hun steden.

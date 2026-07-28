@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 14
 
 GENEZING VAN DE MELAATSHEID.

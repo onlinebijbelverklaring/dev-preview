@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 36
 
 1. EN gij, mensenkind, profeteer tot de bergen Israëls, en zeg: Gij bergen Israëls, hoort des HEEREN woord.

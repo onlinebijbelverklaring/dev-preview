@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Timotheus 2
 
 GETROUWE AMBTSBEDIENING VAN TIMOTHEUS. TROOST IN LIJDEN. VERMIJDEN VAN ENIGE ZONDEN

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 14
 
 1. ELKE wijze vrouw bouwt haar huis, maar die zeer dwaas is, breekt het af met haar handen.

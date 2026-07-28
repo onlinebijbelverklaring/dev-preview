@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 19
 
 1. En die twee engelen kwamen te Sodom in de avond; en Lot zat in de poort te Sodom; en als Lot hen zag, stond hij op hun tegemoet, en boog zich met het aangezicht ter aarde. 

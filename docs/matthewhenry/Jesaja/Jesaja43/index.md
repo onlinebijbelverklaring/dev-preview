@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 43
 
 1. MAAR nu, alzo zegt de HEERE, uw Schepper, o Jakob, en uw Formeerder, o Israël: Vrees niet, want Ik heb u verlost; Ik heb u bij uw naam geroepen, gij zijt Mijne.

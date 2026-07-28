@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 21
 
 WETTEN OMTRENT DIENSTBAREN, MOORDENAARS EN DOODSLAGERS.

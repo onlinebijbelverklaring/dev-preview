@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 58
 
 1. EEN gouden kleinood van David, voor den opperzangmeester, Altáscheth.

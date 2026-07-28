@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 4
 
 1. LAAT ons dan vrezen, dat niet te eniger tijd, de belofte van in Zijn rust in te gaan nagelaten zijnde, iemand van u schijne achtergebleven te zijn.

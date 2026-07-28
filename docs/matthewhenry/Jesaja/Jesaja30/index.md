@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 30
 
 1. WEE den kinderen die afvallen, spreekt de HEERE, om een raadslag te maken, maar niet uit Mij; en om zich met een bedekking te bedekken, maar niet uit Mijn Geest, om zonde tot zonde te doen;

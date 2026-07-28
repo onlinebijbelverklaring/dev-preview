@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 19
 
 1. En Jósafath, de koning van Juda, keerde met vrede weder naar zijn huis te Jeruzalem. 

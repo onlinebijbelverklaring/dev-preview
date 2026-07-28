@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 36
 
 1. ELIHU ging nog voort en zeide:

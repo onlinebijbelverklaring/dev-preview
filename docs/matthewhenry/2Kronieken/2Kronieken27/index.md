@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 27
 
 1. Jotham was vijf en twintig jaren oud, toen hij koning werd, en hij regeerde zestien jaren te Jeruzalem; en de naam zijner moeder was Jerusa, een dochter van Zadok. 

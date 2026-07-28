@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hosea 1
 
 1. Het woord des HEEREN, dat geschied is tot Hoséa, de zoon van Beeri, in de dagen van Uzzia, Jotham, Achaz, Hizkia, koningen van Juda, en in de dagen van Jerobeam, zoon van Joas, koning van Israël. 

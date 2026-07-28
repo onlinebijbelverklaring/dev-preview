@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Joel 2
 
 VAN DE WARE BEKERING, VAN CHRISTUS EN DE UITSTORTING DES HEILIGEN GEESTES.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 1
 
 1. DE spreuken van Sálomo, den zoon van David, den koning Israëls,

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 10
 
 1. En Rehabeam toog naar Sichem; want het ganse Israël was te Sichem gekomen, om hem koning te maken. 

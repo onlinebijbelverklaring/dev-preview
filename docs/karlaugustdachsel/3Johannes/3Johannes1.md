@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 3 Johannes 1
 
 LOF VAN DE GASTVRIJHEID

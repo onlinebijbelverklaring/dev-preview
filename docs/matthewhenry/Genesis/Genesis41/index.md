@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 41
 
 1. En het geschiedde ten einde van twee volle jaren, dat Farao droomde, en ziet, hij stond aan de rivier. 

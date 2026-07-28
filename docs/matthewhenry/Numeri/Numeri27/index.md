@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 27
 
 1. Toen naderden de dochteren van Zelafead, de zoon van Hefer, de zoon van Gilead, de zoon van Machir, de zoon van Manasse, onder de geslachten van Manasse, de zoon van Jozef (en dit zijn de namen zijner dochteren: Machla, Noa, en Hogla, en Milka, en Tirza); 

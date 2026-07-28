@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 53
 
 1. WIE heeft onze prediking geloofd? En aan wien is de arm des HEEREN geopenbaard?

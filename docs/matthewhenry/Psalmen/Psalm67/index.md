@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 67
 
 1. EEN psalm, een lied, voor den opperzangmeester, op Neginôth.

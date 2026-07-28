@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 15
 
 OVER DE OPSTANDING VAN DE DODEN

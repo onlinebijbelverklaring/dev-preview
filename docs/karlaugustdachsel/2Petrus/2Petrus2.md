@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Petrus 2
 
 OVER VALSE LERAARS, HUN STRAF EN VERLEIDENDE WANDEL

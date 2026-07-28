@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 29
 
 1. Dit nu is de zaak, die gij hun doen zult, om hen te heiligen, dat zij Mij het priesterambt bedienen: neem een var, het jong eens runds, en twee volkomen rammen; 

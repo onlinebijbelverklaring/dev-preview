@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 9
 
 HET PASCHA. DE TEKENEN TOT HET NEDERSLAAN EN HET OPBREKEN VAN HET LEGER.

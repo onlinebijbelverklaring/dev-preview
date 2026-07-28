@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 8
 
 1. TOEN antwoordde Bildad, de Suhiet, en zeide:

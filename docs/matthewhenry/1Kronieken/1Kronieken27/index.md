@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 27
 
 1. Dit nu zijn de kinderen Israëls naar hun getal, de hoofden der vaderen, en de oversten der duizenden en der honderden, met hun ambtlieden, de koning dienende in alle zaken der verdelingen, aangaande en afgaande van maand tot maand in al de maanden des jaars; elke verdeling was vier en twintig duizend. 

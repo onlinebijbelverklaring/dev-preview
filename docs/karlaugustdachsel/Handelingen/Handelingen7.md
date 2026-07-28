@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 7
 
 STEFANUS’ PREDIKING EN MARTELDOOD

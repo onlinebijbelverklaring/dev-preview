@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 7
 
 1. AANGAANDE nu de dingen waarvan gij mij geschreven hebt: Het is een mens goed geen vrouw aan te raken;

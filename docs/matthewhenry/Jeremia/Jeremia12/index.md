@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 12
 
 1. GIJ zoudt rechtvaardig zijn, o HEERE, wanneer ik tegen U zou twisten; ik zal nochtans van Uw oordelen met U spreken: Waarom is der goddelozen weg voorspoedig, waarom hebben zij rust, allen die trouwelooslijk trouweloosheid bedrijven?

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Petrus 3
 
 OVER DE LAATSTE TIJDEN, CHRISTUS TOEKOMST EN DE WAARDIGE VOORBEREIDING DAARTOE

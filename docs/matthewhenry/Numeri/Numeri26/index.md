@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 26
 
 1. Het geschiedde nu na die plaag, dat de HEERE sprak tot Mozes, en tot Eleazar, de zoon van Aäron, de priester, zeggende: 

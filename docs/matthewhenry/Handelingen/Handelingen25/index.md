@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 25
 
 1. FESTUS dan in de provincie gekomen zijnde, ging na drie dagen van Cesaréa op naar Jeruzalem.

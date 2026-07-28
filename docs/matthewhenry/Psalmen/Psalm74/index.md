@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 74
 
 1. EEN onderwijzing, voor Asaf. O God, waarom verstoot Gij in eeuwigheid? Waarom zou Uw toorn roken tegen de schapen Uwer weide?

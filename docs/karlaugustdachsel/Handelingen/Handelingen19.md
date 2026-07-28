@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 19
 
 DE ARBEID VAN PAULUS TE EFEZE

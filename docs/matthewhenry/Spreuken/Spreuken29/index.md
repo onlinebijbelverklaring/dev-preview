@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 29
 
 1. EEN man die dikwijls bestraft zijnde, den nek verhardt, zal schielijk verbroken worden, zodat er geen genezen aan zij.

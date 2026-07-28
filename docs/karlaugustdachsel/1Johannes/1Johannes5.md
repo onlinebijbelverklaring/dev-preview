@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Johannes 5
 
 OVER HET WARE GELOOF; DE KRACHT, VRUCHT EN EIGENSCHAP ERVAN

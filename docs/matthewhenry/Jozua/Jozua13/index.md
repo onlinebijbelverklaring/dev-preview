@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 13
 
 1. Jozua nu was oud, wel bedaagd; en de HEERE zeide tot hem: Gij zijt oud geworden, welbedaagd, en er is zeer veel lands overgebleven, om dat erfelijk te bezitten. 

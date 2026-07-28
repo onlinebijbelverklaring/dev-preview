@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 9
 
 1. Daarna zeide de HEERE tot Mozes: Ga in tot Farao, en spreek tot hem: Alzo zegt de HEERE, de God der Hebreeën: Laat Mijn volk trekken, dat het Mij diene. 

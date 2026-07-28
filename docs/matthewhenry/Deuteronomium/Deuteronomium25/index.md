@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 25
 
 1. Wanneer er tussen lieden twist zal zijn, en zij tot het gerecht zullen toetreden, dat zij hen richten, zo zullen zij de rechtvaardige rechtvaardig spreken, en de onrechtvaardige verdoemen. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 16
 
 1. Simson nu ging heen naar Gaza; en hij zag aldaar een vrouw, die een hoer was; en hij ging tot haar in. 

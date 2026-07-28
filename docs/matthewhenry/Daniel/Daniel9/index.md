@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 9
 
 1. IN het eerste jaar van Daríus, den zoon van Ahasvéros, uit het zaad der Meden, die koning gemaakt was over het koninkrijk der Chaldeeën;

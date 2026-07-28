@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 10
 
 WAARSCHUWING VOOR VERLEIDING VAN VALSE APOSTELEN

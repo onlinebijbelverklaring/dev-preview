@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 37
 
 1. DE hand des HEEREN was op mij, en de HEERE voerde mij uit in den geest, en zette mij neder in het midden ener vallei; dezelve nu was vol beenderen.

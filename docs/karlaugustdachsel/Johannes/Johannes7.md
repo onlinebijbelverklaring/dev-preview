@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 7
 
 CHRISTUS’ PREDIKING IN DE TEMPEL

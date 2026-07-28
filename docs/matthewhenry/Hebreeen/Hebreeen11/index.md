@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 11
 
 1. HET geloof nu is een vaste grond der dingen die men hoopt, en een bewijs der zaken die men niet ziet.

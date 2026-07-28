@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 42
 
 1. TOEN traden toe alle oversten der heiren, Jóhanan, de zoon van Karéah, en Jezánja, de zoon van Hosája, en al het volk, van den kleinste tot den grootste toe,

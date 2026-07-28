@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 14
 
 VAN HET JUISTE GEBRUIK VAN DE TALEN EN DE PROFETIE

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 15
 
 CHRISTUS' LIJDEN VOOR PILATUS, KRONING, KRUISIGING, DOOD EN BEGRAFENIS

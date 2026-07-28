@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Thessalonicenzen 3
 
 PAULUS’ BEZORGDHEID EN GEBED VOOR DE THESSALONICENSEN

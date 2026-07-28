@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 32
 
 1. HET woord dat tot Jeremía geschied is van den HEERE, in het tiende jaar van Zedekía, koning van Juda; dit jaar was het achttiende jaar van Nebukadrézar.

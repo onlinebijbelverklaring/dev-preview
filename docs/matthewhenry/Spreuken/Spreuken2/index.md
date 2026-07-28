@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 2
 
 1. MIJN zoon, zo gij mijn redenen aanneemt, en mijn geboden bij u weglegt,

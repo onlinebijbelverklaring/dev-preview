@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 2
 
 1. EN als de dag van het pinksterfeest vervuld werd, waren zij allen eendrachtelijk bijeen.

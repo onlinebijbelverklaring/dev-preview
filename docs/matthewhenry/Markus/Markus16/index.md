@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 16
 
 1. EN als de sabbat voorbijgegaan was, hadden Maria Magdaléna en Maria, de moeder van Jakobus, en Salome specerijen gekocht, opdat zij kwamen en Hem zalfden.

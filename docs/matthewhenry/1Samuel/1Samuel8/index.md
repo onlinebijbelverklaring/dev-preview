@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 8
 
 1. Het geschiedde nu, toen Samuël oud geworden was, zo stelde hij zijn zonen tot richters over Israël. 

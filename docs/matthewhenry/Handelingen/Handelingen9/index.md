@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 9
 
 1. EN Saulus blazende nog dreiging en moord tegen de discipelen des Heeren, ging tot den hogepriester,

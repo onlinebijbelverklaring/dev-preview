@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 12
 
 PAULUS’ ROEM EN OPENBARING TEGENOVER DE EERZUCHT VAN ZIJN TEGENSTANDERS

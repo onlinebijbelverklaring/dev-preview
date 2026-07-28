@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 11
 
 1. EEN psalm van David, voor den opperzangmeester. Ik betrouw op den HEERE; hoe zegt gijlieden tot mijn ziel: Zwerft heen naar ulieder gebergte als een vogel?

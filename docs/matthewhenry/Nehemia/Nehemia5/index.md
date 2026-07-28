@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 5
 
 1. Maar het geroep des volks en hunner vrouwen was groot, tegen hun broederen, de Joden. 

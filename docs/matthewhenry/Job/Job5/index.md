@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 5
 
 1. ROEP nu, zal er iemand zijn die u antwoorde? En tot wien van de heiligen zult gij u keren?

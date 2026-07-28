@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 45
 
 1. ALZO zegt de HEERE tot Zijn gezalfde, tot Kores, wiens rechterhand Ik vat om de volken voor zijn aangezicht neder te werpen, en Ik zal de lendenen der koningen ontbinden; om voor zijn aangezicht de deuren te openen, en de poorten zullen niet gesloten worden:

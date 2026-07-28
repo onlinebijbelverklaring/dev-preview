@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 26
 
 1. IN het begin des koninkrijks van Jójakim, den zoon van Josía, koning van Juda, geschiedde dit woord van den HEERE, zeggende:

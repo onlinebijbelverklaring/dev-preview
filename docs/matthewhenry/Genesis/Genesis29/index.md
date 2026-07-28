@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 29
 
 1. Toen hief Jakob zijn voeten op, en ging naar het land der kinderen van het Oosten. 

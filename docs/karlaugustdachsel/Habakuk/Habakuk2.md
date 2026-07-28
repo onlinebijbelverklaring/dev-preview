@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Habakuk 2
 
 GODS BELOFTEN EN WAARHEID. HET GELOOF MAAKT RECHTVAARDIG.

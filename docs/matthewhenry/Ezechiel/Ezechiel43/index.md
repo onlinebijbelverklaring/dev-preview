@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 43
 
 1. TOEN leidde Hij mij tot de poort, de poort die den weg naar het oosten zag.

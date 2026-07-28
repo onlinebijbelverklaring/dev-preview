@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 99
 
 1. DE HEERE regeert, dat de volken beven; Hij zit tussen de cherubs; de aarde bewege zich.

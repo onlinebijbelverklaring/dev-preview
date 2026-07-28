@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 22
 
 PAULUS’ VERANTWOORDING

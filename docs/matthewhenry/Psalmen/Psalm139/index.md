@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 139
 
 1. EEN psalm van David, voor den opperzangmeester. HEERE, Gij doorgrondt en kent mij.

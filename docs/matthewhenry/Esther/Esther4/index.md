@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Esther 4
 
 1. ALS Mórdechai wist al wat er geschied was, zo verscheurde Mórdechai zijn klederen en hij trok een zak aan met as; en hij ging uit door het midden der stad en hij riep met een groot en bitter geroep.

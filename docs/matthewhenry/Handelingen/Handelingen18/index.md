@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 18
 
 1. EN na dezen scheidde Paulus van Athene en kwam te Korinthe;

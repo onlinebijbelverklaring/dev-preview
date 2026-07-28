@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Esther 2
 
 1. NA deze geschiedenissen, toen de grimmigheid van den koning Ahasvéros gestild was, gedacht hij aan Vasthi, en wat zij gedaan had en wat over haar besloten was.

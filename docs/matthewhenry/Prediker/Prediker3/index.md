@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 3
 
 1. ALLES heeft een bestemden tijd, en alle voornemen onder den hemel heeft zijn tijd.

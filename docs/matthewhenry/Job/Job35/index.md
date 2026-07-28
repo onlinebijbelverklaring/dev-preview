@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 35
 
 1. ELIHU antwoordde verder en zeide:

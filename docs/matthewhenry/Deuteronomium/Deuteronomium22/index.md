@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 22
 
 1. Gij zult uws broeders os of klein vee niet zien afgedreven, en u van die verbergen; gij zult ze uw broeder ganselijk weder toesturen. 

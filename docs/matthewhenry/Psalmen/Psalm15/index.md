@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 15
 
 1. EEN psalm van David.

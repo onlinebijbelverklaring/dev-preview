@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 35
 
 1. Daarna hield Josia het pascha de HEERE te Jeruzalem; en zij slachtten het pascha op de veertienden der eerste maand. 

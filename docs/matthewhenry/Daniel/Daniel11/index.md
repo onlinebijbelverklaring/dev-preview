@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 11
 
 1. IK nu, ik stond in het eerste jaar van Daríus, den Meder, om hem te versterken en te stijven.

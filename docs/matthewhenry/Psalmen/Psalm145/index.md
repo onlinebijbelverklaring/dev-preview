@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 145
 
 1. EEN lofzang van David. Aleph. O mijn God, Gij Koning, ik zal U verhogen, en Uw Naam loven in eeuwigheid en altoos.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 12
 
 1. EN omtrent denzelven tijd sloeg de koning Herodes de handen aan sommigen van de gemeente, om die kwalijk te behandelen.

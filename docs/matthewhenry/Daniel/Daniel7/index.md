@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 7
 
 1. IN het eerste jaar van Bélsazar, den koning van Babel, zag Daniël een droom en gezichten zijns hoofds op zijn leger; toen schreef hij dien droom en hij zeide de hoofdsom der zaken.

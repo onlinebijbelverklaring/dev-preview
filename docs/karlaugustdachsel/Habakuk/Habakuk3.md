@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Habakuk 3
 
 GEBED TOT GOD OM BEWARING VAN ZIJN VOLK.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 3
 
 1. Daarna keerden wij ons en togen op, de weg van Bazan; en Og, de koning van Bazan, trok uit ons tegemoet, hij en al zijn volk, ten strijde bij Edrei. 

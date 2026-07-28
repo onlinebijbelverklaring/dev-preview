@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 30
 
 1. EEN psalm, een lied der inwijding van Davids huis.

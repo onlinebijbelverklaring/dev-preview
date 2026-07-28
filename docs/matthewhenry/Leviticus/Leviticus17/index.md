@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 17
 
 1. Verder sprak de HEERE tot Mozes, zeggende: 

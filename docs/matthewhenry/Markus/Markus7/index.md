@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 7
 
 1. EN tot Hem vergaderden de farizeeën en sommigen der schriftgeleerden, die van Jeruzalem gekomen waren;

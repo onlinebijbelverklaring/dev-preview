@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 24
 
 BILEAMS PROFETIE VAN DE STER UIT JAKOB.

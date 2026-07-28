@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 22
 
 1. Wanneer iemand een os, of klein vee steelt, en slacht het, of verkoopt het, die zal vijf runderen voor een os wedergeven, en vier schapen voor een stuk klein vee. 

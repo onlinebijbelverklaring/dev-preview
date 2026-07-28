@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 18
 
 1. VERDER geschiedde des HEEREN woord tot mij, zeggende:

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 13
 
 1. DAT de broederlijke liefde blijve.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 20
 
 REIS VAN PAULUS NAAR TROAS EN MILETE EN WAT HIJ DAAR GEDAAN HEEFT

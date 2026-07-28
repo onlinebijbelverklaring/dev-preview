@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 1
 
 1. HET gezicht van Jesaja, den zoon van Amoz, hetwelk hij zag over Juda en Jeruzalem, in de dagen van Uzzia, Jotham, Achaz en Hizkía, de koningen van Juda.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 114
 
 1. TOEN Israël uit Egypte toog, het huis Jakobs van een volk dat een vreemde taal had,

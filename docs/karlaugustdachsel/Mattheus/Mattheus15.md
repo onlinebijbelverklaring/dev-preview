@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 15
 
 OVER MENSELIJKE INZETTINGEN, DE KANANÉSE VROUW EN ANDERE WONDEREN VAN CHRISTUS.

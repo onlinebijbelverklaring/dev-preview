@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 6
 
 1. EN het woord des HEEREN geschiedde tot mij, zeggende:

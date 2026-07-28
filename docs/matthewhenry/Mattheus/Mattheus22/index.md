@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 22
 
 1. EN Jezus antwoordende sprak tot hen wederom door gelijkenissen, zeggende:

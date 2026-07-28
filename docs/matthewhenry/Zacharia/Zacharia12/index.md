@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 12
 
 1. De last van het woord des HEEREN over Israël. De HEERE spreekt, Die de hemel uitbreidt, en de aarde grondvest, en des mensen geest in zijn binnenste formeert. 

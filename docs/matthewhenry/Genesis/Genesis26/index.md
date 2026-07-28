@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 26
 
 1. En er was honger in dat land, behalve de eersten honger, die in de dagen van Abraham geweest was; daarom toog Izak tot Abimelech, de koning der Filistijnen, naar Gerar. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Petrus 1
 
 1. PETRUS, een apostel van JEZUS CHRISTUS, aan de vreemdelingen, verstrooid in Pontus, Galátië, Cappadócië, Azië en Bithynië,

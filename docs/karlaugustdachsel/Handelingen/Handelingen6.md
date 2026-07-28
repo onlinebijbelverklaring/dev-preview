@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 6
 
 AANSTELLING VAN ARMENVERZORGERS. AANKLACHT VAN STEFANUS.

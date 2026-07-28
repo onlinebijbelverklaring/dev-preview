@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 5
 
 VAN DE BEZETENE, DE VROUW MET DE BLOEDVLOEIING EN HET DOCHTERTJE VAN JAIRUS

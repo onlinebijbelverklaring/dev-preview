@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 31
 
 1. DE woorden van den koning Lemuël; de last waarmede zijn moeder hem onderwees.

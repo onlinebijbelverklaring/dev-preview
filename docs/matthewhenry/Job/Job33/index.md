@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 33
 
 1. EN gewisselijk, o Job, hoor toch mijn redenen, en neem al mijn woorden ter ore.

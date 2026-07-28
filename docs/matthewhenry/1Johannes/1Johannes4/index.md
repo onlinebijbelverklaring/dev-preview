@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Johannes 4
 
 1. Geliefden, gelooft niet een iegelijken geest, maar beproeft de geesten, ofzij uit Godzijn;want vele valse profeten zijn uitgegaan in de wereld. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Johannes 1
 
 SPIEGEL VAN EEN GODZALIGE VROUW

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 5
 
 1. En ik hief mijn ogen weder op, en ik zag; en ziet, een vliegende rol. 

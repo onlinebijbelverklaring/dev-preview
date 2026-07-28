@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zefanja 3
 
 1. Wee der ijselijke, en der bevlekte, der verdrukkende stad! 

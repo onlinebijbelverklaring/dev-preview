@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 50
 
 1. Toen viel Jozef op zijns vaders aangezicht, en hij weende over hem, en kuste hem. 

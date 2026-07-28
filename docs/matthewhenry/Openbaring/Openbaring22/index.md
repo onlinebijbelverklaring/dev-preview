@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 22
 
 1. EN hij toonde mij een zuivere rivier van het water des levens, klaar als kristal, voortkomende uit den troon Gods en des Lams.

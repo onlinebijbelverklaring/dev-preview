@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 9
 
 1. EN voorbijgaande, zag Hij een mens, blind van de geboorte af.

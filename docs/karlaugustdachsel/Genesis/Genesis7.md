@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 7
 
 DE ZONDVLOED KOMT.

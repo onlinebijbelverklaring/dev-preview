@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zefanja 1
 
 1. Het woord des HEEREN, hetwelk geschied is tot Zefanja, de zoon van Cuschi, de zoon van Gedalja, de zoon van Amarja, de zoon van Hizkia; in de dagen van Josia, de zoon van Amon, de koning van Juda. 

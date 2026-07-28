@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Kolossenzen 1
 
 DE ZALIGHEID, DOOR CHRISTUS VERWORVEN, WORDT DE MENSEN DOOR HET WOORD AANGEBODEN

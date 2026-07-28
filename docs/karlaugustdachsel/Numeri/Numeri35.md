@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 35
 
 VAN DE STEDEN VAN DE LEVIETEN, DE VRIJSTEDEN EN DE DOODSLAG.

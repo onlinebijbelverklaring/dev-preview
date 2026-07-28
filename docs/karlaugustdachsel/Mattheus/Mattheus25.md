@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 25
 
 DE TIEN MAAGDEN, DE TOEVERTROUWDE TALENTEN EN HET LAATSTE OORDEEL

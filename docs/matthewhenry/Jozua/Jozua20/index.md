@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 20
 
 1. Verder sprak de HEERE tot Jozua, zeggende: 

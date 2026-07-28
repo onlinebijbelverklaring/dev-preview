@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 32
 
 1. Neig de oren, gij hemel, en ik zal spreken; en de aarde hore de redenen mijns monds. 

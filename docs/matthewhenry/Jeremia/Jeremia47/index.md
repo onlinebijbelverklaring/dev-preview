@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 47
 
 1. HET woord des HEEREN dat tot den profeet Jeremía geschiedde tegen de Filistijnen, eer dat Farao Gaza sloeg.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 6
 
 1. En ik hief mijn ogen weder op, en ik zag; en ziet, vier wangens gingen er uit van tussen twee bergen, en die bergen waren bergen van koper. 

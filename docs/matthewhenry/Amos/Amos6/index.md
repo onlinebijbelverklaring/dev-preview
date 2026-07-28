@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Amos 6
 
 1. Wee de gerusten te Sion, en de zekeren op de berg van Samaria! die de voornaamste zijn van de eerstelingen der volken, en tot dewelke die van het huis Israëls komen. 

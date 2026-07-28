@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hosea 11
 
 1. Als Israël een kind was, toen heb Ik hem liefgehad, en Ik heb Mijn zoon uit Egypte geroepen. 

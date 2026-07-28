@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 34
 
 1. HET woord dat tot Jeremía geschied is van den HEERE (als Nebukadnézar, koning van Babel, en zijn ganse heir, en alle koninkrijken der aarde, die onder de heerschappij zijner hand waren, en al de volken tegen Jeruzalem streden en tegen al haar steden), zeggende:

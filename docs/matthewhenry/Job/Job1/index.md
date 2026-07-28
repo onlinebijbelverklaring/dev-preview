@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 1
 
 1. ER was een man in het land Uz, zijn naam was Job; en dezelve man was oprecht en vroom en godvrezende en wijkende van het kwaad.

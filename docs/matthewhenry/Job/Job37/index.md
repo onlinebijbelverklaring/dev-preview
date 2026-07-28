@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 37
 
 1. OOK beeft hierover mijn hart, en springt op uit zijn plaats.

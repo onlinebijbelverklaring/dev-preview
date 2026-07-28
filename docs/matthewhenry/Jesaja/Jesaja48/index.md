@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 48
 
 1. HOORT dit, gij huis Jakobs, die genoemd worden met den naam van Israël en uit de wateren van Juda voortgekomen zijn; die daar zweren bij den Naam des HEEREN en vermelden den God Israëls, maar niet in waarheid, noch in gerechtigheid.

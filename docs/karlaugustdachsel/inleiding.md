@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Inleiding
 
 ## DE VIJF BOEKEN VAN MOZES. 

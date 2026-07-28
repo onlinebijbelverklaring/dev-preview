@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 18
 
 1. HET woord dat tot Jeremía geschied is van den HEERE, zeggende:

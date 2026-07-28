@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 20
 
 1. EN het geschiedde in een van die dagen, als Hij in den tempel het volk leerde en het Evangelie verkondigde, dat de overpriesters en schriftgeleerden met de ouderlingen daarover kwamen,

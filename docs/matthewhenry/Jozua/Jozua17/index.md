@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 17
 
 1. De stam van Manasse had ook een lot, omdat hij de eerstgeborene van Jozef was: te weten Machir, de eerstgeborene van Manasse, de vader van Gilead; omdat hij een krijgsman was, zo had hij Gilead en Bazan. 

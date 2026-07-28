@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Timotheus 3
 
 OVER DE ZWARE TIJDEN VAN DE LAATSTE DAGEN EN HET GROTE NUT VAN DE HEILIGE SCHRIFT

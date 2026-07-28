@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezra 8
 
 1. Dit nu zijn de hoofden hunner vaderen, met hun geslachtsrekening, die met mij uit Babel optogen, onder het koninkrijk van de koning Arthahsasta. 

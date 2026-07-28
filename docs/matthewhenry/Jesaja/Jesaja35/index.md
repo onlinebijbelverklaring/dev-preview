@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 35
 
 1. DE woestijn en de dorre plaatsen zullen hierover vrolijk zijn, en de wildernis zal zich verheugen en zal bloeien als een roos.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 32
 
 1. ZIE, een Koning zal regeren in gerechtigheid; en de vorsten zullen heersen naar recht.

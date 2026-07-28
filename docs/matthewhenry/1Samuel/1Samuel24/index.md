@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 24
 
 1. EN David toog vandaar op, en hij bleef in de vestingen van Engédi.

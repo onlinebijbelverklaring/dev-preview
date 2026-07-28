@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezra 3
 
 1. Toen nu de zevende maand aankwam, en de kinderen Israëls in de steden waren, verzamelde zich het volk, als een enig man, te Jeruzalem. 

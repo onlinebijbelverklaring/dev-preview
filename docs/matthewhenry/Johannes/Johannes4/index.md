@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 4
 
 1. ALS dan de Heere verstond, dat de farizeeën gehoord hadden dat Jezus meer discipelen maakte en doopte dan Johannes

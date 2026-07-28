@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 75
 
 1. VOOR den opperzangmeester, Altáscheth; een psalm, een lied, voor Asaf.

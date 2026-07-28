@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 2
 
 1. Toen bad Hanna en zeide: Mijn hart springt van vreugde op in de HEERE; mijn hoorn is verhoogd in de HEERE; mijn mond is wijd opengedaan over mijn vijanden; want ik verheug mij in Uw heil. 

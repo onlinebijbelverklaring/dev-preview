@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 17
 
 1. EN door Amfípolis en Apollónia hun weg genomen hebbende, kwamen zij te Thessaloníca, alwaar een synagoge der Joden was.

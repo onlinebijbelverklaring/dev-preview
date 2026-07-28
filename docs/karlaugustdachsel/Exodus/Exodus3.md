@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 3
 
 MOZES WORDT GEROEPEN, OM DE KINDEREN ISRAËL’S UIT EGYPTE TE LEIDEN

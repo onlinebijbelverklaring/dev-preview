@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 131
 
 1. EEN lied Hammaäloth, van David. O HEERE, mijn hart is niet verheven en mijn ogen zijn niet hoog; ook heb ik niet gewandeld in dingen mij te groot en te wonderlijk.

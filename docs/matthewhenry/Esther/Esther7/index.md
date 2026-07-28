@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Esther 7
 
 1. TOEN de koning met Haman gekomen was om te drinken met de koningin Esther,

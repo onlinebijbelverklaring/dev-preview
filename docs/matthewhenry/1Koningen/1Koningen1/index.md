@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 1
 
 1. De koning David nu was oud, wel bedaagd; en zij dekten hem met klederen, doch hij kreeg gene warmte. 

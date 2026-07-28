@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 6
 
 1. Als nu de ark des HEEREN zeven maanden in het land der Filistijnen geweest was, 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hooglied 8
 
 1. OCH, dat Gij mij als een Broeder waart, zuigende de borsten mijner moeder! Dat ik U op de straat vond, ik zou U kussen, ook zouden zij mij niet verachten.

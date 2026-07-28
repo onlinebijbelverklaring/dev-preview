@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 147
 
 1. LOOFT den HEERE, want onzen God te psalmzingen is goed, dewijl Hij lieflijk is; de lof is betamelijk.

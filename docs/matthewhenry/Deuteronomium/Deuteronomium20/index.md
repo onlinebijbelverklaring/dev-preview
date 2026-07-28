@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 20
 
 1. Wanneer gij zult uittrekken tot de strijd tegen uw vijanden, en zult zien paarden en wagenen, een volk, meerder dan gij, zo zult gij voor hen niet vrezen; want de HEERE, uw God, is met u, Die u uit Egypteland heeft opgevoerd. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Amos 8
 
 1. De Heere HEERE deed mij aldus zien; en ziet, een korf met zomervruchten. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Timotheus 6
 
 1. DE dienstknechten, zovelen als er onder het juk zijn, zullen hun heren alle eer waardig achten, opdat de Naam Gods en de leer niet gelasterd worde.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezra 6
 
 1. Toen gaf de koning Darius bevel; en zij zochten in de kanselarij, waar de schatten waren weggelegd, in Babel. 

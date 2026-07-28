@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 9
 
 1. OCH, dat mijn hoofd water ware en mijn oog een springader van tranen! Zo zou ik dag en nacht bewenen de verslagenen der dochter mijns volks.

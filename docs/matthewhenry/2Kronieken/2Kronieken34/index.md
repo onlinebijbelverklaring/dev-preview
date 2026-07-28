@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 34
 
 1. Josia was acht jaren oud, toen hij koning werd, en regeerde een en dertig jaren te Jeruzalem. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 9
 
 1. En David zeide: Is er nog iemand die overgebleven is van het huis van Saul, dat ik weldadigheid aan hem doe, om Jonathans wil? 

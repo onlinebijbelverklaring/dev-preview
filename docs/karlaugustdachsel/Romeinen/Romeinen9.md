@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 9
 
 DE VERKIEZING HANGT NIET AF VAN UITWENDIGE VOORRECHTEN, MAAR VAN GODS GENADE

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 9
 
 1. EN Zijn twaalf discipelen samengeroepen hebbende, gaf Hij hun kracht en macht over al de duivelen, en om ziekten te genezen;

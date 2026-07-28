@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 3
 
 1. EN ik, broeders, kon tot u niet spreken als tot geestelijken, maar als tot vleselijken, als tot jonge kinderen in Christus.

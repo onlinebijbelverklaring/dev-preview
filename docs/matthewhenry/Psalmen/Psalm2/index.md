@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 2
 
 1. WAAROM woeden de heidenen, en bedenken de volken ijdelheid?

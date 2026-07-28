@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 34
 
 1. NADERT, gij heidenen, om te horen, en gij volken, luistert toe; de aarde hore en haar volheid, de wereld en alles wat daaruit voortkomt.

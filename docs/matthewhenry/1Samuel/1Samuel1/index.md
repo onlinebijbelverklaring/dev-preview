@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 1
 
 1. Daar was een man van Ramathaim-zofim, van het gebergte van Efraim, wiens naam was Elkana, een zoon van Jerocham, de zoon van Elihu, de zoon van Tochu, de zoon van Zuf, een Efrathiet. 

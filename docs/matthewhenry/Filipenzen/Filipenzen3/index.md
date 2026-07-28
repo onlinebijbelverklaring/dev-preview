@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Filipenzen 3
 
 1. VOORTS, mijne broeders, verblijdt u in den Heere. Dezelfde dingen aan u te schrijven is mij niet verdrietig, en het is u zeker.

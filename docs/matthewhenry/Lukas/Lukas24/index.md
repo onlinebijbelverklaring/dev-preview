@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 24
 
 1. EN op den eersten dag der week, zeer vroeg in den morgenstond, gingen zij naar het graf, dragende de specerijen die zij bereid hadden, en sommigen met haar.

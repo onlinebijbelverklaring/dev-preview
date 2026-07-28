@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 22
 
 OFFERANDE VAN IZAAK. BELOFTE VAN CHRISTUS.

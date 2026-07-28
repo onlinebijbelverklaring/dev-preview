@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 1
 
 1. HET eerste boek heb ik gemaakt, o Theófilus, van al hetgeen dat JEZUS begonnen heeft beide te doen en te leren,

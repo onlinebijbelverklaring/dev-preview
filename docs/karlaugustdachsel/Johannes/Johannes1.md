@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 1
 
 CHRISTUS’ PERSOON EN AMBT. ANDREAS, PETRUS, FILIPPUS EN NATHANAEL WORDEN ZIJN DISCIPELEN

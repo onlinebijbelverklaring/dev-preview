@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 29
 
 1. De Filistijnen nu hadden al hun legers vergaderd te Afek; en de Israëlieten legerden zich bij de fontein, die bij Jizreel is. 

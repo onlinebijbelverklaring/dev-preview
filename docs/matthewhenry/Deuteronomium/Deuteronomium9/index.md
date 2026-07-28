@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 9
 
 1. Hoor, Israël! gij zult heden over de Jordaan gaan, dat gij inkomt, om volken te erven, die groter en sterker zijn dan gij; steden, die groot en tot in de hemel gesterkt zijn; 

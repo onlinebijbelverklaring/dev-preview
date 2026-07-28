@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 39
 
 1. TE dien tijde zond Meródach Báladan, de zoon van Báladan, de koning van Babel, brieven en een geschenk aan Hizkía; want hij had gehoord dat hij krank geweest en weder sterk geworden was.

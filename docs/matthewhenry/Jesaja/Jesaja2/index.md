@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 2
 
 1. HET woord dat Jesaja, de zoon van Amoz, gezien heeft over Juda en Jeruzalem.

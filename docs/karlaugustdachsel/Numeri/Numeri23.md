@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 23
 
 BILEAM ZEGENT ISRAEL.

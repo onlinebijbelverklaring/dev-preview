@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 20
 
 1. NADAT nu het oproer gestild was, Paulus de discipelen tot zich geroepen en gegroet hebbende, ging uit om naar Macedónië te reizen.

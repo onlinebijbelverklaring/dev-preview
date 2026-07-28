@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Micha 2
 
 1. Wee dien, die ongerechtigheid bedenken, en kwaad werken op hun legers; in het licht van de morgenstond doen zij het, dewijl het in de macht van hunlieder hand is. 

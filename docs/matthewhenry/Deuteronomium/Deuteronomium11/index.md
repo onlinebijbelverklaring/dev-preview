@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 11
 
 1. Daarom zult gij de HEERE, uw God, liefhebben, en gij zult te allen dage onderhouden Zijn bevel, en Zijn inzettingen, en Zijn rechten, en Zijn geboden. 

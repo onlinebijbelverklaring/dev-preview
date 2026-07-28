@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 19
 
 1. EN Jezus ingekomen zijnde, ging Hij door Jericho.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Esther 9
 
 1. IN de twaalfde maand nu (dezelve is de maand Adar), op den dertienden dag derzelve, toen des konings woord en zijn wet nabijgekomen was, dat men het doen zou; ten dage als de vijanden der Joden hoopten over hen te heersen, zo is het omgekeerd, want de Joden heersten zelven over hun haters.

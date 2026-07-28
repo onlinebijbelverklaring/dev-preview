@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 28
 
 1. Toen vergaderde David te Jeruzalem alle oversten van Israël, de oversten der stammen, en de oversten der verdelingen, de koning dienende, en de oversten der duizenden, en de oversten der honderden, en de oversten van alle have en vee des konings en zijner zonen, met de kamerlingen, en de helden, ja, allen kloeken held. 

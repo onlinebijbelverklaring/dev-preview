@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 18
 
 1. Het geschiedde nu na dezen, dat David de Filistijnen sloeg, en hen ten onder bracht; en hij nam Gath, en haar onderhorige plaatsen, uit der Filistijnen hand. 

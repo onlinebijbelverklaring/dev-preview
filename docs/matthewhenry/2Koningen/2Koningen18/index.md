@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 18
 
 1. Het geschiedde nu in het derde jaar van Hosea, de zoon van Ela, de koning van Israël, dat Hizkia koning werd, de zoon van Achaz, koning van Juda. 

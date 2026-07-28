@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Timotheus 6
 
 OVER DIENSTKNECHTEN, VERLEIDERS, RIJKEN EN OVER DE STRIJD VAN HET GELOOF

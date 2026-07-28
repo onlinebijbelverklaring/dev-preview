@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Efeze 5
 
 VERDERE VERMANING TOT EEN HEILIGE WANDEL. LESSEN VOOR ECHTGENOTEN

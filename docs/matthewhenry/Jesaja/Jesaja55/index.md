@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 55
 
 1. O alle gij dorstigen, komt tot de wateren, en gij die geen geld hebt, komt, koopt en eet, ja, komt, koopt zonder geld en zonder prijs, wijn en melk.

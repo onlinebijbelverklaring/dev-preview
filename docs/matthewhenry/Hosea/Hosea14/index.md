@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hosea 14
 
 1. Samaria zal woest worden, want zij is wederspannig geweest tegen haar God; zij zullen door het zwaard vallen, hun kinderkens zullen verpletterd, en hun zwangere vrouwen zullen opengesneden worden. 

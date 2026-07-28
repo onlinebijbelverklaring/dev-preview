@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 40
 
 1. Verder sprak de HEERE tot Mozes, zeggende: 

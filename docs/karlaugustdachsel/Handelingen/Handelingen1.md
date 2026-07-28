@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 1
 
 CHRISTUS’ HEMELVAART. MATTHIAS WORDT TOT APOSTEL GEKOZEN.

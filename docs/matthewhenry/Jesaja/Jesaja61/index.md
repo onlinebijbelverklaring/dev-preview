@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 61
 
 1. DE Geest des Heeren HEEREN is op Mij, omdat de HEERE Mij gezalfd heeft, om een blijde boodschap te brengen den zachtmoedigen; Hij heeft Mij gezonden om te verbinden de gebrokenen van hart, om den gevangenen vrijheid uit te roepen, en den gebondenen opening der gevangenis;

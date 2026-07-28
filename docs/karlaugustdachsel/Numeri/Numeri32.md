@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 32
 
 ER WORDT EEN BEGIN GEMAAKT MET HET IN BEZIT NEMEN VAN HET LAND KANAÄN.

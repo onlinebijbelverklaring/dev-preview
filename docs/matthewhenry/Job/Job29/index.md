@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 29
 
 1. EN Job ging voort zijn spreuk op te heffen, en zeide:

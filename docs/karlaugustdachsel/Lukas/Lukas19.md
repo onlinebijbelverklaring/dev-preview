@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 19
 
 ---HOOFDSTUK---19

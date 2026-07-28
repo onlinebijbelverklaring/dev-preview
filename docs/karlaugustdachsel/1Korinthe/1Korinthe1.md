@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 1
 
 VERMANING TOT EENDRACHT EN OOTMOED

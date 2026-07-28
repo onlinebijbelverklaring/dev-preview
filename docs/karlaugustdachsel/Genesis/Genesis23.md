@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 23
 
 SARA’S DOOD EN BEGRAFENIS.

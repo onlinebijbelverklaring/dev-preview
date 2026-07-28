@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 24
 
 1. Aangaande nu de kinderen van Aaron, dit waren hun verdelingen. De zonen van Aaron waren Nadab, en Abihu, Eleazar en Ithamar. 

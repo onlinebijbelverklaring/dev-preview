@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 12
 
 1. De HEERE nu had tot Mozes en tot Aaron in Egypteland gesproken, zeggende: 

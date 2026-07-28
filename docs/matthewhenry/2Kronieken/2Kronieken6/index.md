@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 6
 
 1. Toen zeide Salomo: De HEERE heeft gezegd, dat Hij in de donkerheid zou wonen. 

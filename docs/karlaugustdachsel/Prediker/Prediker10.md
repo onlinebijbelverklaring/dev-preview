@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 10
 
 ***1. Ene dode, vergiftige vlieg doet evenzo (zie Hoofdstuk 9: 18) de kostbare zalfolie des apothekers, des zalfbereiders stinken en opzwellen, of gisten, wanneer zij er invalt en verrot, inzonderheid in die oosterse landen, waar veel onreine en vergiftige vliegen zijn, waar de zalfolie ook zuiverder wordt bereid en de lucht veel heter is dan in onze gewesten; alzo een weinig dwaasheid enen man, die kostelijk is van wijsheid en van eer.***

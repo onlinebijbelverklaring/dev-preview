@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 18
 
 JETHRO GEEFT AAN MOZES EEN GOEDE RAAD.

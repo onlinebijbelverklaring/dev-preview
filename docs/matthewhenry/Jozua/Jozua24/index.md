@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 24
 
 1. Daarna verzamelde Jozua al de stammen van Israël te Sichem, en hij riep de oudsten van Israël, en deszelfs hoofden, en deszelfs richters, en deszelfs ambtlieden; en zij stelden zich voor het aangezicht van God. 

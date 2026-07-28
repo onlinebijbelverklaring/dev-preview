@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 10
 
 1. WEE dengenen die ongerechte inzettingen inzetten, en den schrijvers die moeite voorschrijven;

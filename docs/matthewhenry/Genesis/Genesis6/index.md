@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 6
 
 1. En het geschiedde, als de mensen op de aardbodem begonnen te vermenigvuldigen, en hun dochters geboren werden, 

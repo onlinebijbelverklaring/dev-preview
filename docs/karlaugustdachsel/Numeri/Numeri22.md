@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 22
 
 BILEAM MOET DE ISRAELIETEN VERVLOEKEN. ZIJN EZELIN SPREEKT.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 9
 
 DE BLINDGEBORENE WORDT DOOR CHRISTUS ZIENDE GEMAAKT

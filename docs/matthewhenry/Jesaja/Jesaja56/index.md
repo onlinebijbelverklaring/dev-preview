@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 56
 
 1. ALZO zegt de HEERE: Bewaart het recht en doet gerechtigheid, want Mijn heil is nabij om te komen en Mijn gerechtigheid om geopenbaard te worden.

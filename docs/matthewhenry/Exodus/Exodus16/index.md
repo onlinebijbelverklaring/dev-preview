@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 16
 
 1. Toen zij van Elim gereisd waren, zo kwam de ganse vergadering der kinderen Israëls in de woestijn Sin, welke is tussen Elim en tussen Sinai, aan de vijftienden dag der tweede maand, nadat zij uit Egypteland uitgegaan waren. 

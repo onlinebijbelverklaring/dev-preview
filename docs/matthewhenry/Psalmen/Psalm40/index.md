@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 40
 
 1. DAVIDS psalm, voor den opperzangmeester.

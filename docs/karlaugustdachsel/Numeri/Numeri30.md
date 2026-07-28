@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 30
 
 OVER DE GELOFTEN, VOOR ZOVEEL ZIJ VRIJEN EN NIET VRIJEN VERBINDEN.

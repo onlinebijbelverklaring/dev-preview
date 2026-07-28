@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jakobus 4
 
 WAARSCHUWING TEGEN ZONDEN

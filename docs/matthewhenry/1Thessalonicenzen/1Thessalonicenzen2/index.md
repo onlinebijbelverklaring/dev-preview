@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Thessalonicenzen 2
 
 1. WANT gij weet zelven, broeders, onzen ingang tot u, dat die niet ijdel is geweest;

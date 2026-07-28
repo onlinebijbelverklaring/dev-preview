@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Filipenzen 4
 
 1. ZO dan, mijn geliefde en zeer gewenste broeders, mijn blijdschap en kroon, staat alzo in den Heere, geliefden.

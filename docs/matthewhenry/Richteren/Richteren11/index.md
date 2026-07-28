@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 11
 
 1. Jeftha nu, de Gileadiet, was een strijdbaar held, maar hij was een hoerekind; doch Gilead had Jeftha gegenereerd. 

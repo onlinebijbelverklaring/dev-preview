@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 8
 
 WONDERWERKEN VAN CHRISTUS AAN DEZE EN GENE ZIJDE VAN DE ZEE.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jakobus 5
 
 1. WELAAN nu, gij rijken, weent en huilt over uw ellendigheden, die over u komen.

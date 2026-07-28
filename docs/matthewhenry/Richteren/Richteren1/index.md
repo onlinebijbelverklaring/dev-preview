@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 1
 
 1. En het geschiedde na de dood van Jozua, dat de kinderen Israëls de HEERE vraagden, zeggende: Wie zal onder ons het eerst optrekken naar de Kanaänieten, om tegen hen te krijgen? 

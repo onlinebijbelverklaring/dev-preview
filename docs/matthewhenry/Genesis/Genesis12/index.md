@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 12
 
 1. De HEERE nu had tot Abram gezegd: Ga gij uit uw land, en uit uw maagschap, en uit uws vaders huis, naar het land, dat Ik u wijzen zal. 

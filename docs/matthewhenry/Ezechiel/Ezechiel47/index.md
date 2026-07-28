@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 47
 
 1. DAARNA bracht Hij mij weder tot de deur des huizes, en zie, er vloten wateren uit, van onder den dorpel des huizes naar het oosten, want het voorste deel des huizes was in het oosten; en de wateren daalden af van onderen, uit de rechterzijde des huizes, van het zuiden des altaars.

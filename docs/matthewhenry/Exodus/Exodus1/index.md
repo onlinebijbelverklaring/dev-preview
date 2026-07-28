@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 1
 
 1. Dit nu zijn de namen der zonen van Israël, die in Egypte gekomen zijn, met Jakob; zij kwamen er in, elk met zijn huis. 

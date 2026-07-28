@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 6
 
 1. IN het jaar toen de koning Uzzia stierf, zo zag ik den Heere zittende op een hogen en verheven troon, en Zijn zomen vervullende den tempel.

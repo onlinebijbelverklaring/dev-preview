@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 19
 
 1. DE last van Egypte. Zie, de HEERE rijdt op een snelle wolk en Hij zal in Egypte komen; en de afgoden van Egypte zullen bewogen worden van Zijn aangezicht, en het hart der Egyptenaars zal smelten in het binnenste van hen.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 40
 
 1. En het geschiedde na deze dingen, dat de schenker des konings van Egypte, en de bakker, zondigden tegen hun Heere, tegen de koning van Egypte. 

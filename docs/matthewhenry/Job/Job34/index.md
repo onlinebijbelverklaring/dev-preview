@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 34
 
 1. VERDER antwoordde Elihu en zeide:

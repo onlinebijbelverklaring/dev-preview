@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 112
 
 1. HALLELUJAH. Aleph. Welgelukzalig is de man die den HEERE vreest; Beth. die groten lust heeft in Zijn geboden.

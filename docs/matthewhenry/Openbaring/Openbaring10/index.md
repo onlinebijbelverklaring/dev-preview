@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 10
 
 1. EN ik zag een anderen sterken Engel afkomende van den hemel, Die bekleed was met een wolk; en een regenboog was boven Zijn hoofd, en Zijn aangezicht was als de zon, en Zijn voeten waren als pilaren van vuur.

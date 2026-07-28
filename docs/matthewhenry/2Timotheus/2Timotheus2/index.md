@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Timotheus 2
 
 1. GIJ dan, mijn zoon, word gesterkt in de genade die in Christus Jezus is;

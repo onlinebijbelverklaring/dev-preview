@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 5
 
 1. Dit is het boek van Adams geslacht. Ten dage als God de mens schiep, maakte Hij hem naar de gelijkenis Gods. 

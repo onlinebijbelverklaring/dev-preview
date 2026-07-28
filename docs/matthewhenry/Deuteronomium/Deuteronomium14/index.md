@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 14
 
 1. Gijlieden zijt kinderen des HEEREN, uws Gods; gij zult uzelven niet snijden, noch kaalheid maken tussen uw ogen, over een dode. 

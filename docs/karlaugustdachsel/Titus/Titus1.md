@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Titus 1
 
 WELKE PERSONEN HET PREDIKAMBT MOETEN BEDIENEN EN WAT HET AMBT VAN DE PREDIKERS IS

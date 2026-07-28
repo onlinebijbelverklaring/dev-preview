@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 14
 
 1. EN het pascha en het feest der ongehevelde broden was na twee dagen; en de overpriesters en de schriftgeleerden zochten hoe zij Hem met listigheid vangen en doden zouden.

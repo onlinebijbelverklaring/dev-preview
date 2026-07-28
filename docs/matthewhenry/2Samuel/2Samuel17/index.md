@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 17
 
 1. Voorts zeide Achitofel tot Absalom: Laat mij nu twaalf duizend mannen uitlezen, dat ik mij opmake en David dezen nacht achterna jage. 

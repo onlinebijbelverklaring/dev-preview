@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 6
 
 1. DARÍUS de Meder nu ontving het koninkrijk, omtrent twee en zestig jaren oud zijnde.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 12
 
 1. Dit nu zijn de priesters en de Levieten die met Zerubbábel, den zoon van Sealthiël, en Jésua optogen: Serája, Jeremía, Ezra,

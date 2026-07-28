@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 14
 
 1. In het tweede jaar van Joas, de zoon van Joahaz, de koning van Israël, werd Amazia koning, de zoon van Joas, de koning van Juda. 

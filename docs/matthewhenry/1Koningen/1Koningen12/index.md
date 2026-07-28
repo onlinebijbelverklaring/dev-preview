@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 12
 
 1. En Rehabeam toog naar Sichem, want het ganse Israël was te Sichem gekomen, om hem koning te maken. 

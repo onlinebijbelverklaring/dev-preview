@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 15
 
 MANNEN EN VROUWEN MET EEN ONREINE VLOED, HOE DIE TE REINIGEN.

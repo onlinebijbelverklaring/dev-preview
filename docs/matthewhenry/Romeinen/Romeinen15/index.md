@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 15
 
 1. MAAR wij die sterk zijn, zijn schuldig de zwakheden der onsterken te dragen en niet onszelven te behagen.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 1
 
 1. De geschiedenissen van Nehémia, zoon van Hachalja. En het geschiedde in de maand Chisleu, in het twintigste jaar, als ik te Susan in het paleis was; 

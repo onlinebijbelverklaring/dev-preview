@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 5
 
 1. EN Jezus de scharen ziende, is geklommen op een berg; en als Hij nedergezeten was, kwamen Zijn discipelen tot Hem.

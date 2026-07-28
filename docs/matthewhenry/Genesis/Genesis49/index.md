@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 49
 
 1. Daarna riep Jakob zijn zonen, en hij zeide: Verzamelt u, en ik zal u verkondigen, hetgeen u in de navolgende dagen wedervaren zal. 

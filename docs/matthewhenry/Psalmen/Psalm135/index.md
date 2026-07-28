@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 135
 
 1. HALLELUJAH. Prijst den Naam des HEEREN, prijst Hem, gij knechten des HEEREN;

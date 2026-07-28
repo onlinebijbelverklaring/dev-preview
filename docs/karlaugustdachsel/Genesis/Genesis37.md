@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 37
 
 JOZEF WORDT UIT NIJD DOOR ZIJN BROEDERS VERKOCHT.

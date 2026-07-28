@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 8
 
 WIJDING VAN DE PRIESTERS.

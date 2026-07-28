@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 9
 
 1. Voorts op den vier en twintigsten dag dezer maand verzamelden zich de kinderen Israëls met vasten en met zakken, en aarde was op hen.

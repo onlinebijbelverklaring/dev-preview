@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 46
 
 1. En Israel verreisde met al wat hij had, en hij kwam te Ber-seba, en hij offerde offeranden aan de God van zijn vader Izak. 

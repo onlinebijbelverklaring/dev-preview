@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hooglied 6
 
 1. WAAR is uw Liefste heen gegaan, o gij schoonste onder de vrouwen? Waarheen heeft uw Liefste het aangezicht gewend, opdat wij Hem met u zoeken?

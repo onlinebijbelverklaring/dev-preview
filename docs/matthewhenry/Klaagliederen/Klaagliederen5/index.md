@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Klaagliederen 5
 
 1. GEDENK, HEERE, wat ons geschied is, aanschouw het en zie onzen smaad aan.

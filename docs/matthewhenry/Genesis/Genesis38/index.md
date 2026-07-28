@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 38
 
 1. En het geschiedde ten zelven tijde, dat Juda van zijn broederen aftoog, en hij keerde in tot een man van Adullam, wiens naam was Hira. 

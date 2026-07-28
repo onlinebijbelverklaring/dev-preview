@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nahum 3
 
 1. Wee der bloedstad, die gans vol leugen, en verscheuring is! de roof houdt niet op. 

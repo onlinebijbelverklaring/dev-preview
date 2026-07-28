@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 38
 
 1. ALS Sefátja, de zoon van Mattan, en Gedálja, de zoon van Pashur, en Juchal, de zoon van Selémja, en Pashur, de zoon van Malchía, de woorden hoorden die Jeremía tot al het volk sprak, zeggende:

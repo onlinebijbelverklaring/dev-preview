@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 6
 
 OVER ENIGE VRUCHTEN VAN DE GODZALIGHEID.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 8
 
 1. ROEPT de Wijsheid niet, en verheft niet de Verstandigheid Haar stem?

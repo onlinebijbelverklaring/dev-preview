@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 5
 
 PLOTSELINGE DOOD VAN ANANIAS EN SAFFIRA. GEVANGENNEMING EN REDDING VAN DE APOSTELEN.

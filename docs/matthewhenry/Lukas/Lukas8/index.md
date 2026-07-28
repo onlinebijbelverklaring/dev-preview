@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 8
 
 1. EN het geschiedde daarna, dat Hij reisde van de ene stad en vlek tot de andere, predikende en verkondigende het Evangelie van het Koninkrijk Gods; en de twaalve waren met Hem,

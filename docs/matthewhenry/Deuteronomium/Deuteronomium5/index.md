@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 5
 
 1. En Mozes riep het ganse Israël, en zeide tot hen: Hoor, Israël! de inzettingen en rechten, die ik heden voor uw oren spreek, dat gij ze leert en waarneemt, om dezelve te doen. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Efeze 2
 
 1. EN u heeft Hij mede levend gemaakt, daar gij dood waart door de misdaden en de zonden,

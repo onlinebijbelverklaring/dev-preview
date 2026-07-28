@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 5
 
 1. DE koning Bélsazar maakte een groten maaltijd voor zijn duizend geweldigen, en hij dronk wijn voor die duizend.

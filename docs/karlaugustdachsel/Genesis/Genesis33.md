@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 33
 
 VERZOENING VAN JAKOB MET EZAU.

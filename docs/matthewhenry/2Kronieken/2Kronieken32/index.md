@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 32
 
 1. Na deze geschiedenissen en derzelver bevestiging, kwam Sanherib, de koning van Assyrië, en toog in Juda, en legerde zich tegen de vaste steden, en dacht ze tot zich af te scheuren. 

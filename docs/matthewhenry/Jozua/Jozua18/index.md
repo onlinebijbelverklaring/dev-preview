@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 18
 
 1. En de ganse vergadering van de kinderen Israëls verzamelde zich te Silo, en zij richtten aldaar op de tent der samenkomst, nadat het land voor hen onderworpen was. 

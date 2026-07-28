@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 4
 
 1. NA dezen zag ik, en zie, een deur was geopend in den hemel; en de eerste stem die ik gehoord had, als van een bazuin met mij sprekende, zeide: Kom hier op, en Ik zal u tonen hetgeen na dezen geschieden moet.

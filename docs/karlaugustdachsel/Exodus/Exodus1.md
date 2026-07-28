@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 1
 
 ## I. Vers 1-7

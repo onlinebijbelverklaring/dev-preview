@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 7
 
 1. DAVIDS Schiggajôn, dat hij den HEERE gezongen heeft, over de woorden van Cusch, den zoon van Jemini.

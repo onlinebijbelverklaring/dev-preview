@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 23
 
 1. ALS gij aangezeten zult zijn om met een heerser te eten, zo zult gij scherpelijk letten op dengene die voor uw aangezicht is.

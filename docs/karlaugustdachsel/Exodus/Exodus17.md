@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 17
 
 DE KINDEREN VAN ISRAEL WORDEN UIT EEN ROTS GEDRENKT EN OVERWINNEN AMALEK.

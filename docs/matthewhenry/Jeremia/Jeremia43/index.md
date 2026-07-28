@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 43
 
 1. EN het geschiedde als Jeremía geëindigd had tot het ganse volk te spreken al de woorden des HEEREN huns Gods, met dewelke hem de HEERE hun God tot hen gezonden had, te weten al die woorden,

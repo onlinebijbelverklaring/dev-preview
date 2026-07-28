@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 63
 
 1. WIE is Deze, Die van Edom komt met besprenkelde klederen, van Bozra? Deze, Die versierd is in Zijn gewaad? Die voorttrekt in Zijn grote kracht? Ik ben het, Die in gerechtigheid spreek, Die machtig ben te verlossen.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 14
 
 1. EN ik zag, en zie, het Lam stond op den berg Sion, en met Hem honderd vier en veertig duizend, hebbende den Naam Zijns Vaders geschreven aan hun voorhoofden.

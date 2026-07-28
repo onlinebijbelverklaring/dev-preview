@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 8
 
 1. En het geschiedde daarna, dat David de Filistijnen sloeg, en bracht hen ten onder; en David nam Meteg-amma uit der Filistijnen hand. 

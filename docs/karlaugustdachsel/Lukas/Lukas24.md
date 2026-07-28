@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 24
 
 ---HOOFDSTUK---24

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 12
 
 1. IK bid u dan, broeders, door de ontfermingen Gods, dat gij uw lichamen stelt tot een levende, heilige en Gode welbehaaglijke offerande, welke is uw redelijke godsdienst.

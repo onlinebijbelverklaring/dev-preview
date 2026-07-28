@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 5
 
 1. En het geschiedde, toen al de koningen der Amorieten, die aan deze zijde van de Jordaan westwaarts, en al de koningen der Kanaänieten, die aan de zee waren, hoorden, dat de HEERE de wateren van de Jordaan had uitgedroogd, voor het aangezicht der kinderen Israëls, totdat wij daardoor gegaan waren; zo versmolt hun hart, en er was geen moed meer in hen, voor het aangezicht der kinderen Israëls. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 19
 
 VAN DE RODE KOE EN VAN HET SPRENGWATER.

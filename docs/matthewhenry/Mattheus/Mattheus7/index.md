@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 7
 
 1. OORDEELT niet, opdat gij niet geoordeeld wordt.

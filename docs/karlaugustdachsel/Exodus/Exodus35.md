@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 35
 
 SABBATSRUST. VRIJWILLIGE HEFOFFERS. ROEPING VAN DE WERKMEESTERS.

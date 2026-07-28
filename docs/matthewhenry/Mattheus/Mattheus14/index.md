@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 14
 
 1. TE dienzelven tijde hoorde Herodes, de viervorst, het gerucht van Jezus;

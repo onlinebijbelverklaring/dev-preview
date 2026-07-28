@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 120
 
 1. EEN lied Hammaäloth. Ik heb tot den HEERE geroepen in mijn benauwdheid, en Hij heeft mij verhoord.

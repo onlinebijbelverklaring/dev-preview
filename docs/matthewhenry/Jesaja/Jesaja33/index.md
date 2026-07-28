@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 33
 
 1. WEE u, gij verwoester, die niet verwoest zijt, en gij die trouwelooslijk handelt, daar men niet trouwelooslijk tegen u gehandeld heeft. Als gij het verwoesten zult volbracht hebben, zult gij verwoest worden; als gij het trouwelooslijk handelen zult voleind hebben, zal men trouwelooslijk tegen u handelen.

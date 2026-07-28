@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 28
 
 1. Daarna zult gij uw broeder Aaron, en zijn zonen met hem, tot u doen naderen uit het midden der kinderen Israëls, om Mij het priesterambt te bedienen: namelijk Aaron, Nadab en Abihu, Eleazar en Ithamar, de zonen van Aaron. 

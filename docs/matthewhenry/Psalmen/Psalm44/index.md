@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 44
 
 1. EEN onderwijzing, voor den opperzangmeester, onder de kinderen van Korach.

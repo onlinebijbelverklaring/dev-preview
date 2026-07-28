@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 138
 
 1. EEN psalm van David. Ik zal U loven met mijn gehele hart; in de tegenwoordigheid der goden zal ik U psalmzingen.

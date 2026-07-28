@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 19
 
 1. Het geschiedde ook in die dagen, als er geen koning was in Israël, dat er een Levietisch man was, verkerende als vreemdeling aan de zijden van het gebergte van Efraim, die zich een vrouw, een bijwijf, nam van Bethlehem-juda. 

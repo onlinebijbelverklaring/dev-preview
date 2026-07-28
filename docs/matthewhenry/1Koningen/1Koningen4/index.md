@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 4
 
 1. Alzo was de koning Salomo koning over gans Israël. 

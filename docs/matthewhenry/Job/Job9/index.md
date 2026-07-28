@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 9
 
 1. MAAR Job antwoordde en zeide:

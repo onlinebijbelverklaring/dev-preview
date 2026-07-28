@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Micha 6
 
 1. Hoort nu, wat de HEERE zegt: Maak u op, twist met de bergen, en laat de heuvelen uw stem horen. 

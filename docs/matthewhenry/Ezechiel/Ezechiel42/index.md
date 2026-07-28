@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 42
 
 1. DAARNA bracht Hij mij uit tot het buitenste voorhof, den weg naar den weg van het noorden; en Hij bracht mij tot de kamers die tegenover de afgesneden plaats en die tegenover het gebouw tegen het noorden waren:

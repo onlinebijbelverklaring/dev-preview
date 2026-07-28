@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 116
 
 1. IK heb lief, want de HEERE hoort mijn stem, mijn smekingen.

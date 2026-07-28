@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 20
 
 1. Toen togen alle kinderen Israëls uit, en de vergadering verzamelde zich, als een enig man, van Dan af tot Ber-seba toe, ook het land van Gilead, tot de HEERE te Mizpa. 

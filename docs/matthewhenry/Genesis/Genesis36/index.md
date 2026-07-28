@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 36
 
 1. Dit nu zijn de geboorten van Ezau, welke is Edom. 

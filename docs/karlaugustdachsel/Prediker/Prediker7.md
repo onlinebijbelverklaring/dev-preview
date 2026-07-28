@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 7
 
 OVER MIDDELEN TOT HET VERKRIJGEN VAN GELUK.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 86
 
 1. EEN gebed van David. HEERE, neig Uw oor, verhoor mij; want ik ben ellendig en nooddruftig.

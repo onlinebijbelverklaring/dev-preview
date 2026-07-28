@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 14
 
 1. EN het geschiedde als Hij gekomen was in het huis van een der oversten der farizeeën, op den sabbat, om brood te eten, dat zij Hem waarnamen.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 1
 
 PAULUS’ GEDULD IN VERVOLGING

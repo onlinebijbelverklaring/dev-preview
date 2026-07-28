@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 16
 
 1. ZENDT de lammeren van den heerser des lands van Sela af naar de woestijn heen, tot den berg der dochter Sions.

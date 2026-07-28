@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 14
 
 1. Te dierzelfder tijd was Abia, de zoon van Jerobeam, krank. 

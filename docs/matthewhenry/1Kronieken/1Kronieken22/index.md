@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 22
 
 1. En David zeide: Hier zal het huis Gods des HEEREN zijn, en hier zal het altaar des brandoffers voor Israël zijn. 

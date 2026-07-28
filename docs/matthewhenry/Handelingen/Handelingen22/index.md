@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 22
 
 1. MANNEN broeders en vaders, hoort mijn verantwoording, die ik tegenwoordig tot u doen zal.

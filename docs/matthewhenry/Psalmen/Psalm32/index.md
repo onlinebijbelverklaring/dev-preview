@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 32
 
 1. EEN onderwijzing van David. Welgelukzalig is hij wiens overtreding vergeven, wiens zonde bedekt is.

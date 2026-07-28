@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 8
 
 1. WIE* is gelijk de wijze? En wie weet de uitlegging der dingen? De wijsheid des mensen verlicht zijn aangezicht en de stuursheid zijns aangezichts wordt daardoor veranderd.

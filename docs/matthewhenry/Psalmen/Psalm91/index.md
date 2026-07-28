@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 91
 
 1. DIE in de schuilplaats des Allerhoogsten is gezeten, die zal vernachten in de schaduw des Almachtigen.

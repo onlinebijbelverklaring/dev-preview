@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 16
 
 KWAKKELS EN MANNA WORDEN GEGEVEN.

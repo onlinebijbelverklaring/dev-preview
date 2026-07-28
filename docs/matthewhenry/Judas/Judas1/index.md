@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Judas 1
 
 1. Judas, een dienstknecht van Jezus Christus, en broeder van Jakobus, aan de geroepenen, die door God de Vader geheiligd zijn, en door Jezus Christus bewaard: 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 13
 
 1. En David hield raad met de oversten der duizenden en der honderden, en met alle vorsten. 

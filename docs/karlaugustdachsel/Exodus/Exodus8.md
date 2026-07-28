@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 8
 
 EGYPTE WORDT MET KIKVORSEN, LUIZEN EN ONGEDIERTE BEZOCHT.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 127
 
 1. EEN lied Hammaäloth, van Sálomo. Zo de HEERE het huis niet bouwt, tevergeefs arbeiden deszelfs bouwlieden daaraan; zo de HEERE de stad niet bewaart, tevergeefs waakt de wachter.

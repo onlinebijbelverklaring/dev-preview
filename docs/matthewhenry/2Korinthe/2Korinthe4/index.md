@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 4
 
 1. DAAROM, dewijl wij deze bediening hebben, naar de barmhartigheid die ons geschied is, zo vertragen wij niet;

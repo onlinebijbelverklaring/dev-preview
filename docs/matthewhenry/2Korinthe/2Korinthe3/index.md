@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 3
 
 1. BEGINNEN wij onszelven wederom u aan te prijzen? Of behoeven wij ook, gelijk sommigen, brieven van voorschrijving aan u, of brieven van voorschrijving van u?

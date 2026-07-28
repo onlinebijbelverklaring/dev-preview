@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Amos 2
 
 1. Alzo zegt de HEERE: Om drie overtredingen van Moab, en om vier zal Ik dat niet afwenden; omdat hij de beenderen des konings van Edom tot kalk verbrand heeft. 

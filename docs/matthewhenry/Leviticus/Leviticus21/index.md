@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 21
 
 1. Daarna zeide de HEERE tot Mozes: Spreek tot de priesters, de zonen van Aäron, en zeg tot hen: Over een dode zal een priester zich niet verontreinigen onder zijn volken. 

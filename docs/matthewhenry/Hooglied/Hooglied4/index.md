@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hooglied 4
 
 1. ZIE, gij zijt schoon, Mijn vriendin, zie, gij zijt schoon; uw ogen zijn duivenogen tussen uw vlechten; uw haar is als een kudde geiten die het gras van den berg Gileads afscheren.

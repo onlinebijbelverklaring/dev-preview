@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 47
 
 1. Toen kwam Jozef en boodschapte Farao, en zeide: Mijn vader en mijn broeders, en hun schapen, en hun runderen, met alles wat zij hebben, zijn gekomen uit het land Kanaän; en zie, zij zijn in het land Gosen. 

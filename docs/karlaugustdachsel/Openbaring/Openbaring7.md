@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 7
 
 VERTROOSTING VAN DE KERK IN HAAR TREURIGE TOESTAND

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 25
 
 1. Verder sprak de HEERE tot Mozes, aan de berg Sinaï, zeggende: 

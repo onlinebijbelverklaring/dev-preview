@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hosea 3
 
 1. En de HEERE zeide tot mij: Ga wederom heen, bemin een vrouw, die, bemind zijnde van haar vriend, nochtans overspel doet; gelijk de HEERE de kinderen Israëls bemint, maar zij zien om naar andere goden, en beminnen de flessen der druiven. 

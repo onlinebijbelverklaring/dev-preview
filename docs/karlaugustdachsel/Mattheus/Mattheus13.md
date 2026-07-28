@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 13
 
 GELIJKENISSEN OVER DE KERK VAN CHRISTUS EN DE KRACHT VAN ZIJN WOORD.

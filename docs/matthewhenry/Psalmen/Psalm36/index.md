@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 36
 
 1. EEN psalm van David, den knecht des HEEREN, voor den opperzangmeester.

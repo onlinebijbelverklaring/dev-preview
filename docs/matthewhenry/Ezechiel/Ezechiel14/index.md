@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 14
 
 1. DAARNA kwamen tot mij mannen uit de oudsten van Israël, en zaten neder voor mijn aangezicht.

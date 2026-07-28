@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 36
 
 1. En de hoofden der vaderen van het geslacht der kinderen van Gilead, de zoon van Machir, de zoon van Manasse, uit de geslachten der kinderen van Jozef, traden toe, en spraken voor het aangezicht van Mozes, en voor het aangezicht der oversten, hoofden van de vaderen der kinderen Israëls. 

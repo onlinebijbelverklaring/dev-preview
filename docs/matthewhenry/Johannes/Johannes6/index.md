@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 6
 
 1. NA dezen vertrok Jezus over de Zee van Galiléa, welke is de Zee van Tibérias.

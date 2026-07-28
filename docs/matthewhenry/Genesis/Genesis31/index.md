@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 31
 
 1. Toen hoorde hij de woorden der zonen van Laban, zeggende: Jakob heeft genomen alles, wat onzes vaders was, en van hetgeen, dat onzes vaders was, heeft hij al deze heerlijkheid gemaakt. 

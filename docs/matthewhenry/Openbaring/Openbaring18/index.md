@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 18
 
 1. EN na dezen zag ik een anderen engel afkomen uit den hemel, hebbende grote macht, en de aarde is verlicht geworden van zijn heerlijkheid.

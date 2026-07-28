@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 25
 
 1. HET woord dat tot Jeremía geschied is over het ganse volk van Juda, in het vierde jaar van Jójakim, zoon van Josía, koning van Juda (dat was het eerste jaar van Nebukadrézar, koning van Babel);

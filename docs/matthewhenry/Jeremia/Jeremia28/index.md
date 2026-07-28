@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 28
 
 1. VOORTS geschiedde het in hetzelve jaar, in het begin des koninkrijks van Zedekía, koning van Juda, in het vierde jaar, in de vijfde maand, dat Hanánja, zoon van Azur, de profeet, die van Gíbeon was, tot mij sprak in het huis des HEEREN, voor de ogen der priesters en des gansen volks, zeggende:

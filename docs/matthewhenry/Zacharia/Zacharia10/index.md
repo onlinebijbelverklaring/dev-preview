@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 10
 
 1. Begeert van de HEERE regen, ten tijde des spaden regens; de HEERE maakt de weerlichten; en Hij zal hun regen genoeg geven voor ieder kruid op het veld. 

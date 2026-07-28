@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 59
 
 1. EEN gouden kleinood van David, voor den opperzangmeester, Altáscheth; toen Saul gezonden had, die zijn huis bewaren zouden, om hem te doden.

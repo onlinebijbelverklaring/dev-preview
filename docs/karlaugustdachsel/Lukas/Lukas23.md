@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 23
 
 ---HOOFDSTUK---23

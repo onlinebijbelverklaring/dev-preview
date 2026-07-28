@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 15
 
 1. TOEN antwoordde Elifaz, de Themaniet, en zeide:

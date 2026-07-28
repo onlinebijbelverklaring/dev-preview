@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 28
 
 1. En het geschiedde in die dagen, als de Filistijnen hun legers vergaderden tot de strijd, om tegen Israël te strijden, zo zeide Achis tot David: Gij zult zekerlijk weten, dat gij met mij in het leger zult uittrekken, gij en uw mannen. 

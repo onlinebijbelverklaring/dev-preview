@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Micha 7
 
 1. Ai mij! want ik ben, als wanneer de zomervruchten zijn ingezameld; als wanneer de nalezingen in de wijnoogst geschied zijn; er is geen druif om te eten; mijn ziel begeert vroegrijpe vrucht. 

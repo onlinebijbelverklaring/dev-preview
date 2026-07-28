@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 36
 
 DOOR ONGELIJKE HUWELIJKEN ZULLEN DE ERFDELEN NIET VERPLAATST WORDEN.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jakobus 3
 
 1. ZIJT niet vele meesters, mijne broeders, wetende dat wij te meerder oordeel zullen ontvangen.

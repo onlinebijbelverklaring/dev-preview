@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Kolossenzen 1
 
 1. PAULUS, een apostel van JEZUS CHRISTUS door den wil Gods, en Timótheüs, de broeder,

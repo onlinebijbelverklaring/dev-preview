@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 14
 
 1. Daarna sprak de HEERE tot Mozes, zeggende: 

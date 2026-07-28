@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 148
 
 1. HALLELUJAH. Looft den HEERE uit de hemelen, looft Hem in de hoogste plaatsen.

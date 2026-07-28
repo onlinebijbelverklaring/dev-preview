@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 17
 
 1. Gij zult de HEERE, uw God, geen os of klein vee offeren, waaraan een gebrek zij of enig kwaad; want dat is de HEERE, uw God, een gruwel. 

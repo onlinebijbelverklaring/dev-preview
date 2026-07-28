@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 113
 
 1. HALLELUJAH. Looft, gij knechten des HEEREN, looft den Naam des HEEREN.

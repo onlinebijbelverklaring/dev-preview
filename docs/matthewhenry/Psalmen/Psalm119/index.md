@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 119
 
 1. WELGELUKZALIG zijn de oprechten van wandel, die in de wet des HEEREN gaan.

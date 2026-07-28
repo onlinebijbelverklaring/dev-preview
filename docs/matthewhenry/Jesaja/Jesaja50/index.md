@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 50
 
 1. ALZO zegt de HEERE: Waar is de scheidbrief van ulieder moeder, waarmede Ik haar weggezonden heb? Of wie is er van Mijn schuldeisers, aan wien Ik u verkocht heb? Zie, om uw ongerechtigheden zijt gij verkocht, en om uw overtredingen is uw moeder weggezonden.

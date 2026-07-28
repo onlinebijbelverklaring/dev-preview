@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 30
 
 1. Gij zult ook een reukaltaar des reukwerks maken; van sittimhout zult gij het maken. 

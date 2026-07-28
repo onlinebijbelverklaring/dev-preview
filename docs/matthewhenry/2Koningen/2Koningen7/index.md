@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 7
 
 1. Toen zeide Elisa: Hoort het woord des HEEREN; zo zegt de HEERE: Morgen omtrent dezen tijd zal een maat meelbloem verkocht worden voor een sikkel, en twee maten gerst voor een sikkel, in de poort van Samaria. 

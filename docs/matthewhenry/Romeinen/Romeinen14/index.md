@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 14
 
 1. NEEMT dengene nu die zwak is in het geloof, aan, maar niet tot twistige samensprekingen.

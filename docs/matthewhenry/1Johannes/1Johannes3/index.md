@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Johannes 3
 
 1. Ziet, hoe grote liefde ons de Vader gegeven heeft, namelijk dat wij kinderen Gods genaamd zouden worden. Daarom kent ons de wereld niet, omdat zij Hem niet kent. 

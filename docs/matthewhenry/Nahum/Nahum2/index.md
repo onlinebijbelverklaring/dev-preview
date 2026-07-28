@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nahum 2
 
 1. De verstrooier trekt tegen uw aangezicht op, bewaar de vesting; bezichtig de weg; sterk de lenden, versterk de kracht zeer. 

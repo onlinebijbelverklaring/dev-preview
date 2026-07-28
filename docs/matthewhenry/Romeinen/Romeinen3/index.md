@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 3
 
 1. WELK is dan het voordeel van den Jood? Of welke is de nuttigheid der besnijdenis?

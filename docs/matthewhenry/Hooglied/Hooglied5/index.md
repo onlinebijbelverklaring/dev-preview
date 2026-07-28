@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hooglied 5
 
 1. IK ben in Mijn hof gekomen, o Mijn zuster, o bruid. Ik heb Mijn mirre geplukt, met Mijn specerij; Ik heb Mijn honingraten met Mijn honing gegeten; Ik heb Mijn wijn mitsgaders Mijn melk gedronken. Eet, vrienden, drinkt, en wordt dronken, o liefsten.

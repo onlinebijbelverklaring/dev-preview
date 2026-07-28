@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 3
 
 1. EN schrijf aan den engel der gemeente die te Sardis is: Dit zegt Die de zeven Geesten Gods heeft, en de zeven sterren: Ik weet uw werken, dat gij den naam hebt dat gij leeft, en gij zijt dood.

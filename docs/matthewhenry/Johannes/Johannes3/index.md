@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 3
 
 1. EN er was een mens uit de farizeeën, wiens naam was Nicodémus, een overste der Joden.

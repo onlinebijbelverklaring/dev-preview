@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 16
 
 1. Toen zij de ark Gods inbrachten, zo stelden zij ze in het midden der tent, welke David voor haar gespannen had; en zij offerden brandofferen en dankofferen voor het aangezicht Gods. 

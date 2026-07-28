@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 10
 
 1. EEN dode vlieg doet de zalf des apothekers stinken en opwellen; alzo een weinig dwaasheid een man die kostelijk is van wijsheid en van eer.

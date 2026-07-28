@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 134
 
 1. EEN lied Hammaäloth. Zie, looft den HEERE, alle gij knechten des HEEREN; gij die allen nacht in het huis des HEEREN staat.

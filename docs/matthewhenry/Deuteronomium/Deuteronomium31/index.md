@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 31
 
 1. Daarna ging Mozes heen, en sprak deze woorden tot gans Israël, 

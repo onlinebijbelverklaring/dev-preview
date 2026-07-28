@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 5
 
 1. NU zal ik mijn Beminde een lied mijns Liefsten zingen van Zijn wijngaard: Mijn Beminde heeft een wijngaard op een vetten heuvel.

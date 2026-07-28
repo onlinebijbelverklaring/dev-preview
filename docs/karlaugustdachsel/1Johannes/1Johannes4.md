@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Johannes 4
 
 OVER BEPROEVING VAN VALSE LERAARS EN BEOEFENING VAN DE LIEFDE JEGENS GOD EN DE NAASTE

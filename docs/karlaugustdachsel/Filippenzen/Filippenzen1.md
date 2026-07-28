@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Filippenzen 1
 
 DANKZEGGING VAN DE GEBONDEN PAULUS. GEBED EN VERMANING TOT BESTENDIGE GELOOFSSTRIJD

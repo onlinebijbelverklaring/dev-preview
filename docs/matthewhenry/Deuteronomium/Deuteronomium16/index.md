@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 16
 
 1. Neemt waar de maand Abib, dat gij de HEERE, uw God, pascha houdt; want in de maand Abib heeft u de HEERE, uw God, uit Egypteland uitgevoerd, bij nacht. 

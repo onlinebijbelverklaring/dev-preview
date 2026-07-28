@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 44
 
 JOZEFS BROEDERS KOMEN IN GROTE ANGST.

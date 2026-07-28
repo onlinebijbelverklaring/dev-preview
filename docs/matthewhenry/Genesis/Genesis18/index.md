@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 18
 
 1. Daarna verscheen hem de HEERE aan de eikenbossen van Mamre, als hij in de deur der tent zat, toen de dag heet werd. 

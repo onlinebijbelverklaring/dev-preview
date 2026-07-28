@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 24
 
 1. WIJDERS geschiedde des HEEREN woord tot mij in het negende jaar, in de tiende maand, op den tiende der maand, zeggende:

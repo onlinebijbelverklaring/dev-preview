@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Habakuk 3
 
 1. Een gebed van Habakuk, de profeet, op Sjigjonoth. 

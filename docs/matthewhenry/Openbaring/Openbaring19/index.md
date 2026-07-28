@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 19
 
 1. EN na dezen hoorde ik als een grote stem ener grote schare in den hemel, zeggende: Hallelujah; de zaligheid en de heerlijkheid en de eer en de kracht zij den Heere onzen God;

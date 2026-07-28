@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 39
 
 PRIESTERLIJKE KLEREN.

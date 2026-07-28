@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 31
 
 1. IK heb een verbond gemaakt met mijn ogen; hoe zou ik dan acht gegeven hebben op een maagd?

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 16
 
 1. Als nu David een weinig van de hoogte was voortgegaan, ziet, toen ontmoette hem Ziba, Mefiboseths jongen, met een paar gezadelde ezelen, en daarop tweehonderd broden, met honderd stukken rozijnen, en honderd stukken zomervruchten, en een lederen zak wijns. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 108
 
 1. EEN lied, een psalm van David.

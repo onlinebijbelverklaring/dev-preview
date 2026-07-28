@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 8
 
 1. Als nu de zevende maand aankwam en de kinderen Israëls in hun steden waren,

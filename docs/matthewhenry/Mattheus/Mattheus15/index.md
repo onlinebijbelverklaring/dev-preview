@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 15
 
 1. TOEN kwamen tot Jezus enige schriftgeleerden en farizeeën, die van Jeruzalem waren, zeggende:

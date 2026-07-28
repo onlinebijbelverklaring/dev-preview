@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 4
 
 1. En de Engel, Die met mij sprak, kwam weder; en Hij wekte mij op, gelijk een man, die van zijn slaap opgewekt wordt. 

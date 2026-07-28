@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 105
 
 1. LOOFT den HEERE, roept Zijn Naam aan, maakt Zijn daden bekend onder de volken.

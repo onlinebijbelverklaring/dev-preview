@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 3
 
 1. DAARNA zeide Hij tot mij: Mensenkind, eet wat gij vinden zult; eet deze rol en ga, spreek tot het huis Israëls.

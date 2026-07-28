@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 20
 
 1. EN het geschiedde in het zevende jaar, in de vijfde maand, op den tiende derzelver maand, dat er mannen uit de oudsten van Israël kwamen om den HEERE te vragen; en zij zaten neder voor mijn aangezicht.

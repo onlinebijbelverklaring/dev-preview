@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 14
 
 1. HET woord des HEEREN dat tot Jeremía geschied is over de zaken der grote droogte.

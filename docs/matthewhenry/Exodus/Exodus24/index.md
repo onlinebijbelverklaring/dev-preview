@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 24
 
 1. Daarna zeide Hij tot Mozes: Klim op tot de HEERE, gij en Aaron, Nadab en Abihu, en zeventig van de oudsten van Israël; en buigt u neder van verre! 

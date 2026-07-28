@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 19
 
 1. Wanneer de HEERE, uw God, de volken zal hebben uitgeroeid, welker land de HEERE, uw God, u geven zal, en gij die erfelijk zult bezitten, en in hun steden en in hun huizen wonen; 

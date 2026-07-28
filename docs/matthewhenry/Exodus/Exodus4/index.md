@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 4
 
 1. Toen antwoordde Mozes, en zeide: Maar zie, zij zullen mij niet geloven, noch mijn stem horen; want zij zullen zeggen: De HEERE is u niet verschenen! 

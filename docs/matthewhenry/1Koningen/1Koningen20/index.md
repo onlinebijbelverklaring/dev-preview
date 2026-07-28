@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 20
 
 1. En Benhadad, de koning van Syrië, vergaderde al zijn macht; en twee en dertig koningen waren met hem, en paarden en wagenen; en hij toog op, en belegerde Samaria en krijgde tegen haar. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 13
 
 1. EN ik zag uit de zee een beest opkomen, hebbende zeven hoofden en tien hoornen; en op zijn hoornen waren tien koninklijke hoeden, en op zijn hoofden was een naam van godslastering.

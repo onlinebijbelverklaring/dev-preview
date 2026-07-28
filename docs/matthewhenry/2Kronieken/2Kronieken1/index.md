@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 1
 
 1. En Salomo, de zoon van David, werd versterkt in zijn koninkrijk, want de HEERE, zijn God, was met hem, en maakte hem ten hoogste groot. 

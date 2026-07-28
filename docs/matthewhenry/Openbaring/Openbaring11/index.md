@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 11
 
 1. EN mij werd een rietstok gegeven, een meetroede gelijk; en de Engel stond en zeide: Sta op, en meet den tempel Gods en het altaar, en degenen die daarin aanbidden.

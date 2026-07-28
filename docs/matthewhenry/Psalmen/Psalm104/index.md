@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 104
 
 1. LOOF den HEERE, mijn ziel; o HEERE mijn God, Gij zijt zeer groot, Gij zijt bekleed met majesteit en heerlijkheid.

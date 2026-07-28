@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 19
 
 1. Wijders sprak de HEERE tot Mozes en tot Aäron, zeggende: 

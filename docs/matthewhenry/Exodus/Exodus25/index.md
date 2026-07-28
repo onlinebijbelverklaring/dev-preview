@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 25
 
 1. Toen sprak de HEERE tot Mozes, zeggende: 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 11
 
 1. En de koning Salomo had veel vreemde vrouwen lief, en dat benevens de dochter van Farao: Moabietische, Ammonietische, Edomietische, Sidonische, Hethietische; 

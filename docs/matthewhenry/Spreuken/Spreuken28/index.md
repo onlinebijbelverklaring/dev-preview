@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 28
 
 1. DE goddelozen vlieden daar geen vervolger is, maar elke rechtvaardige is moedig als een jonge leeuw.

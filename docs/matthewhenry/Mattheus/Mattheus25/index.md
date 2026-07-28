@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 25
 
 1. ALSDAN zal het Koninkrijk der hemelen zijn gelijk tien maagden, welke haar lampen namen en gingen uit, den bruidegom tegemoet.

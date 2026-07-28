@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 18
 
 1. WEE het land dat schaduwachtig is aan de frontieren, dat aan de zijde der rivieren van Morenland is;

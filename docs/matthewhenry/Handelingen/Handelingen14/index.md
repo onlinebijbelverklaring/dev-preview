@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 14
 
 1. EN het geschiedde te Ikónium dat zij tezamen gingen in de synagoge der Joden, en alzo spraken, dat een grote menigte beide van Joden en Grieken geloofde.

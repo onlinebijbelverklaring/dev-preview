@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 26
 
 1. De Zifieten nu kwamen tot Saul te Gibea, zeggende: Houdt zich David niet verborgen op de heuvel van Hachila, voor aan de wildernis? 

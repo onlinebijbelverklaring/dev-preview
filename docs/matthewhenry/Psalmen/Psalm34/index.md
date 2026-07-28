@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 34
 
 1. EEN psalm van David, als hij zijn gelaat veranderd had voor het aangezicht van Abimélech, die hem wegjoeg, dat hij doorging.

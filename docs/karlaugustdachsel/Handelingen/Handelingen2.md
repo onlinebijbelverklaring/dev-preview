@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 2
 
 DE UITSTORTING VAN DE HEILIGE GEEST, DOOR PETRUS IN EEN GEZEGENDE REDE VERDEDIGD

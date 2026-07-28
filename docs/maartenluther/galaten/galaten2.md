@@ -1,5 +1,5 @@
- ---
-icon: lucide/book-text
+---
+icon: lucide/file-text
 ---
 
 

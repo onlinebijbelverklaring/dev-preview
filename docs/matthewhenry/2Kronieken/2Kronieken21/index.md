@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 21
 
 1. Daarna ontsliep Jósafath met zijn vaderen, en werd begraven bij zijn vaderen in de stad Davids; en zijn zoon Joram werd koning in zijn plaats. 

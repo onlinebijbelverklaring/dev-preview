@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Kolossenzen 3
 
 1. INDIEN gij dan met Christus opgewekt zijt, zo zoekt de dingen die boven zijn, waar Christus is, zittende aan de rechterhand Gods.

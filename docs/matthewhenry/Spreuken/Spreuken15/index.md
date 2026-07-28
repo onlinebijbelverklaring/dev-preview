@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 15
 
 1. EEN zacht antwoord keert de grimmigheid af, maar een smartend woord doet den toorn oprijzen.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 7
 
 1. Dit is nu de wet des schuldoffers; het is een heiligheid der heiligheden. 

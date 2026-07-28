@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 6
 
 AANNEMING TOT WAARDIGE AANWENDING VAN DE GENADE VAN GOD

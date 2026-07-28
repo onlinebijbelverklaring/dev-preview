@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Galaten 4
 
 1. DOCH ik zeg, zo langen tijd als de erfgenaam een kind is, zo verschilt hij niets van een dienstknecht, hoewel hij een heer is van alles;

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 3
 
 1. MIJN zoon, vergeet mijn wet niet, maar uw hart beware mijn geboden.

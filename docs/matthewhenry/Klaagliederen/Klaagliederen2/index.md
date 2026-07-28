@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Klaagliederen 2
 
 1. ALEPH. Hoe heeft de Heere de dochter Sions in Zijn toorn bewolkt! Hij heeft de heerlijkheid van Israël van den hemel op de aarde nedergeworpen; en Hij heeft aan de voetbank Zijner voeten niet gedacht in den dag Zijns toorns.

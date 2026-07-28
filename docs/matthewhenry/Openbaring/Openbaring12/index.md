@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 12
 
 1. EN er werd een groot teken gezien in den hemel, namelijk een vrouw, bekleed met de zon, en de maan was onder haar voeten, en op haar hoofd een kroon van twaalf sterren;

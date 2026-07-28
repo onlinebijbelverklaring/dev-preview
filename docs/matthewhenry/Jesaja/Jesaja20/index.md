@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 20
 
 1. IN het jaar toen Tartan naar Asdod kwam, als hem Sargon, de koning van Assyrië, gezonden had, toen hij krijg voerde tegen Asdod en het innam;

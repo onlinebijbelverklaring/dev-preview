@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 2
 
 1. EN Hij zeide tot mij: Mensenkind, sta op uw voeten en Ik zal met u spreken.

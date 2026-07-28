@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jakobus 1
 
 OVER GEDULD EN MOEITE EN LIJDEN

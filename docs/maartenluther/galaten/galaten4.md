@@ -1,5 +1,5 @@
 ---
-icon: lucide/list-indent-increase
+icon: lucide/file-text
 ---
 
 

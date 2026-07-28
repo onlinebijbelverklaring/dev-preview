@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 30
 
 1. Als nu Rachel zag, dat zij Jakob niet baarde, zo benijdde Rachel haar zuster; en zij zeide tot Jakob: Geef mij kinderen! of indien niet, zo ben ik dood. 

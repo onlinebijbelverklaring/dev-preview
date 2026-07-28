@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 8
 
 1. TOEN Hij nu van den berg afgeklommen was, zijn Hem vele scharen gevolgd.

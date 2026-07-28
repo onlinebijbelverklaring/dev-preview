@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 37
 
 1. Alzo maakte Bezaleel de ark van sittimhout; twee ellen en een halve was haar lengte, en anderhalve el haar breedte, en anderhalve el haar hoogte. 

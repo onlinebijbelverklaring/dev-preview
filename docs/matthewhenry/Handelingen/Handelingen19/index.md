@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 19
 
 1. EN het geschiedde terwijl Apollos te Korinthe was, dat Paulus de bovenste delen des lands doorreisd hebbende te Éfeze kwam; en enige discipelen aldaar vindende,

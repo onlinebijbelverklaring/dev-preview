@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 27
 
 CHRISTUS’ LIJDEN VOOR DE WERELDLIJKEN RECHTER. KRUISIGING, DOOD EN BEGRAFENIS

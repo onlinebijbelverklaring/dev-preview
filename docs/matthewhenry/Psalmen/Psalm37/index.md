@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 37
 
 1. EEN psalm van David. Aleph. Ontsteek u niet over de boosdoeners; benijd hen niet die onrecht doen.

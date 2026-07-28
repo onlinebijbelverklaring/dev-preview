@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 14
 
 1. Toen verhief zich de gehele vergadering, en zij hieven hun stem op, en het volk weende in dienzelven nacht. 

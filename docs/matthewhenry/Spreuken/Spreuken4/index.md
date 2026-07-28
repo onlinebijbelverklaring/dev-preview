@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 4
 
 1. HOORT, gij kinderen, de tucht des vaders; en merkt op, om verstand te weten.

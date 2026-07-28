@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 128
 
 1. EEN lied Hammaäloth. Welgelukzalig is een iegelijk die den HEERE vreest, die in Zijn wegen wandelt.

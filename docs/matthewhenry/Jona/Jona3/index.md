@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jona 3
 
 1. En het woord des HEEREN geschiedde ten anderen male tot Jona, zeggende:

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 23
 
 1. Toen zeide Bileam tot Balak: Bouw mij hier zeven altaren, en bereid mij hier zeven varren en zeven rammen. 

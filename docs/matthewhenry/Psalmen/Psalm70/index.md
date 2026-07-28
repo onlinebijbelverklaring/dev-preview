@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 70
 
 1. EEN psalm van David, voor den opperzangmeester; om te doen gedenken.

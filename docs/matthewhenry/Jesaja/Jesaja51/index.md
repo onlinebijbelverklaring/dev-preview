@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 51
 
 1. HOORT naar Mij, gij die de gerechtigheid najaagt, gij die den HEERE zoekt; aanschouwt den rotssteen waar gijlieden uit gehouwen zijt, en de holligheid des bornputs waar gij uit gegraven zijt.

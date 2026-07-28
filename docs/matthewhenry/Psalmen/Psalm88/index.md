@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 88
 
 1. EEN lied, een psalm voor de kinderen van Korach, voor den opperzangmeester, op Máchalath Leánnôth; een onderwijzing van Heman, den Ezrahiet.

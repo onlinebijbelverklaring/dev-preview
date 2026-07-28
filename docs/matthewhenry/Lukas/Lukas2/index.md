@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 2
 
 1. EN het geschiedde in diezelve dagen, dat er een gebod uitging van den keizer Augustus, dat de gehele wereld beschreven zou worden.

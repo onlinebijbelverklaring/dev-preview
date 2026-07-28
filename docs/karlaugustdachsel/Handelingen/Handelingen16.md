@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 16
 
 PAULUS’ WERK EN LIJDEN TE LYSTRE, IN AZIE EN BITHYNIE, TROAS EN FILIPPI

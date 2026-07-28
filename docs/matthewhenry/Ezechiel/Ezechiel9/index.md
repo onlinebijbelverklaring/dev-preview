@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 9
 
 1. DAARNA riep Hij voor mijn oren met luider stem, zeggende: Doet de opzieners der stad naderen, en elkeen met zijn verdervend wapen in zijn hand.

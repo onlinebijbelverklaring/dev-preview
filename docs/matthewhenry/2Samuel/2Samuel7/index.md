@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 7
 
 1. En het geschiedde, als de koning in zijn huis zat, en de HEERE hem rust gegeven had van al zijn vijanden rondom, 

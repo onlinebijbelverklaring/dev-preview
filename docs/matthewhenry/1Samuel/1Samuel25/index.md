@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 25
 
 1. En Samuël stierf; en gans Israël vergaderde zich, en zij bedreven rouw over hem, en begroeven hem in zijn huis te Rama. En David maakte zich op, en toog af naar de woestijn Paran. 

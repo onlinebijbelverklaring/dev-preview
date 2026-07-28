@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 11
 
 PETRUS’ PLEITREDE EN BEKERING VAN DE HEIDENEN. PLANTING VAN DE KERK TE ANTIOCHIE.

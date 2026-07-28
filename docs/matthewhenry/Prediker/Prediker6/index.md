@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 6
 
 1. ER is een kwaad dat ik gezien heb onder de zon, en het is veel onder de mensen:

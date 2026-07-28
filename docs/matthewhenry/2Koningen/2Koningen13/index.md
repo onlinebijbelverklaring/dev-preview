@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 13
 
 1. In het drie en twintigste jaar van Joas, de zoon van Ahazia, de koning van Juda, werd Joahaz, de zoon van Jehu, koning over Israël, te Samaria, en regeerde zeventien jaren. 

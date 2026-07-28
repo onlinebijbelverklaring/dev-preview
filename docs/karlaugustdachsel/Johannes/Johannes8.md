@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 8
 
 DE ECHTBREEKSTER. CHRISTUS’ PERSOON EN AMBT. EIGENSCHAPPEN VAN ZIJN DISCIPELEN

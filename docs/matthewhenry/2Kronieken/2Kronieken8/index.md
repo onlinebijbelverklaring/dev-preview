@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 8
 
 1. Het geschiedde nu ten einde van twintig jaren, in dewelke Salomo het huis des HEEREN en zijn huis gebouwd had, 

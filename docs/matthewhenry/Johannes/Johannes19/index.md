@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 19
 
 1. TOEN nam Pilatus dan Jezus en geselde Hem.

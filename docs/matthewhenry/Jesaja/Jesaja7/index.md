@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 7
 
 1. HET geschiedde nu in de dagen van Achaz, den zoon van Jotham, den zoon van Uzzia, den koning van Juda, dat Rezin, de koning van Syrië, en Pekah, de zoon van Remália, de koning van Israël, optoog naar Jeruzalem ten oorlog tegen haar; maar hij vermocht met strijden niet tegen haar.

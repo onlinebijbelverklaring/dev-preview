@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 44
 
 1. HET woord dat tot Jeremía geschiedde aan al de Joden die in Egypteland woonden, die te Migdol woonden, en te Tachpanhes, en te Nof, en in het land Pathros, zeggende:

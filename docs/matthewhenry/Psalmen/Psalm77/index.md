@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 77
 
 1. EEN psalm van Asaf, voor den opperzangmeester, over Jedúthun.

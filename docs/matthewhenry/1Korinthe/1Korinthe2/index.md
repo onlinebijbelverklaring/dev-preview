@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 2
 
 1. EN ik, broeders, als ik tot u ben gekomen, ben niet gekomen met uitnemendheid van woorden of van wijsheid, u verkondigende de getuigenis Gods.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 11
 
 1. EN er was een zeker man krank, genaamd Lázarus, van Bethanië, uit het vlek van Maria en haar zuster Martha.

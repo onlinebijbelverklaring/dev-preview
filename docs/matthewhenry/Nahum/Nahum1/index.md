@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nahum 1
 
 1. De last van Nineve. Het boek des gezichts van Nahum, de Elkosiet. 

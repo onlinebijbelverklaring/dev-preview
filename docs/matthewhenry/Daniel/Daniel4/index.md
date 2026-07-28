@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 4
 
 1. DE koning Nebukadnézar aan alle volken, natiën en tongen, die op den gansen aardbodem wonen: Uw vrede worde vermenigvuldigd.

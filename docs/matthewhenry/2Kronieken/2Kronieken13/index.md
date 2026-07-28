@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 13
 
 1. In het achttiende jaar van de koning Jerobeam, zo werd Abia koning over Juda. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 6
 
 1. WAT zullen wij dan zeggen? Zullen wij in de zonde blijven, opdat de genade te meerder worde?

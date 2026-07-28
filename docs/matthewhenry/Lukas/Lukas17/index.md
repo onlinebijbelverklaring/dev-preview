@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 17
 
 1. EN Hij zeide tot de discipelen: Het kan niet wezen dat er geen ergernissen komen; doch wee hem door welken zij komen.

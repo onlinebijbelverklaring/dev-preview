@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 16
 
 1. In het zeventiende jaar van Pekah, de zoon van Remalia, werd Achaz koning, de zoon van Jotham, de koning van Juda. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 15
 
 CONCILIE VAN DE APOSTELEN OVER DE BESNIJDENIS EN DE RECHTVAARDIGING

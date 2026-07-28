@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 11
 
 1. DE apostelen nu, en de broeders die in Judéa waren, hebben gehoord dat ook de heidenen het Woord Gods aangenomen hadden.

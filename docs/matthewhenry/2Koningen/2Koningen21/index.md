@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 21
 
 1. Manasse was twaalf jaren oud, toen hij koning werd, en hij regeerde vijf en vijftig jaren te Jeruzalem; en de naam zijner moeder was Hefzi-bah. 

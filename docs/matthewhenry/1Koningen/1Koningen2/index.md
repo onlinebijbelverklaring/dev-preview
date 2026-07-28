@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 2
 
 1. Als nu de dagen van David nabij waren, dat hij sterven zou, zo gebood hij zijn zoon Salomo, zeggende: 

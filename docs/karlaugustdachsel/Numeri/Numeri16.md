@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 16
 
 GOD STRAFT EEN OPROERIGE AFDELING.

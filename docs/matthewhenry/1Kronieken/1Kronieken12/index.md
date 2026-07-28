@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 12
 
 1. Dezen nu zijn het, die tot David kwamen naar Ziklag, toen hij nog besloten was voor het aangezicht van Saul, de zoon van Kis; zij waren ook onder de helden, die tot dien krijg hielpen. 

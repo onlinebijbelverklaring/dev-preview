@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 48
 
 1. EEN lied, een psalm, voor de kinderen van Korach.

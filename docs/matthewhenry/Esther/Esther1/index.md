@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Esther 1
 
 1. HET geschiedde nu in de dagen van Ahasvéros (hij is die Ahasvéros dewelke regeerde van India af tot aan Morenland toe, honderd zeven en twintig landschappen),

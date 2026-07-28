@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 20
 
 1. TOEN antwoordde Zofar, de Naämathiet, en zeide:

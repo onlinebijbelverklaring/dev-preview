@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 7
 
 1. NADAT Hij nu al Zijn woorden voleindigd had ten aanhoren des volks, ging Hij in te Kapérnaüm.

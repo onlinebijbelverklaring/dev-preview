@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 6
 
 1. Voorts is het geschied, als van Sanballat, en Tobia, en van Gesem, de Arabier, en van onze andere vijanden gehoord was, dat ik de muur gebouwd had, en dat geen scheur daarin was overgelaten; ook had ik tot dezen tijd toe de deuren niet opgezet in de poorten;

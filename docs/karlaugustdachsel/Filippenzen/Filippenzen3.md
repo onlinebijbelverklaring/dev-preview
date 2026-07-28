@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Filippenzen 3
 
 OVER DE GERECHTIGHEID VAN HET GELOOF TEGENOVER DE VALSE APOSTELEN

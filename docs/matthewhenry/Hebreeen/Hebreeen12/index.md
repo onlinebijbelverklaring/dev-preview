@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 12
 
 1. DAAROM dan ook, alzo wij zo groot een wolk der getuigen rondom ons hebben liggende, laat ons afleggen allen last en de zonde die ons lichtelijk omringt, en laat ons met lijdzaamheid lopen de loopbaan die ons voorgesteld is;

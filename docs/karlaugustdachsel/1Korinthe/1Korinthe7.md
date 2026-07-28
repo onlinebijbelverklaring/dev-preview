@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 7
 
 ANTWOORD OP VERSCHILLENDE VRAGEN OVER GEHUWDEN, ONGEHUWDEN EN DE WEDUWENSTAAT

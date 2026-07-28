@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 40
 
 1. TROOST, troost Mijn volk, zal ulieder God zeggen.

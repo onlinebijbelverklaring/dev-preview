@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Thessalonicenzen 3
 
 MEN MOET BIDDEN DAT HET WOORD ZIJN LOOP HEEFT, LEDIGHEID EN ONGEREGELDHEID VERMIJDEN

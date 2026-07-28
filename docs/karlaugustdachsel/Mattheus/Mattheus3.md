@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 3
 
 CHRISTUS DOOR JOHANNES GEDOOPT.

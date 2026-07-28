@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 36
 
 GESLACHTSREGISTER VAN EZAU.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Timotheus 4
 
 1. DOCH de Geest zegt duidelijk, dat in de laatste tijden sommigen zullen afvallen van het geloof, zich begevende tot verleidende geesten en leringen der duivelen,

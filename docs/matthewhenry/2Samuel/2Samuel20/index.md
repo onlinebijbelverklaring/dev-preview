@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 20
 
 1. Toen was daar bij geval een Belials man, wiens naam was Seba, een zoon van Bichri, een man van Jemini; die blies met de bazuin, en zeide: Wij hebben geen deel aan David, en wij hebben geen erfenis aan de zoon van Isaï, een iegelijk naar zijn tenten, o Israël! 

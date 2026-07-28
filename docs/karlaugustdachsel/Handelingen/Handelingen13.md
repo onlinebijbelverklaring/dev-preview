@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 13
 
 PAULUS’ EERSTE REIS TOT DE HEIDENEN EN ZIJN ARBEID ONDER HEN

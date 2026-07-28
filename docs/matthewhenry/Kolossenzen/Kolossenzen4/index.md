@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Kolossenzen 4
 
 1. GIJ heren, doet uw dienstknechten recht en gelijk, wetende dat ook gij een Heere hebt in de hemelen.

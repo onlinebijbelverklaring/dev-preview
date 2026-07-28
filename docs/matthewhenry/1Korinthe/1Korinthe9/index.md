@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 9
 
 1. BEN ik niet een apostel? Ben ik niet vrij? Heb ik niet Jezus Christus, onzen Heere, gezien? Zijt gijlieden niet mijn werk in den Heere?

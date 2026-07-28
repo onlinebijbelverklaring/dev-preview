@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 23
 
 1. En het geschiedde na vele dagen, nadat de HEERE Israël rust gegeven had van al zijn vijanden rondom heen, en Jozua oud geworden en wel bedaagd was; 

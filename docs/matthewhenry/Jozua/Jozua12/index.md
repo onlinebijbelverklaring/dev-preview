@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 12
 
 1. Dit nu zijn de koningen des lands, die de kinderen Israëls geslagen hebben, en hun land erfelijk bezaten, aan gene zijde van de Jordaan, tegen de opgang der zon; van de beek Arnon af tot de berg Hermon, en het ganse vlakke veld tegen het oosten: 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 3 Johannes 1
 
 1. De ouderling aan de geliefden Gajus, welken ik in waarheid liefheb. 

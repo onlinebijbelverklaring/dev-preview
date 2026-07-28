@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 4
 
 CHRISTUS DOET ZIJN INTREDE IN HET LERAARSAMBT.

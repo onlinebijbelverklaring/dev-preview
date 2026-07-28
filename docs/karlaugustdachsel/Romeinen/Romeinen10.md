@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 10
 
 DE RECHTVAARDIGHEID NIET UIT DE WET, MAAR UIT HET GELOOF

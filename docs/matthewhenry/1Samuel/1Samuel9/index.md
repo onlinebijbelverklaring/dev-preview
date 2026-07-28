@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 9
 
 1. Er was nu een man van Benjamin, wiens naam was Kis, een zoon van Abiel, de zoon van Zeror, de zoon van Bechorath, de zoon van Afiah, de zoon eens mans van Jemini, een dapper held. 

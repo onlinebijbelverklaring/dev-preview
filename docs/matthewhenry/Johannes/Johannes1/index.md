@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 1
 
 1. IN den beginne was het Woord, en het Woord was bij God, en het Woord was God.

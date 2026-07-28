@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezra 10
 
 1. Als Ezra alzo bad, en als hij deze belijdenis deed, wenende en zich voor Gods huis nederwerpende, verzamelde zich tot hem uit Israël een zeer grote gemeente van mannen, en vrouwen, en kinderen; want het volk weende met groot geween. 

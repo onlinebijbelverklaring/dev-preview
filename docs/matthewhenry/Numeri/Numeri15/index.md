@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 15
 
 1. Daarna sprak de HEERE tot Mozes, zeggende: 

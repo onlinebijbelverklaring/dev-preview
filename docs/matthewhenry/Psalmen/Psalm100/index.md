@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 100
 
 1. EEN lofpsalm. Gij ganse aarde, juicht den HEERE.

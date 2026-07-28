@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Galaten 5
 
 1. STAAT dan in de vrijheid met welke ons Christus vrijgemaakt heeft, en wordt niet wederom met het juk der dienstbaarheid bevangen.

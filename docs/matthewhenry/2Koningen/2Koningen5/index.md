@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 5
 
 1. Naäman nu, de krijgsoverste van de koning van Syrië, was een groot man voor het aangezicht zijns heren, en van hoog aanzien; want door hem had de HEERE de Syriërs verlossing gegeven; zo was deze man een strijdbaar held, doch melaats. 

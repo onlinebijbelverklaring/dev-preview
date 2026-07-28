@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 21
 
 HET ZEVENDE GEZICHT VAN HET NIEUWE JERUZALEM

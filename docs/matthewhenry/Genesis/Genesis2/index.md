@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 2
 
 1. Alzo zijn volbracht de hemel en de aarde, en al hun heir. 

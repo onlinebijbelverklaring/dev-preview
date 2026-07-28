@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hosea 13
 
 1. Als Efraïm sprak, zo beefde men, hij heeft zich verheven in Israël; maar hij is schuldig geworden aan de Baal en is gestorven. 

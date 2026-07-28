@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 121
 
 1. EEN lied Hammaäloth. Ik hef mijn ogen op naar de bergen, vanwaar mijn hulp komen zal.

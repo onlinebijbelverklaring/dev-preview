@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 10
 
 VOORTREFFELIJKHEID VAN HET ZOENOFFER VAN CHRISTUS

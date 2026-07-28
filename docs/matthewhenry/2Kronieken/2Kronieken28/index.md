@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 28
 
 1. Achaz was twintig jaren oud, toen hij koning werd, en regeerde zestien jaren te Jeruzalem; en hij deed niet dat recht was in de ogen des HEEREN, gelijk zijn vader David; 

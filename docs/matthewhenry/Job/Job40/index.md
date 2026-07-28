@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 40
 
 1. EN de HEERE antwoordde Job uit een onweder en zeide:

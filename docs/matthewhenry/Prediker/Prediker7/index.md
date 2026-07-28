@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 7
 
 1. BETER is een goede naam dan goede olie, en de dag des doods dan de dag dat iemand geboren wordt.

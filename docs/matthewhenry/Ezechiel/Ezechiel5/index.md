@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 5
 
 1. EN gij, mensenkind, neem u een scherp mes, een scheermes der barbieren zult gij u nemen, hetwelk gij zult laten gaan over uw hoofd en over uw baard; daarna zult gij u een weegschaal nemen en die haren delen.

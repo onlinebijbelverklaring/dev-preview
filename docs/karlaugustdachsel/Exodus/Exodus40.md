@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 40
 
 OPRICHTING EN INWIJDING VAN DE TENT DER SAMENKOMST.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 11
 
 1. IK zeg dan: Heeft God Zijn volk verstoten? Dat zij verre; want ik ben ook een Israëliet, uit het zaad Abrahams, van den stam van Benjamin.

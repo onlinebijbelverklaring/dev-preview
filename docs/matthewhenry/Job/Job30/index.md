@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 30
 
 1. MAAR nu lachen over mij minderen dan ik van dagen, welker vaderen ik versmaad zou hebben om bij de honden mijner kudde te stellen.

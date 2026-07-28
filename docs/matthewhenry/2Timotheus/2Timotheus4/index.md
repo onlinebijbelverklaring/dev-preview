@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Timotheus 4
 
 1. IK betuig dan voor God en den Heere Jezus Christus, Die de levenden en doden oordelen zal in Zijn verschijning en in Zijn Koninkrijk:

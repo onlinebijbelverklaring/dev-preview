@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 10
 
 1. Ter zelver tijd zeide de HEERE tot mij: Houw u twee stenen tafelen, als de eerste, en klim tot Mij op dezen berg; daarna zult gij u een kist van hout maken. 

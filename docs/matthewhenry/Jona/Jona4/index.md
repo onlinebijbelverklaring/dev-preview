@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jona 4
 
 1. Dit verdroot, Jona met groot verdriet, en zijn toorn ontstak. 

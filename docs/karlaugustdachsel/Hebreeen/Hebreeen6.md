@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 6
 
 WAARSCHUWING TEGEN AFVAL, AANMANING TOT VOLHARDING

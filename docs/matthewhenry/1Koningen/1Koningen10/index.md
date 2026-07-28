@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 10
 
 1. En toen de koningin van Scheba het gerucht van Salomo hoorde, aangaande de Naam des HEEREN, kwam zij, om hem met raadselen te verzoeken. 

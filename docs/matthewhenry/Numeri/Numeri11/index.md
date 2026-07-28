@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 11
 
 1. En het geschiedde, als het volk zich was beklagende, dat het kwaad was in de oren des HEEREN; want de HEERE hoorde het, zodat Zijn toorn ontstak, en het vuur des HEEREN onder hen ontbrandde, en verteerde, in het uiterste des legers. 

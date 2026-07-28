@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 8
 
 1. Toen vergaderde Salomo de oudsten van Israël, en al de hoofden der stammen, de oversten der vaderen, onder de kinderen Israëls, tot de koning Salomo te Jeruzalem, om de ark des verbonds des HEEREN op te brengen uit de stad Davids, dewelke is Sion. 

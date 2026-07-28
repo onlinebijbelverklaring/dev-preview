@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jakobus 2
 
 OVER HET AANZIEN DES PERSOONS EN OVER DOOD GELOOF

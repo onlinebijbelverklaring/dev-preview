@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 49
 
 1. HOORT naar Mij, gij eilanden, en luistert toe, gij volken van verre. De HEERE heeft Mij geroepen van den buik aan, van Mijner moeders ingewand af heeft Hij Mijn Naam gemeld.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 20
 
 1. En Abraham reisde van daar naar het land van het zuiden, en woonde tussen Kades en tussen Sur; en hij verkeerde als vreemdeling te Gerar. 

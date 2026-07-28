@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Obadja 1
 
 1. Alzo zegt de Heere HEERE van Edom: Wij hebben een gerucht gehoord van de HEERE, en er is een gezant geschikt onder de heidenen: Staat op, en laat ons opstaan tegen hen ten strijde. 

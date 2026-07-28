@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 23
 
 1. TOEN sprak Jezus tot de scharen en tot Zijn discipelen,

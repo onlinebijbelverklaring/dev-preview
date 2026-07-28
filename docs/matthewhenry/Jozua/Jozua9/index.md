@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 9
 
 1. En het geschiedde, toen dit hoorden al de koningen, die aan deze zijde van de Jordaan waren, op het gebergte, en in de laagte, en aan alle havens der grote zee, tegenover de Libanon: de Hethieten, en de Amorieten, de Kanaänieten, de Ferezieten, de Hevieten, en de Jebusieten; 

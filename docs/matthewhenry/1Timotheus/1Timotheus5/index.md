@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Timotheus 5
 
 1. BESTRAF een ouden man niet hardelijk, maar vermaan hem als een vader, de jonge als broeders;

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 149
 
 1. HALLELUJAH. Zingt den HEERE een nieuw lied; Zijn lof zij in de gemeente Zijner gunstgenoten.

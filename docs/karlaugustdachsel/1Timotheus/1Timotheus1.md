@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Timotheus 1
 
 LEER VAN DE WET EN VAN HET EVANGELIE, VERKLAARD DOOR HET VOORBEELD VAN PAULUS

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 3
 
 TELLING VAN DE LEVIETEN EN BEPALING VAN HUN AMBT. LOSSING VAN DE EERSTGEBORENEN.

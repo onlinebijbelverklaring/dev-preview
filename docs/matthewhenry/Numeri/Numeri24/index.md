@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 24
 
 1. Toen Bileam zag, dat het goed was in de ogen des HEEREN, dat hij Israël zegende, zo ging hij ditmaal niet heen, gelijk meermalen, tot de toverijen; maar hij stelde zijn aangezicht naar de woestijn. 

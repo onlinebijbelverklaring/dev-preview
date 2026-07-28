@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Petrus 4
 
 1. DEWIJL dan Christus voor ons in het vlees geleden heeft, zo wapent gij u ook met dezelfde gedachte, namelijk dat wie in het vlees geleden heeft, die heeft opgehouden van de zonde;

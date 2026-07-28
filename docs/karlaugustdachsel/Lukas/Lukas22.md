@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 22
 
 ---HOOFDSTUK---22

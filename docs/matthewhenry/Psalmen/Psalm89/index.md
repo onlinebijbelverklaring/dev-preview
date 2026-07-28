@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 89
 
 1. EEN onderwijzing van Ethan, den Ezrahiet.

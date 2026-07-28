@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 10
 
 1. EN ik wil niet, broeders, dat gij onwetende zijt dat onze vaders allen onder de wolk waren, en allen door de zee doorgegaan zijn,

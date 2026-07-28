@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 22
 
 1. Toen ging David van daar, en ontkwam in de spelonk van Adullam. En zijn broeders hoorden het, en het ganse huis zijns vaders, en kwamen derwaarts tot hem af. 

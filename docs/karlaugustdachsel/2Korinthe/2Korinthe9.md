@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 9
 
 REDENEN WAAROM DE INZAMELING SNEL EN GOED MOEST GESCHIEDEN

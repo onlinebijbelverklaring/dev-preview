@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 17
 
 1. En zijn zoon Jósafath werd koning in zijn plaats, en hij sterkte zich tegen Israël. 

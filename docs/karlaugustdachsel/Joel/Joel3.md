@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Joel 3
 
 BESCHERMING DER KERK TEGEN DE VIJANDEN.

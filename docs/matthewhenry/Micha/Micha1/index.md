@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Micha 1
 
 1. Het woord des HEEREN, dat geschied is tot Micha, de Morastiet, in de dagen van Jotham, Achaz en Jehizkia, koningen van Juda; dat hij gezien heeft over Samaria en Jeruzalem. 

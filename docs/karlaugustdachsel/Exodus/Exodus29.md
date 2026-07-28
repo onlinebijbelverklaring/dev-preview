@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 29
 
 INWIJDING EN OFFERANDEN VAN DE PRIESTER

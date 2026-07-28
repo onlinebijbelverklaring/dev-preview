@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 11
 
 HET BEGERIGE VOLK GESTRAFT.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 11
 
 1. Toen nu Rehabeam te Jeruzalem gekomen was, vergaderde hij het huis van Juda en Benjamin, eenhonderd en tachtig duizend uitgelezenen, geoefend ten oorlog, om tegen Israël te strijden, opdat hij het koninkrijk weder aan Rehabeam bracht. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 10
 
 1. Toen nam Samuël een oliekruik, en goot ze uit op zijn hoofd, en kuste hem, en zeide: Is het niet alzo, dat de HEERE u tot een voorganger over Zijn erfdeel gezalfd heeft? 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 5
 
 1. EN een zeker man, met name Ananías, met Saffira, zijn vrouw, verkocht een have,

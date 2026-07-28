@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 5
 
 1. De Filistijnen nu namen de ark Gods, en zij brachten ze van Eben-haezer tot Asdod. 

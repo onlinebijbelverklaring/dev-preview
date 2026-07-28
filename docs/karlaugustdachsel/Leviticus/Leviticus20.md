@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 20
 
 STRAFFEN OP VERSCHILLENDE ZONDEN GESTELD.

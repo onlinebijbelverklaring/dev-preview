@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 8
 
 1. MAAR Jezus ging naar den Olijfberg.

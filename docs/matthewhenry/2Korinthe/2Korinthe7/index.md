@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 7
 
 1. DEWIJL wij dan deze beloften hebben, geliefden, laat ons onszelven reinigen van alle besmetting des vleses en des geestes, voleindigende de heiligmaking in de vreze Gods.

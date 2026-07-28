@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezra 4
 
 1. Toen nu de wederpartijders van Juda en Benjamin hoorden, dat de kinderen der gevangenis de HEERE, de God Israëls, de tempel bouwden; 

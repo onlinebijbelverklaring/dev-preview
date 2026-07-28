@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 7
 
 OVER HET SCHULD- EN HET DANKOFFER.

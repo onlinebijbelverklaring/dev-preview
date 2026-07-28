@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 34
 
 HET ONTEREN VAN DINA GEEFT AANLEIDING TOT EEN BLOEDBAD.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 11
 
 1. TOEN hief mij de Geest op, en bracht mij tot de Oostpoort van het huis des HEEREN, dewelke ziet oostwaarts; en zie, aan de deur der poort waren vijf en twintig mannen; en in het midden van hen zag ik Jaäzánja, den zoon van Azzur, en Pelátja, den zoon van Benája, vorsten des volks.

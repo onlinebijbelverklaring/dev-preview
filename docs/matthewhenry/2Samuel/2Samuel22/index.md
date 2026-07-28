@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 22
 
 1. En David sprak de woorden dezes lieds tot de HEERE, ten dage als de HEERE hem verlost had uit de hand van al zijn vijanden, en uit de hand van Saul. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 13
 
 1. EN als Hij uit den tempel ging, zeide een van Zijn discipelen tot Hem: Meester, zie, hoedanige stenen en hoedanige gebouwen!

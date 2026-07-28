@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 3
 
 1. EN Hij ging wederom in de synagoge; en aldaar was een mens, hebbende een verdorde hand.

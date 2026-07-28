@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 2
 
 1. WEDEROM was er een dag, als de kinderen Gods kwamen om zich voor den HEERE te stellen, dat de satan ook in het midden van hen kwam om zich voor den HEERE te stellen.

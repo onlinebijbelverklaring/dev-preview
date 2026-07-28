@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Micha 3
 
 1. Voorts zeide ik: Hoort nu, gij hoofden Jakobs, en gij oversten van het huis Israëls! Betaamt het ulieden niet het recht te weten? 

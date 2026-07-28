@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 51
 
 1. ZO zegt de HEERE: Zie, Ik zal een verdervenden wind opwekken tegen Babel, en tegen degenen die daar wonen in het hart van degenen die tegen Mij opstaan.

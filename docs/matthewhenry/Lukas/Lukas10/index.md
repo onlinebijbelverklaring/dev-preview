@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 10
 
 1. EN na dezen stelde de Heere nog andere zeventig, en zond hen heen voor Zijn aangezicht, twee en twee, in iedere stad en plaats waar Hij komen zou.

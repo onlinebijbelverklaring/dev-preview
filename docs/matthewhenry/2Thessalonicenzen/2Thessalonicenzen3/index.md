@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Thessalonicenzen 3
 
 1. VOORTS, broeders, bidt voor ons, opdat het Woord des Heeren zijn loop hebbe, en verheerlijkt worde, gelijk ook bij u;

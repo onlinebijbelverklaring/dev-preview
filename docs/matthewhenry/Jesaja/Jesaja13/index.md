@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 13
 
 1. DE last van Babel, dien Jesaja, de zoon van Amoz, gezien heeft.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 13
 
 1. EN vóór het feest van het pascha, Jezus wetende dat Zijn ure gekomen was, dat Hij uit deze wereld zou overgaan tot den Vader, alzo Hij de Zijnen, die in de wereld waren, liefgehad had, zo heeft Hij hen liefgehad tot het einde.

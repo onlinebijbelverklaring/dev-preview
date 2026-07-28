@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 43
 
 REIS VAN JAKOB’S ZONEN NAAR EGYPTE MET BENJAMIN.

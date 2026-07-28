@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 7
 
 1. Wanneer u de HEERE, uw God, zal gebracht hebben in het land, waar gij naar toe gaat, om dat te erven; en Hij vele volken voor uw aangezicht zal hebben uitgeworpen, de Hethieten, en de Girgasieten, en de Amorieten, en de Kanaänieten, en de Ferezieten, en de Hevieten, en de Jebusieten, zeven volken, die meerder en machtiger zijn dan gij; 

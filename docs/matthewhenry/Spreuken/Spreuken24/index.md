@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 24
 
 1. ZIJT niet nijdig over de boze lieden, en laat u niet gelusten om bij hen te zijn.

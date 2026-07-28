@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 15
 
 1. Toen zeide Samuël tot Saul: de HEERE heeft mij gezonden, dat ik u ten koning zalfde over Zijn volk, over Israël; hoor dan nu de stem van de woorden des HEEREN. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Habakuk 2
 
 1. Ik stond op mijn wacht, en ik stelde mij op de sterkte, en ik hield wacht om te zien, wat Hij in mij spreken zou, en wat ik antwoorden zou op mijn bestraffing. 

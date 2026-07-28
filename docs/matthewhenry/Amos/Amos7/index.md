@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Amos 7
 
 1. De Heere HEERE deed mij aldus zien; en ziet, Hij formeerde sprinkhanen, in het begin des opkomens van het nagras; en ziet, het was het nagras, na des konings afmaaiingen. 

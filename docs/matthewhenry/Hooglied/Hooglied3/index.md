@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hooglied 3
 
 1. IK zocht des nachts op mijn leger Hem Dien mijn ziel liefheeft; ik zocht Hem, maar ik vond Hem niet; ik zeide:

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 2
 
 INRICHTING VAN ISRAELS LEGERPLAATS.

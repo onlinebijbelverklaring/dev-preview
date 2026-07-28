@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 66
 
 1. ALZO zegt de HEERE: De hemel is Mijn troon en de aarde is de voetbank Mijner voeten; waar zou dat huis zijn, dat gijlieden Mij zoudt bouwen? En waar is de plaats Mijner rust?

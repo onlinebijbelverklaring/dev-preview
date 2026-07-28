@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 16
 
 1. In het zes en dertigste jaar van het koninkrijk van Asa, toog Baesa, de koning van Israël, op tegen Juda, en bouwde Rama, opdat hij niemand toeliet uit te gaan en in te komen tot Asa, de koning van Juda. 

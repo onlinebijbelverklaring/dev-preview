@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 43
 
 1. De honger nu werd zwaar in dat land; 

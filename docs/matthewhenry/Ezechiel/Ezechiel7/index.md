@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 7
 
 1. DAARNA geschiedde het woord des HEEREN tot mij, zeggende:

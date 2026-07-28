@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 26
 
 1. Toen nam het ganse volk van Juda Uzzia (die nu zestien jaren oud was), en maakte hem koning in de plaats van zijn vader Amazia. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 18
 
 HET LIJDEN VAN CHRISTUS VOOR KAJAFAS EN PILATUS

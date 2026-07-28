@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 6
 
 1. MIJN zoon, zo gij voor uw naaste borg geworden zijt, voor een vreemde uw hand toegeklapt hebt;

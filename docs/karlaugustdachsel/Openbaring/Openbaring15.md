@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 15
 
 HET VIJFDE GEZICHT VAN DE ZEVEN LAATSTE PLAGEN EN HET LOFLIED VAN DE GELOVIGEN

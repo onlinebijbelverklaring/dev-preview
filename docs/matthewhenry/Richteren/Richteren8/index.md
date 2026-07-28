@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 8
 
 1. Toen zeiden de mannen van Efraim tot hem: Wat stuk is dit, dat gij ons gedaan hebt, dat gij ons niet riept, toen gij heentoogt om te strijden tegen de Midianieten? En zij twistten sterk met hem. 

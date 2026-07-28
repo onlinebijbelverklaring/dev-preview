@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 4
 
 1. De kinderen van Juda waren Perez, Hezron en Charmi, en Hur, en Sobal. 

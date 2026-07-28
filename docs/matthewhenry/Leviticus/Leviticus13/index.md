@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 13
 
 1. Verder sprak de HEERE tot Mozes en tot Aäron, zeggende: 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 23
 
 1. En het leven van Sara was honderd zeven en twintig jaren; dit waren de jaren des levens van Sara. 

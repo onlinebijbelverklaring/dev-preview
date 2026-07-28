@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Efeze 3
 
 LOF VAN HET PREDIKAMBT ALS MIDDEL TOT BEKERING

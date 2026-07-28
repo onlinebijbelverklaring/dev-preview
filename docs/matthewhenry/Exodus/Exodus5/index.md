@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 5
 
 1. En daarna gingen Mozes en Aaron heen, en zeiden tot Farao: Alzo zegt de HEERE, de God van Israël: Laat Mijn volk trekken, dat het Mij een feest houde in de woestijn! 

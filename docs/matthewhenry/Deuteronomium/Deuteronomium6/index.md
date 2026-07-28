@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 6
 
 1. Dit zijn dan de geboden, de inzettingen en de rechten, die de HEERE, uw God, geboden heeft om u te leren; opdat gij ze doet in het land, naar hetwelk gij heentrekt, om dat erfelijk te bezitten; 

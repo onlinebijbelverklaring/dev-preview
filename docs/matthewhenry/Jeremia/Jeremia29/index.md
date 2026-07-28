@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 29
 
 1. VOORTS zijn dit de woorden des briefs dien de profeet Jeremía zond van Jeruzalem, tot de overige oudsten die gevankelijk waren weggevoerd, mitsgaders tot de priesters en tot de profeten en tot het ganse volk dat Nebukadnézar van Jeruzalem gevankelijk had weggevoerd naar Babel

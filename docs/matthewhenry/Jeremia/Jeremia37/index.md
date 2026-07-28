@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 37
 
 1. EN Zedekía, zoon van Josía, regeerde, koning zijnde, in plaats van Chónia, Jójakims zoon, welken Zedekía Nebukadrézar, de koning van Babel, koning gemaakt had in het land van Juda.

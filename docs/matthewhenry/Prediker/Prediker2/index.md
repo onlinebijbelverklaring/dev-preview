@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 2
 
 1. IK zeide in mijn hart: Nu welaan, ik zal u beproeven door vreugde; derhalve zie het goede aan. Maar zie, ook dat was ijdelheid.

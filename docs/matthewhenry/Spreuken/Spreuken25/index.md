@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 25
 
 1. DIT zijn ook spreuken van Sálomo, die de mannen van Hizkía, den koning van Juda, uitgeschreven hebben.

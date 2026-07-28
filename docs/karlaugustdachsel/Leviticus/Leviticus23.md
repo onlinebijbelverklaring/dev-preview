@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 23
 
 VASTSTELLING VAN DE VOORNAAMSTE FEESTEN.

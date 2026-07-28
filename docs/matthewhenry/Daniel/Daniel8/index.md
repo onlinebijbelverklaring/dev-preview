@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 8
 
 1. IN het derde jaar des koninkrijks van den koning Bélsazar verscheen mij een gezicht, mij, Daniël, na hetgeen dat mij in het eerst verschenen was.

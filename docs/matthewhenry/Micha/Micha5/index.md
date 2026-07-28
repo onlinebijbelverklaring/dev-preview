@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Micha 5
 
 1. En gij, Bethlehem Efratha! zijt gij klein om te wezen onder de duizenden van Juda? Uit u zal Mij voortkomen, Die een Heerser zal zijn in Israël, en Wiens uitgangen zijn vanouds, van de dagen der eeuwigheid. 

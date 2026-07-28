@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 10
 
 1. DAARNA zag ik, en zie, boven het uitspansel hetwelk was over het hoofd der cherubs, was als een saffiersteen, als de gedaante van de gelijkenis eens troons; en Hij verscheen op dezelve.

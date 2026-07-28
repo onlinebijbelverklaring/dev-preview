@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ruth 1
 
 1. In de dagen, als de richters richtten, zo geschiedde het, dat er honger in het land was; daarom toog een man van Bethlehem-Juda, om als vreemdeling te verkeren in de velden Moabs, hij, en zijn huisvrouw, en zijn twee zonen. 

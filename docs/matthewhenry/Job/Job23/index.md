@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 23
 
 1. MAAR Job antwoordde en zeide:

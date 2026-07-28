@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Joel 2
 
 1. Blaast de bazuin te Sion, en roept luide op de berg Mijner heiligheid; laat alle inwoners des lands beroerd zijn, want de dag des HEEREN komt, want hij is nabij. 

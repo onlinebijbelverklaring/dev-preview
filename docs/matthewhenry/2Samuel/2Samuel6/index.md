@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 6
 
 1. Daarna verzamelde David wederom alle uitgelezenen in Israël, dertig duizend. 

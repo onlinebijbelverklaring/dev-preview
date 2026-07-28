@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jona 1
 
 1. En het woord des HEEREN geschiedde tot Jona, de zoon van Amitthai, zeggende:

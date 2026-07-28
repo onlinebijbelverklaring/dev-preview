@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Thessalonicenzen 2
 
 1. EN wij bidden u, broeders, door de toekomst van onzen Heere Jezus Christus en onze toevergadering tot Hem,

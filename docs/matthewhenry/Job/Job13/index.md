@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 13
 
 1. ZIE, dat alles heeft mijn oog gezien, mijn oor gehoord en verstaan.

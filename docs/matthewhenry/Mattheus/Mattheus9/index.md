@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 9
 
 1. EN in het schip gegaan zijnde, voer Hij over en kwam in Zijn stad. En zie, zij brachten tot Hem een geraakte, op een bed liggende.

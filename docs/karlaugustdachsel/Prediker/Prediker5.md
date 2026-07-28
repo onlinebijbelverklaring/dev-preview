@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 5
 
 OVER DEN WEG TOT HET WARE GELUK.

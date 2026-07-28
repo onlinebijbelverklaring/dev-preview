@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 18
 
 1. Zo zeide de HEERE tot Aäron: Gij, en uw zonen, en het huis uws vaders met u, zult dragen de ongerechtigheid des heiligdoms; en gij, en uw zonen met u, zult dragen de ongerechtigheid van uw priesterambt. 

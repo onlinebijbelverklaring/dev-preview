@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 27
 
 1. EEN psalm van David. De HEERE is mijn Licht en mijn Heil, voor wien zou ik vrezen? De HEERE is mijns levens Kracht, voor wien zou ik vervaard zijn?

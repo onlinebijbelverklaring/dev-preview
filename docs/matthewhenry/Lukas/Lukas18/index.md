@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 18
 
 1. EN Hij zeide ook een gelijkenis tot hen, daartoe strekkende dat men altijd bidden moet en niet vertragen;

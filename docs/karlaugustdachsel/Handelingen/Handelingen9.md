@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 9
 
 PAULUS’ BEKERING, PETRUS’ WONDER AAN ENEAS EN TABITHA.

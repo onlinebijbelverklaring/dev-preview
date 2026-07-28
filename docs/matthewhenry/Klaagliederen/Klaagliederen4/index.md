@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Klaagliederen 4
 
 1. ALEPH. Hoe is het goud zo verdonkerd, het goede fijne goud zo veranderd! Hoe zijn de stenen des heiligdoms vooraan op alle straten verworpen!

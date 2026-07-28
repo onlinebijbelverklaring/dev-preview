@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 2
 
 WIJZEN UIT HET OOSTEN. VLUCHT NAAR EGYPTE.

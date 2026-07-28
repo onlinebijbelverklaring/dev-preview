@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 26
 
 1. Aangaande de verdelingen der poortiers: van de Korahieten was Meselemja, de zoon van Kore, van de kinderen van Asaf. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 5
 
 1. WANT alle hogepriester uit de mensen genomen, wordt gesteld voor de mensen in de zaken die bij God te doen zijn, opdat hij offere gaven en slachtoffers voor de zonden;

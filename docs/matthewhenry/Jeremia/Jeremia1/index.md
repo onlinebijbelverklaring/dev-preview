@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 1
 
 1. DE woorden van Jeremía, den zoon van Hilkía, uit de priesters die te Anathoth waren, in het land van Benjamin;

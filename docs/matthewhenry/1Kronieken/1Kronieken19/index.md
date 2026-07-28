@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 19
 
 1. En het geschiedde na dezen, dat Nahas, de koning der kinderen Ammons, stierf, en zijn zoon werd koning in zijn plaats. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 15
 
 1. IK ben de ware Wijnstok, en Mijn Vader is de Landman.

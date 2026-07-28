@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 23
 
 1. Doch in het zevende jaar versterkte zich Jojada, en nam de oversten der honderden, Azarja, de zoon van Jeroham en Ismael, de zoon van Johanan, en Azarja, de zoon van Obed, en Maaseja, de zoon van Adaja, en Elisafat, de zoon van Zichri, met zich in een verbond. 

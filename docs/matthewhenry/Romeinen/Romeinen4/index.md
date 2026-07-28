@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 4
 
 1. WAT zullen wij dan zeggen dat Abraham, onze vader, verkregen heeft naar het vlees?

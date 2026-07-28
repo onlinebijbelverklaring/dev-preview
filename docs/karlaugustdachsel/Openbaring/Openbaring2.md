@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 2
 
 VIER ZENDBRIEVEN, DIE TEGEN VALSE LEER WAARSCHUWEN EN TOT STANDVASTIGHEID AANMANEN

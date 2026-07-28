@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 2
 
 1. Jozua nu, de zoon van Nun, had twee mannen, die heimelijk verspieden zouden, gezonden van Sittim, zeggende: Gaat heen, bezichtigt het land en Jericho. Zij dan gingen, en kwamen ten huize van een vrouw, een hoer, wier naam was Rachab, en zij sliepen daar. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 30
 
 1. En Mozes sprak tot de hoofden der stammen van de kinderen Israëls, zeggende: Dit is de zaak, die de HEERE geboden heeft: 

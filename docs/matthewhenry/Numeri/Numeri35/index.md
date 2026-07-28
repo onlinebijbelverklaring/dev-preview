@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 35
 
 1. En de HEERE sprak tot Mozes, in de vlakke velden der Moabieten, aan de Jordaan van Jericho, zeggende: 

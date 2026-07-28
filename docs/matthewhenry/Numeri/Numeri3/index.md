@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 3
 
 1. Dit nu zijn de geboorten van Aäron en Mozes; ten dage als de HEERE met Mozes gesproken heeft op de berg Sinai. 

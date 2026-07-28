@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 4
 
 1. EN Hij begon wederom te leren omtrent de zee; en er vergaderde een grote schare bij Hem, alzo dat Hij, in het schip gegaan zijnde, nederzat op de zee; en de gehele schare was op het land aan de zee.

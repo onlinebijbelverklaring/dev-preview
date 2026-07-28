@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 3
 
 VERDEDIGING VAN HET AMBT VAN DE EVANGELIEPREDIKING

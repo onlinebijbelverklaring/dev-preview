@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 29
 
 1. IN het tiende jaar, in de tiende maand, op den twaalfde der maand, geschiedde des HEEREN woord tot mij, zeggende:

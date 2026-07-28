@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 7
 
 AANMANING TOT HEILIGMAKING

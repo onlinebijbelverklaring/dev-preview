@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 132
 
 1. EEN lied Hammaäloth. O HEERE, gedenk aan David, aan al zijn lijden;

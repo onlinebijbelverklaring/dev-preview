@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 2
 
 1. En de HEERE sprak tot Mozes en tot Aäron, zeggende: 

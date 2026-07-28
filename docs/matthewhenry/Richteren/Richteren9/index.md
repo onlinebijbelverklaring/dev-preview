@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 9
 
 1. Abimelech nu, de zoon van Jerubbaäl, ging henen naar Sichem, tot de broeders zijner moeder; en hij sprak tot hen, en tot het ganse geslacht van het huis van de vader zijner moeder, zeggende: 

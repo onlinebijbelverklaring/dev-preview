@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 50
 
 1. HET woord dat de HEERE gesproken heeft tegen Babel, tegen het land der Chaldeeën, door den dienst van den profeet Jeremía.

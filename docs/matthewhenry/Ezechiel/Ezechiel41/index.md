@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 41
 
 1. VOORTS bracht Hij mij tot den tempel; en Hij mat de posten, zes ellen de breedte van deze en zes ellen de breedte van gene zijde, de breedte der tent;

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 15
 
 1. EN sommigen, die afgekomen waren van Judéa, leerden de broederen, zeggende: Indien gij niet besneden wordt naar de wijze van Mozes, zo kunt gij niet zalig worden.

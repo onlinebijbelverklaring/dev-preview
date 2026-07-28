@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 13
 
 1. Saul was een jaar in zijn regering geweest, en het tweede jaar regeerde hij over Israël. 

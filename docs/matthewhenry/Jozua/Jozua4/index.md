@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 4
 
 1. Het geschiedde nu, toen al het volk geëindigd had over de Jordaan te trekken, dat de HEERE tot Jozua sprak, zeggende: 

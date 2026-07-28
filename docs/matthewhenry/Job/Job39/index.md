@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 39
 
 1. ZULT gij voor den ouden leeuw roof jagen, of de graagheid der jonge leeuwen vervullen,

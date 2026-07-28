@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 4
 
 1. Maar de kinderen Israëls voeren voort te doen, dat kwaad was in de ogen des HEEREN, als Ehud gestorven was. 

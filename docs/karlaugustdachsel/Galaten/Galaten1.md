@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Galaten 1
 
 OVER DE ONBESTENDIGHEID VAN DE GALATEN EN PAULUS’ APOSTELSCHAP

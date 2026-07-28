@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 27
 
 1. TE dien dage zal de HEERE met Zijn hard en groot en sterk zwaard bezoeken den leviathan, de langwemelende slang, ja, den leviathan, de kromme slomme slang; en Hij zal den draak die in de zee is, doden.

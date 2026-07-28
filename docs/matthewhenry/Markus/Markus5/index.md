@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 5
 
 1. EN zij kwamen over op de andere zijde der zee, in het land der Gadarénen.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 21
 
 1. Als de Kanaaniet, de koning van Harad, wonende tegen het zuiden, hoorde, dat Israël door de weg der verspieders kwam, zo streed hij tegen Israël, en hij voerde enige gevangenen uit denzelven gevankelijk weg. 

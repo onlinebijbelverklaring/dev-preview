@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 26
 
 1. EN het gebeurde in het elfde jaar, op den eerste der maand, dat des HEEREN woord tot mij geschiedde, zeggende:

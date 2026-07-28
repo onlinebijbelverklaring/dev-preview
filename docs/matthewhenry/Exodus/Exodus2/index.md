@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 2
 
 1. En een man van het huis van Levi ging, en nam een dochter van Levi. 

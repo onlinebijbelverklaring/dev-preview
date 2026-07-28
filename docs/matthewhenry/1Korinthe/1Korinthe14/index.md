@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 14
 
 1. JAAGT de liefde na, en ijvert om de geestelijke gaven, maar meest dat gij moogt profeteren.

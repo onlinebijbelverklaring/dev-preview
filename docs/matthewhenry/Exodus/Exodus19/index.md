@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 19
 
 1. In de derde maand, na het uittrekken der kinderen Israëls uit Egypteland, ten zelfden dage kwamen zij in de woestijn Sinai. 

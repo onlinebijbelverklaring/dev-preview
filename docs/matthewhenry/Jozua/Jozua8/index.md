@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 8
 
 1. Toen zeide de HEERE tot Jozua: Vrees niet, en ontzet u niet; neem met u al het krijgsvolk, en maak u op, trek op naar Ai; zie, Ik heb de koning van Ai, en zijn volk, en zijn stad, en zijn land in uw hand gegeven. 

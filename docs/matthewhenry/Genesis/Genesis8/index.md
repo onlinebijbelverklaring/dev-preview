@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 8
 
 1. En God gedacht aan Noach, en aan al het gedierte, en aan al het vee, dat met hem in de ark was; en God deed een wind over de aarde doorgaan, en de wateren werden stil. 

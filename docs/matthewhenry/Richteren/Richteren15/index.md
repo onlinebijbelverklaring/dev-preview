@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 15
 
 1. En het geschiedde na sommige dagen, in de dagen van de tarweoogst, dat Simson zijn huisvrouw bezocht met een geitenbokje, en hij zeide: Laat mij tot mijn huisvrouw ingaan in de kamer; maar haar vader liet hem niet toe in te gaan. 

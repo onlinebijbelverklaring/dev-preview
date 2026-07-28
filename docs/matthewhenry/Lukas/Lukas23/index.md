@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 23
 
 1. EN de gehele menigte van hen stond op en leidde Hem tot Pilatus.

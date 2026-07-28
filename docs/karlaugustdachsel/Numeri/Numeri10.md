@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 10
 
 GEBRUIK DER TROMPETTEN. ISRAELS VOORTTOCHT.

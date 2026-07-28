@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 7
 
 1. Toen kwamen de mannen van Kirjath-Jearim, en haalden de ark des HEEREN op, en zij brachten ze in het huis van Abinadab, op de heuvel; en zij heiligden zijn zoon Eleazar, dat hij de ark des HEEREN bewaarde. 

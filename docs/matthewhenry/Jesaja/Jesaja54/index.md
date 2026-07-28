@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 54
 
 1. ZING vrolijk, gij onvruchtbare, die niet gebaard hebt, maak geschal met vrolijk gezang, en juich, die geen barensnood gehad hebt, want de kinderen der eenzame zijn meer dan de kinderen der getrouwde, zegt de HEERE.

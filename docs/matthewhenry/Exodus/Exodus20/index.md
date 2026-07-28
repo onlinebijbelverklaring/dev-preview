@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 20
 
 1. Toen sprak God al deze woorden, zeggende: 

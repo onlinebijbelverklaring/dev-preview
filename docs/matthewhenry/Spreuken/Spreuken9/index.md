@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 9
 
 1. DE opperste Wijsheid heeft Haar huis gebouwd, Zij heeft Haar zeven pilaren gehouwen.

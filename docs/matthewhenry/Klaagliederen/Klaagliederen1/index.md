@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Klaagliederen 1
 
 1. ALEPH. Hoe zit die stad zo eenzaam, die vol volk was! Zij is als een weduwe geworden, zij die groot was onder de heidenen, een vorstin onder de landschappen, is cijnsbaar geworden.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezra 5
 
 1. Haggaï nu, de profeet, en Zacharia, de zoon van Iddo, profeteerden tot de Joden, die in Juda en te Jeruzalem waren; in de naam Gods van Israël profeteerden zij tot hen. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 25
 
 OPRICHTING VAN EEN HEILIGDOM.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 16
 
 1. EN hij kwam te Derbe en Lystre. En zie, aldaar was een zeker discipel met name Timótheüs, zoon van een gelovige Joodse vrouw, maar van een Grieksen vader;

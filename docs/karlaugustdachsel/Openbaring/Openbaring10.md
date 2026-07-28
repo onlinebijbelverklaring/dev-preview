@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 10
 
 JOHANNES VERSLINDT EEN BOEK

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 20
 
 1. Het geschiedde nu ten tijde van de wederkomst des jaars, ten tijde als de koningen uittrokken, zo voerde Joab de heirkracht, en hij verdierf het land der kinderen Ammons; en hij kwam, en belegerde Rabba; maar David bleef te Jeruzalem. En Joab sloeg Rabba, en verwoestte ze. 

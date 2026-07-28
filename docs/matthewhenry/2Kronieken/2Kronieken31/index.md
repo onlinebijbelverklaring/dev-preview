@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 31
 
 1. Als zij nu dit alles voleind hadden, togen alle Israëlieten, die er gevonden werden, uit, tot de steden van Juda, en braken de opgerichte beelden, en hieuwen de bossen af, en wierpen de hoogten en de altaren af, uit gans Juda en Benjamin, ook in Efraim en Manasse, totdat zij alles te niet gemaakt hadden; daarna keerden al de kinderen Israëls weder, een ieder tot zijn bezitting in hun steden. 

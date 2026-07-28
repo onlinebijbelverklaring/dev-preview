@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 96
 
 1. ZINGT den HEERE een nieuw lied, zingt den HEERE, gij ganse aarde.

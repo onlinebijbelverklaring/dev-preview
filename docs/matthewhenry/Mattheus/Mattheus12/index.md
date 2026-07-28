@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 12
 
 1. IN dien tijd ging Jezus op een sabbatdag door het gezaaide, en Zijn discipelen hadden honger en begonnen aren te plukken en te eten.

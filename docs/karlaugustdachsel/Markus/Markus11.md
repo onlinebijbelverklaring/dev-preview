@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 11
 
 !!! note "Gedeelte mist in digitale bronnen"

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 3
 
 1. PETRUS nu en Johannes gingen tezamen op naar den tempel, omtrent de ure des gebeds, zijnde de negende ure.

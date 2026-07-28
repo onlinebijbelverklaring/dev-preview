@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 12
 
 1. DAARENTUSSEN als vele duizenden der schare bijeenvergaderd waren, zodat zij elkander vertraden, begon Hij te zeggen tot Zijn discipelen: Vooreerst wacht uzelven voor den zuurdesem der farizeeën, welke is geveinsdheid.

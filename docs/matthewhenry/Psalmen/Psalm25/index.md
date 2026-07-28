@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 25
 
 1. EEN psalm van David. Aleph. Tot U, o HEERE, hef ik mijn ziel op.

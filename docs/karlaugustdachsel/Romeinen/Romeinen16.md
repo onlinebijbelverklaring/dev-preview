@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 16
 
 AANBEVELING VAN FEBE. LAATSTE GROET. WAARSCHUWING EN DANKZEGGING

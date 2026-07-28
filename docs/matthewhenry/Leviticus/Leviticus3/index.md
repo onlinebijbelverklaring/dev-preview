@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 3
 
 1. En indien zijn offerande een dankoffer is; zo hij ze van de runderen offert, hetzij mannetje of wijfje, volkomen zal hij die offeren, voor het aangezicht des HEEREN. 

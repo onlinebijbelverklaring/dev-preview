@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Klaagliederen 3
 
 1. ALEPH. Ik ben de man die ellende gezien heeft door de roede Zijner verbolgenheid.

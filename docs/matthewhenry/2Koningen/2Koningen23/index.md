@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 23
 
 1. Toen zond de koning henen, en tot hem verzamelden al die oudsten van Juda en Jeruzalem. 

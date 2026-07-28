@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Timotheus 1
 
 1. PAULUS, een apostel van JEZUS CHRISTUS, door den wil Gods, naar de belofte des levens dat in Christus Jezus is,

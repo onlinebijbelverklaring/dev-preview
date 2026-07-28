@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 10
 
 GESLACHT EN NAKOMELINGEN VAN NOACH’S ZONEN.

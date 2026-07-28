@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 7
 
 1. WANT deze Melchizédek was koning van Salem, een priester des allerhoogsten Gods, die Abraham tegemoetging als hij wederkeerde van het slaan der koningen, en hem zegende;

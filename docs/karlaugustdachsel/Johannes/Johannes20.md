@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 20
 
 ## II. Vers 1-29

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 137
 
 1. AAN de rivieren van Babel, daar zaten wij, ook weenden wij, als wij gedachten aan Sion.

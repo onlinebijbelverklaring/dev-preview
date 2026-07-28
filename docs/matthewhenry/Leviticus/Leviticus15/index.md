@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 15
 
 1. Verder sprak de HEERE tot Mozes en tot Aäron, zeggende: 

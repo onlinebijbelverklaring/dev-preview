@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 32
 
 1. Jakob toog ook zijns weegs; en de engelen Gods ontmoetten hem. 

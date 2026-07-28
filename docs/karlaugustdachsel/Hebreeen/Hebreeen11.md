@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 11
 
 OVER HET ZALIGMAKEND GELOOF

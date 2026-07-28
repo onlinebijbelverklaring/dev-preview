@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 1
 
 1. HET boek des geslachts van JEZUS CHRISTUS, den Zoon van David, den Zoon van Abraham.

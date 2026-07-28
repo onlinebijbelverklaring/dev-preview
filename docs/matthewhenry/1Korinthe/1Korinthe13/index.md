@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 13
 
 1. AL ware het dat ik de talen der mensen en der engelen sprak, en de liefde niet had, zo ware ik een klinkend metaal of luidende schel geworden.

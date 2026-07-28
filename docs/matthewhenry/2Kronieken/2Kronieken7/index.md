@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 7
 
 1. Als nu Salomo voleind had te bidden, zo daalde het vuur van de hemel, en verteerde het brandoffer en de slachtofferen; en de heerlijkheid des HEEREN vervulde het huis. 

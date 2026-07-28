@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Maleachi 2
 
 1. En nu, gij priesters! tot u wordt dit gebod gezonden; 

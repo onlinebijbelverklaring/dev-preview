@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 10
 
 1. EN er was een zeker man te Cesaréa, met name Cornelius, een hoofdman over honderd, uit de bende genaamd de Italiaanse,

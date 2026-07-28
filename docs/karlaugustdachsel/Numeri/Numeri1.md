@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 1
 
 TELLING VAN ISRAELS STRIJDBARE MANNEN.

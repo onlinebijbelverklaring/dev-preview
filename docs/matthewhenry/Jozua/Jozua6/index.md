@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 6
 
 1. Jericho nu sloot de poorten toe, en was gesloten, voor het aangezicht van de kinderen Israëls; er ging niemand uit, en er ging niemand in. 

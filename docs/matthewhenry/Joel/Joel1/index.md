@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Joel 1
 
 1. Het woord des HEEREN, dat geschied is tot Joël, de zoon van Pethuel. 

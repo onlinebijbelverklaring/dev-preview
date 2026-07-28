@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 1
 
 CHRISTUS IS GODS ZOON EN HOGER DAN ENGELEN EN SCHEPSELEN

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 5
 
 1. Alzo werd al het werk volbracht, dat Salomo aan het huis des HEEREN maakte. Daarna bracht Salomo de geheiligde dingen van zijn vader David; en het zilver, en het goud, en al de vaten leide hij onder de schatten van het huis Gods. 

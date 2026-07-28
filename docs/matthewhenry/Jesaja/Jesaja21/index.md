@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 21
 
 1. DE last der woestijn aan de zee. Gelijk de wervelwinden in het zuiden henen doorgaan, zal hij uit de woestijn komen, uit een vreselijk land.

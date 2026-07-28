@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 60
 
 1. EEN gouden kleinood van David tot lering, voor den opperzangmeester, op Schuschan Eduth;

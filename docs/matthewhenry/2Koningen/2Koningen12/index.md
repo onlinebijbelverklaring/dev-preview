@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 12
 
 1. In het zevende jaar van Jehu werd Joas koning, en regeerde veertig jaren te Jeruzalem; en de naam zijner moeder was Zibja van Ber-seba. 

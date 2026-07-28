@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 2
 
 1. DAAROM moeten wij ons te meer houden aan hetgeen van ons gehoord is, opdat wij niet te eniger tijd doorvloeien.

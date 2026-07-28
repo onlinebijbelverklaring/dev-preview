@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 8
 
 1. Benjamin nu gewon Bela, zijn eerstgeborene, Asbel, de tweede, en Ahrah, de derde, 

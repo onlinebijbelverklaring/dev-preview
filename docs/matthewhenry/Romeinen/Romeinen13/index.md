@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 13
 
 1. ALLE ziel zij den machten over haar gesteld, onderworpen; want er is geen macht dan van God, en de machten die er zijn, die zijn van God geordineerd.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 6
 
 1. Maar de kinderen Israëls deden, dat kwaad was in de ogen des HEEREN; zo gaf hen de HEERE in de hand der Midianieten, zeven jaren. 

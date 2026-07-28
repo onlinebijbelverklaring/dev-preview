@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 4
 
 1. Maar het geschiedde, als Sanballat gehoord had, dat wij de muur bouwden, zo ontstak hij, en werd zeer toornig; en hij bespotte de Joden. 

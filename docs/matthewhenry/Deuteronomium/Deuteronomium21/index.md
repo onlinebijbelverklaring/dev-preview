@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 21
 
 1. Wanneer in het land, hetwelk de HEERE, uw God, u geven zal, om dat te erven, een verslagene zal gevonden worden, liggende in het veld, niet bekend zijnde, wie hem geslagen heeft; 

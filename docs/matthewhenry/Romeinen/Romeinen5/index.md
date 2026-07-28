@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 5
 
 1. WIJ dan gerechtvaardigd zijnde uit het geloof, hebben vrede bij God door onzen Heere Jezus Christus;

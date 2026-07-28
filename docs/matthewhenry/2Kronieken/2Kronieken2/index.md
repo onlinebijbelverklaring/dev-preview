@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 2
 
 1. Salomo nu dacht voor de Naam des HEEREN een huis te bouwen, en een huis voor zijn koninkrijk. 

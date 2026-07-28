@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 1
 
 1. Voorts geschiedde het na Sauls dood, als David van de slag der Amalekieten was wedergekomen, en David twee dagen te Ziklag gebleven was; 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 2
 
 1. Wederom hief ik mijn ogen op, en ik zag; en ziet, er was een man, en in zijn hand was een meetsnoer. 

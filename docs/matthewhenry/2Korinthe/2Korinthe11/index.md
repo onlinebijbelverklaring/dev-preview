@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 11
 
 1. OCH, of gij mij een weinig verdroegt in de onwijsheid; ja ook, verdraagt mij.

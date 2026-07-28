@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 6
 
 1. DURFT iemand van ulieden, die een zaak heeft tegen een ander, te rechte gaan voor de onrechtvaardigen, en niet voor de heiligen?

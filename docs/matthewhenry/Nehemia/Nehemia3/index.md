@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 3
 
 1. En Eljasib, de hogepriester, maakte zich op met zijn broederen, de priesteren, en zij bouwden de Schaapspoort; zij heiligden ze, en richtten haar deuren op; ja, zij heiligden ze tot aan de toren Mea, tot aan de toren Hananeel. 

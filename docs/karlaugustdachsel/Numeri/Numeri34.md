@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 34
 
 GRENZEN VAN HET BELOOFDE LAND. HOE EN DOOR WIE HET VERDEELD MOEST WORDEN.

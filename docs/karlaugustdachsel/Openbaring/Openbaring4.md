@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 4
 
 HET TWEEDE GEZICHT VAN DE TROON VAN DE HEERLIJKHEID EN MAJESTEIT VAN DE VADER

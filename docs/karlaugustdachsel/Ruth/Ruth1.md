@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ruth 1
 
 RUTH REIST MET NAOMI NAAR BETHLEHEM.

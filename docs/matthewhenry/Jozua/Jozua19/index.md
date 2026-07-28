@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 19
 
 1. Daarna ging het tweede lot uit voor Simeon, voor de stam der kinderen van Simeon, naar hun huisgezinnen; en hun erfdeel was in het midden van het erfdeel der kinderen van Juda. 

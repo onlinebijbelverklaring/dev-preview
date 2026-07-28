@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 8
 
 HET ZAAD VAN GODS WOORD. DE STORM OP ZEE. BEZETENEN. DE ZIEKE VROUW. JAIRUS DOCHTERTJE

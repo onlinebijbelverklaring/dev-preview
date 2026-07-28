@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 16
 
 1. AANGAANDE nu de verzameling die voor de heiligen geschiedt, gelijk als ik den gemeenten in Galátië verordineerd heb, doet ook gij alzo.

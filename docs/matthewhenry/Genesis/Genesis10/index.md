@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 10
 
 1. Dit nu zijn de geboorten van Noachs zonen: Sem, Cham, en Jafeth; en hun werden zonen geboren na de vloed. 

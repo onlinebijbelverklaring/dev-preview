@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 4
 
 1. ALZO houde ons een ieder mens als dienaars van Christus en uitdelers der verborgenheden Gods.

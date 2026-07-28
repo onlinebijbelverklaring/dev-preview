@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 4
 
 1. Als nu Sauls zoon hoorde, dat Abner te Hebron gestorven was, werden zijn handen slap, en gans Israël werd verschrikt. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Thessalonicenzen 1
 
 AANMANING TOT STANDVASTIGHEID IN VERVOLGING

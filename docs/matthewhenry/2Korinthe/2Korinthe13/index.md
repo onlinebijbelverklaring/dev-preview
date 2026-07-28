@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 13
 
 1. DIT is de derde maal dat ik tot u kom: in den mond van twee of drie getuigen zal alle woord bestaan.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ruth 4
 
 1. En Boaz ging op in de poort, en zette zich aldaar en ziet, de losser, van welken Boaz gesproken had, ging voorbij; zo zeide hij: Wijk herwaarts, zet u hier, gij, zulk een! En hij week derwaarts, en zette zich. 

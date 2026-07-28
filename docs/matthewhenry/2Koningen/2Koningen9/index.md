@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Koningen 9
 
 1. Toen riep de profeet Elisa een van de zonen der profeten, en hij zeide tot hem: Gord uw lenden, en neem deze oliekruik in uw hand, en ga heen naar Ramoth in Gilead. 

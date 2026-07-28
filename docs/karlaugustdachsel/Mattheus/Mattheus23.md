@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 23
 
 WAARSCHUWING VOOR DE SCHRIFTGELEERDEN EN FARIZEEEN

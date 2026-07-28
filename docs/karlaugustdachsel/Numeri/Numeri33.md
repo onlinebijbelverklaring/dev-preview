@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 33
 
 REGISTER VAN DE REIS- EN LEGERPLAATSEN VAN HET VOLK ISRAEL.

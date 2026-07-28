@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 6
 
 MOZES VERKRIJGT VAN GOD EEN NIEUW BEVEL. HIJ BESCHRIJFT ZIJN GEBOORTEREGISTER.

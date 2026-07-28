@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 143
 
 1. EEN psalm van David. O HEERE, hoor mijn gebed, neig de oren tot mijn smekingen; verhoor mij naar Uw waarheid, naar Uw gerechtigheid.

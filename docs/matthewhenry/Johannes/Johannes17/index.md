@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 17
 
 1. DIT heeft Jezus gesproken, en Hij hief Zijn ogen op naar den hemel, en zeide: Vader, de ure is gekomen, verheerlijk Uw Zoon, opdat ook Uw Zoon U verheerlijke.

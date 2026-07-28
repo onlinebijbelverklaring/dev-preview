@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 30
 
 1. DE woorden van Agur, zoon van Jake; een last. De man spreekt tot Ithiël, tot Ithiël en Uchal.

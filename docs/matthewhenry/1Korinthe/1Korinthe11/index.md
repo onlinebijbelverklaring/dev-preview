@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 11
 
 1. WEEST mijn navolgers, gelijkerwijs ook ik van Christus.

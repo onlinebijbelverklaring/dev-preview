@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 29
 
 1. WEE Ariël, Ariël, de stad waarin David gelegerd heeft; doet jaar tot jaar, laat hen feestoffers slachten.

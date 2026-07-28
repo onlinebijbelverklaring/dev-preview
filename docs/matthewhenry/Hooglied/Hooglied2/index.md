@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hooglied 2
 
 1. IK ben een Roos van Saron, een Lelie der dalen.

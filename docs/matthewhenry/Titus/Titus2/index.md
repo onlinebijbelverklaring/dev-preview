@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Titus 2
 
 1. DOCH gij, spreek hetgeen der gezonde leer betaamt.

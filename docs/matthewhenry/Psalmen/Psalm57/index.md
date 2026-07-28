@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 57
 
 1. EEN gouden kleinood van David, voor den opperzangmeester, Altáscheth; als hij voor Sauls aangezicht vlood in de spelonk.

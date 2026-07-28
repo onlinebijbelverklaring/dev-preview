@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jakobus 3
 
 OVER GEBRUIK EN MISBRUIK VAN DE TONG

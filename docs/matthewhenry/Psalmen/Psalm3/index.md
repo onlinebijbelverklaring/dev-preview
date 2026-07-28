@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 3
 
 1. EEN psalm van David, als hij vlood voor het aangezicht van zijn zoon Absalom.

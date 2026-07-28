@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 12
 
 JAKOBUS’ DOOD. PETRUS’ VERLOSSING. HERODES’ ONDERGANG.

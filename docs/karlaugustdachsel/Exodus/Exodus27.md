@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 27
 
 OVER HET BRANDOFFERALTAAR, DE VOORHOF EN DE HEILlGE OLIE.

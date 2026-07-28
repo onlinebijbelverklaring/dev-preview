@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 22
 
 1. Daarna reisden de kinderen van Israël, en legerden zich in de vlakke velden van Moab, aan deze zijde van de Jordaan van Jericho. 

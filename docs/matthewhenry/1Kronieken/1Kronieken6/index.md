@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 6
 
 1. De kinderen van Levi waren Gerson, Kahath en Merari. 

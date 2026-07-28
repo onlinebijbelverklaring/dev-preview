@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 44
 
 1. TOEN deed Hij mij wederkeren den weg naar de poort van het buitenste heiligdom die naar het oosten zag; en die was toegesloten.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Galaten 2
 
 1. DAARNA ben ik, na veertien jaren, wederom naar Jeruzalem opgegaan met Bárnabas, ook Titus medegenomen hebbende.

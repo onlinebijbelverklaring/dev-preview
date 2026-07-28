@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 41
 
 1. NIEMAND is zo koen dat hij hem opwekken zou; wie is dan hij die zich voor Mijn aangezicht stellen zou?

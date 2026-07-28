@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 22
 
 1. EN het feest der ongehevelde broden, genaamd pascha, was nabij.

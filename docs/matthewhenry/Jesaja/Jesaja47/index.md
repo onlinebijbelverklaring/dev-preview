@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 47
 
 1. DAAL af en zit in het stof, gij jonkvrouw, dochter van Babel, zit op de aarde, er is geen troon meer, gij dochter der Chaldeeën; want gij zult niet meer genaamd worden de tedere, noch de wellustige.

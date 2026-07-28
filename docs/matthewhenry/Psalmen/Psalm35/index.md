@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 35
 
 1. EEN psalm van David. Twist, HEERE, met mijn twisters; strijd met mijn bestrijders.

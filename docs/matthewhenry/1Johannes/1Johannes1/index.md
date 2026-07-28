@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Johannes 1
 
 1. Hetgeen van de beginne was, hetgeen wij gehoord hebben, hetgeen wij gezien hebben met onze ogen, hetgeen wij aanschouwd hebben, en onze handen getast hebben, van het Woord des levens; 

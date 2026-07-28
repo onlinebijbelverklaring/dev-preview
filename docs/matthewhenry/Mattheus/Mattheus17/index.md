@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 17
 
 1. EN na zes dagen nam Jezus met Zich Petrus en Jakobus en Johannes, zijn broeder, en bracht hen op een hogen berg alleen.

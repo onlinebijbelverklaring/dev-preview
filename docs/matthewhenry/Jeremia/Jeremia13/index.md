@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 13
 
 1. ALZO heeft de HEERE tot mij gezegd: Ga heen en koop u een linnen gordel en doe dien aan uw lendenen, maar breng hem niet in het water.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 36
 
 1. Toen nam het volk des lands Joahaz, de zoon van Josia, en zij maakten hem koning, in zijns vaders plaats, te Jeruzalem. 

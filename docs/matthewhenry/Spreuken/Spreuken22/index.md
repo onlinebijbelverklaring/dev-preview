@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 22
 
 1. DE naam is uitgelezener dan grote rijkdom, de goede gunst dan zilver en dan goud.

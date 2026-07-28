@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Maleachi 1
 
 1. De last van het woord des HEEREN tot Israël, door de dienst van Maleáchi. 

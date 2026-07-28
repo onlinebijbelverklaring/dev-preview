@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 18
 
 1. DIE zich afzondert, tracht naar wat begeerlijks; hij vermengt zich in alle bestendige wijsheid.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Galaten 3
 
 1. O gij uitzinnige Galaten, wie heeft u betoverd, dat gij der waarheid niet zoudt gehoorzaam zijn; denwelken Jezus Christus voor de ogen tevoren geschilderd is geweest, onder u gekruist zijnde?

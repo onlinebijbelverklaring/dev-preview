@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 93
 
 1. DE HEERE regeert, Hij is met hoogheid bekleed, de HEERE is bekleed met sterkte, Hij heeft Zich omgord. Ook is de wereld bevestigd, zij zal niet wankelen.

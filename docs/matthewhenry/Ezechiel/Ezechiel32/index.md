@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 32
 
 1. HET gebeurde ook in het twaalfde jaar, in de twaalfde maand, op den eerste der maand, dat het woord des HEEREN tot mij geschiedde, zeggende:

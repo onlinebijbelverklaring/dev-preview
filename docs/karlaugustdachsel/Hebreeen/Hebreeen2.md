@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 2
 
 DE LEER VAN CHRISTUS MOET WORDEN AANGENOMEN

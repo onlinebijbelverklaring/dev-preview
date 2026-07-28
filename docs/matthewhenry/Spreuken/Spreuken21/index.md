@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 21
 
 1. DES konings hart is in de hand des HEEREN, als waterbeken; Hij neigt het tot al wat Hij wil.

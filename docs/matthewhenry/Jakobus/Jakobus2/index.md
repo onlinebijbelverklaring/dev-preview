@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jakobus 2
 
 1. MIJNE broeders, hebt niet het geloof van onzen Heere Jezus Christus, den Heere der heerlijkheid, met aannemingen des persoons.

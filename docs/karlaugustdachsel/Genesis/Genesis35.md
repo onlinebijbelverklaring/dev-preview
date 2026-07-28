@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 35
 
 STERFGEVALLEN IN JAKOB’S GEZIN.

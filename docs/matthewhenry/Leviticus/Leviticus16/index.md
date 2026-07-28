@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 16
 
 1. En de HEERE sprak tot Mozes, nadat de twee zonen van Aäron gestorven waren, als zij genaderd waren voor het aangezicht des HEEREN, en gestorven waren; 

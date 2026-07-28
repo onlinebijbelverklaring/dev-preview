@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 33
 
 1. VOORTS geschiedde des HEEREN woord ten tweeden male tot Jeremía, als hij nog in het voorhof der bewaring was opgesloten, zeggende:

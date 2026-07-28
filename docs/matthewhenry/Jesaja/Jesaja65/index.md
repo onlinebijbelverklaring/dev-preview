@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 65
 
 1. IK ben gevonden van hen die naar Mij niet vraagden, Ik ben gevonden van degenen die Mij niet zochten; tot het volk dat naar Mijn Naam niet genoemd was, heb Ik gezegd: Zie, hier ben Ik, zie, hier ben Ik.

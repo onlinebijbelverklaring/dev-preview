@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 39
 
 1. IN het negende jaar van Zedekía, koning van Juda, in de tiende maand, kwam Nebukadrézar, de koning van Babel, en al zijn heir tegen Jeruzalem, en zij belegerden haar.

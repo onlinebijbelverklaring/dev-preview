@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 64
 
 1. OCH, dat Gij de hemelen scheurdet, dat Gij nederkwaamt, dat de bergen van Uw aangezicht vervloten;

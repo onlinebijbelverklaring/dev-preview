@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Spreuken 11
 
 1. EEN bedrieglijke weegschaal is den HEERE een gruwel, maar een volkomen weegsteen is Zijn welgevallen.

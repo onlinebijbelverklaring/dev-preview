@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 41
 
 1. ZWIJGT voor Mij, gij eilanden, en laat de volken de kracht vernieuwen; laat ze toetreden, laat ze dan spreken; laat ons tezamen ten gerichte naderen.

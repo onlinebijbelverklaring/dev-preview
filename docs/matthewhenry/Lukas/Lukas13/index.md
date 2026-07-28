@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 13
 
 1. EN er waren te dienzelven tijde enigen tegenwoordig die Hem boodschapten van de Galileeërs welker bloed Pilatus met hun offeranden gemengd had.

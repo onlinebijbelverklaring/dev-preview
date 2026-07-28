@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 21
 
 1. EN als het geschiedde dat wij van hen gescheiden en afgevaren waren, zo liepen wij rechtuit en kwamen te Kos, en den dag daaraan te Rhodos, en vandaar te Pátara.

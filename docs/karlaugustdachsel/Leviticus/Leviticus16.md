@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 16
 
 JAARLIJKS ZOENOFFER.

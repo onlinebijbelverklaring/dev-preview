@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 17
 
 1. En er was een man van het gebergte van Efraim, wiens naam was Micha. 

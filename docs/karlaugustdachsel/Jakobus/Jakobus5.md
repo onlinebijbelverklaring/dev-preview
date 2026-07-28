@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jakobus 5
 
 OVER DE NIETIGHEID VAN DE RIJKDOM, OVER GEDULDIG LIJDEN EN KRACHTIG GEBED

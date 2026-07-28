@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 16
 
 1. EN ik hoorde een grote stem uit den tempel, zeggende tot de zeven engelen: Gaat heen en giet de zeven fiolen van den toorn Gods uit op de aarde.

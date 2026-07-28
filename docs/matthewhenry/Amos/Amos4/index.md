@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Amos 4
 
 1. Hoort dit woord, gij koeien van Basan! gij, die op de berg van Samaria zijt, die de armen verdrukt, die de nooddruftigen verplettert; gij, die tot hunlieder Heeren zegt: Brengt aan, opdat wij drinken. 

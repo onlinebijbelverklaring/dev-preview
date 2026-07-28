@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ruth 3
 
 1. En Naomi, haar schoonmoeder, zeide tot haar: Mijn dochter! zoude ik u geen rust zoeken, dat het u welga? 

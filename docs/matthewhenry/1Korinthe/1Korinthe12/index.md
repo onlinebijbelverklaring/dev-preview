@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 12
 
 1. EN van de geestelijke gaven, broeders, wil ik niet dat gij onwetende zijt.

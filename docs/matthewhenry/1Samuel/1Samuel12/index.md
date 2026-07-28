@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 12
 
 1. Toen zeide Samuël tot gans Israël: Ziet, ik heb naar ulieder stem gehoord in alles, wat gij mij gezegd hebt, en ik heb een koning over u gezet. 

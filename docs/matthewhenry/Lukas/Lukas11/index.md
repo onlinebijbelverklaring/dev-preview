@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 11
 
 1. EN het geschiedde toen Hij in een zekere plaats was biddende, als Hij ophield, dat een van Zijn discipelen tot Hem zeide: Heere, leer ons bidden, gelijk ook Johannes zijn discipelen geleerd heeft.

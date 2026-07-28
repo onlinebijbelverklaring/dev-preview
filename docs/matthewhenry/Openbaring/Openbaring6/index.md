@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 6
 
 1. EN ik zag, toen het Lam een van de zegelen geopend had, en ik hoorde een uit de vier dieren zeggen, als een stem van een donderslag: Kom en zie.

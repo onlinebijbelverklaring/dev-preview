@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 10
 
 1. MIJN ziel is verdrietig over mijn leven; ik zal mijn klacht op mij laten, ik zal spreken in bitterheid mijner ziel.

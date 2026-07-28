@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 34
 
 1. Voorts sprak de HEERE tot Mozes, zeggende: 

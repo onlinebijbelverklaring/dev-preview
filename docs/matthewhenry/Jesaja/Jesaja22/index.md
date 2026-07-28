@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 22
 
 1. DE last van het dal des gezichts. Wat is u nu, dat gij altegader op de daken klimt?

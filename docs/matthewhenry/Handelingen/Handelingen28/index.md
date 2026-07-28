@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 28
 
 1. EN als zij ontkomen waren, toen verstonden zij dat het eiland Melíte heette.

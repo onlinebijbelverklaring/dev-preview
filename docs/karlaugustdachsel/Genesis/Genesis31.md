@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 31
 
 JAKOB VLUCHT MET VROUWEN EN KINDEREN VAN ZIJN SCHOONVADER LABAN.

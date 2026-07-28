@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 73
 
 1. EEN psalm van Asaf. Immers is God Israël goed, dengenen die rein van hart zijn.

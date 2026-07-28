@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jona 1
 
 JONA’S ROEPING, ONGEHOORZAAMHEID EN STRAF.

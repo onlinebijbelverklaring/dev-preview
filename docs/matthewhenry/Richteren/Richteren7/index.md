@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 7
 
 1. Toen stond Jerubbaäl (dewelke is Gideon) vroeg op, en al het volk, dat met hem was; en zij legerden zich aan de fontein van Harod; dat hij het heirleger der Midianieten had tegen het noorden, achter de heuvel More, in het dal. 

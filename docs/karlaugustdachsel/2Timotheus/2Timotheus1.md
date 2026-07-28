@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Timotheus 1
 
 AANMANING TOT VOLHARDING IN DE ZUIVERE LEER BIJ VERVOLGING

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 5
 
 1. Voorts zong Debora, en Barak, de zoon van Abinoam, ten zelven dage, zeggende: 

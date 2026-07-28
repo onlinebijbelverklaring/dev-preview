@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 9
 
 1. De last van het woord des HEEREN over het land Chadrach en Damaskus, deszelfs rust; want de HEERE heeft een oog over de mens, gelijk over al de stammen Israëls. 

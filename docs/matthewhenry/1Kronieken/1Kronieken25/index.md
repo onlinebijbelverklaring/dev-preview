@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 25
 
 1. En David, mitsgaders de oversten des heirs, scheidde af tot de dienst, van de kinderen van Asaf, en van Heman, en van Jeduthun, die met harpen, met luiten en met cimbalen profeteren zouden; en die onder hen geteld werden, waren mannen, bekwaam tot het werk van hun dienst. 

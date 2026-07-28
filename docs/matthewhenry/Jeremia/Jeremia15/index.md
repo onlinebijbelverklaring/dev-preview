@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 15
 
 1. MAAR de HEERE zeide tot mij: Al stond Mozes en Samuël voor Mijn aangezicht, zo zou toch Mijn ziel tot dit volk niet wezen; drijf hen weg van Mijn aangezicht en laat hen uitgaan.

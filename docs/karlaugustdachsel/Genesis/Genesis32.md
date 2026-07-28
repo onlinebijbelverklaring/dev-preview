@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 32
 
 JAKOB’S VREES, GEBED EN STRIJD.

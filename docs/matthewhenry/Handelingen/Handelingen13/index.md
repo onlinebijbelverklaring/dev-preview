@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 13
 
 1. EN er waren te Antiochíë in de gemeente die daar was, enige profeten en leraars, namelijk Bárnabas, en Simeon genaamd Niger, en Lucius van Cyréne, en Mánahen, die met Herodes, den viervorst, opgevoed was, en Saulus.

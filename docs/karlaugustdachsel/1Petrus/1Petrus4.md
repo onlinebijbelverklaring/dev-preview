@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Petrus 4
 
 OVER HET NUT VAN HET KRUIS, HET GEDULD DAARIN, ALSMEDE OVER ANDERE DEUGDEN

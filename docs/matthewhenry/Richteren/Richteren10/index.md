@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 10
 
 1. Na Abimelech nu stond op, om Israël te behouden, Thola, een zoon van Pua, zoon van Dodo, een man van Issaschar; en hij woonde te Samir, op het gebergte van Efraim. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 23
 
 1. Voorts zijn dit de laatste woorden van David. David, de zoon van Isaï zegt, en de man, die hoog is opgericht, de gezalfde van Jakobs God, en liefelijk in Psalmen van Israël, zegt: 

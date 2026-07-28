@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 5
 
 1. GAAT om door de wijken van Jeruzalem, en ziet nu toe en verneemt en zoekt op haar straten, of gij iemand vindt, of er één is die recht doet, die waarheid zoekt; zo zal Ik haar genadig zijn.

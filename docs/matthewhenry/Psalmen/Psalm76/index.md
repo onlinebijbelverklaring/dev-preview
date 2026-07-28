@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 76
 
 1. EEN psalm, een lied van Asaf, voor den opperzangmeester, op Neginôth.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 2
 
 1. MAAR ik heb dit bij mijzelven voorgenomen, dat ik niet wederom in droefheid tot u komen zou.

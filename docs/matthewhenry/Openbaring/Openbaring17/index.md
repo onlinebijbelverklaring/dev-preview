@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 17
 
 1. EN een uit de zeven engelen, die de zeven fiolen hadden, kwam en sprak met mij, en zeide tot mij: Kom herwaarts, ik zal u tonen het oordeel der grote hoer, die daar zit op vele wateren;

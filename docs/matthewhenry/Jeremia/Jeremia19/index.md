@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 19
 
 1. ZO zegt de HEERE: Ga heen en koop een pottenbakkerskruik, en neem tot u van de oudsten des volks en van de oudsten der priesters.

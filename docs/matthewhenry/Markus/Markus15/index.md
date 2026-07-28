@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 15
 
 1. EN terstond des morgens vroeg hielden de overpriesters tezamen raad met de ouderlingen en schriftgeleerden en den gehelen Raad; en Jezus gebonden hebbende, brachten zij Hem heen en gaven Hem aan Pilatus over.

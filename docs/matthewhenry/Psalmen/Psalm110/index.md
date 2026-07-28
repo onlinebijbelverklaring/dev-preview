@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 110
 
 1. EEN psalm van David. De HEERE heeft tot mijn Heere gesproken: Zit tot Mijn rechterhand, totdat Ik Uw vijanden gezet zal hebben tot een voetbank Uwer voeten.

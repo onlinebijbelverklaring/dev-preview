@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Timotheus 2
 
 1. IK vermaan dan vóór alle dingen, dat gedaan worden smekingen, gebeden, voorbiddingen, dankzeggingen voor alle mensen,

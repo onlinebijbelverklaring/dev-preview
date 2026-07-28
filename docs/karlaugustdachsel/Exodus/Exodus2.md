@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 2
 
 MOZES’ GEBOORTE, OPVOEDING, VLUCHT EN HUWELIJK.

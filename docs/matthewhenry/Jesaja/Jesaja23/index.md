@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 23
 
 1. DE last van Tyrus. Huilt, gij schepen van Tarsis, want zij is verwoest, dat er geen huis meer is, dat niemand er meer ingaat; uit het land Chittim is het aan hen openbaar geworden.

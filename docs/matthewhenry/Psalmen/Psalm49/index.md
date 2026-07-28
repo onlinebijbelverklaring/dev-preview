@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 49
 
 1. EEN psalm, voor den opperzangmeester, onder de kinderen van Korach.

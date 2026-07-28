@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Timotheus 4
 
 EEN GOED TOEZICHT BIJ HET PREDIKAMBT IS NODIG. PAULUS? STRIJD EN KROON

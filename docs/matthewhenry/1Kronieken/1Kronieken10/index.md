@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 10
 
 1. En de Filistijnen streden tegen Israël, en de mannen van Israël vloden voor het aangezicht der Filistijnen, en zij vielen verslagen op het gebergte Gilboa. 

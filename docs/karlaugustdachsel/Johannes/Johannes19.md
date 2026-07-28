@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 19
 
 CHRISTUS’ GESELING, KRUISIGING, DOOD EN BEGRAFENIS

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 38
 
 1. IN die dagen werd Hizkía krank tot stervens toe; en de profeet Jesaja, de zoon van Amoz, kwam tot hem en zeide tot hem: Alzo zegt de HEERE: Geef bevel aan uw huis, want gij zult sterven, en niet leven.

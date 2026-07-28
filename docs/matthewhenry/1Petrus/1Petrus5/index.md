@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Petrus 5
 
 1. DE ouderlingen die onder u zijn, vermaan ik, die een medeouderling en getuige van het lijden van Christus ben, en deelachtig der heerlijkheid die geopenbaard zal worden:

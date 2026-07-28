@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Job 3
 
 1. DAARNA opende Job zijn mond en vervloekte zijn dag.

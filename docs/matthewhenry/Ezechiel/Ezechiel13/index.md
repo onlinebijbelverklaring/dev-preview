@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 13
 
 1. EN des HEEREN woord geschiedde tot mij, zeggende:

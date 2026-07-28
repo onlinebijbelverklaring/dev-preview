@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 27
 
 1. En het geschiedde, als Izak oud geworden was, en zijn ogen donker geworden waren, en hij niet zien kon; toen riep hij Ezau, zijn grootsten zoon, en zeide tot hem: Mijn zoon! En hij zeide tot hem: Zie, hier ben ik! 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 10
 
 1. BROEDERS, de toegenegenheid mijns harten, en het gebed dat ik tot God voor Israël doe, is tot hun zaligheid.

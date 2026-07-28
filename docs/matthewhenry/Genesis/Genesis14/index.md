@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 14
 
 1. En het geschiedde in de dagen van Amrafel, de koning van Sinear, van Arioch, de koning van Ellasar, van Kedor-Laomer, de koning van Elam, en van Tideal, de koning der volken; 

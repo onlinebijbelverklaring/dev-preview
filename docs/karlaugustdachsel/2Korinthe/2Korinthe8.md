@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Korinthe 8
 
 AANMANING TOT MILDE GAVEN VOOR DE ARMEN

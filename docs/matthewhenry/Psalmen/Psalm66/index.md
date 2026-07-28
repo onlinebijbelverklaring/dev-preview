@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 66
 
 1. EEN lied, een psalm, voor den opperzangmeester. Juicht Gode, gij ganse aarde.

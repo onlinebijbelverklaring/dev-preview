@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 16
 
 1. Toen geschiedde het woord des HEEREN tot Jehu, de zoon van Hanani, tegen Baesa, zeggende: 

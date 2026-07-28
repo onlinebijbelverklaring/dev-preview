@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 8
 
 1. EN toen Het het zevende zegel geopend had, werd er een stilzwijgen in den hemel, omtrent van een halfuur.

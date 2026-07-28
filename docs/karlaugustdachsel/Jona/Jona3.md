@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jona 3
 
 JONA’S GEZEGENDE BOETPREDIKING.

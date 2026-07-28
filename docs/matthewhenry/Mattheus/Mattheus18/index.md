@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 18
 
 1. TE dierzelver ure kwamen de discipelen tot Jezus, zeggende: Wie is toch de meeste in het Koninkrijk der hemelen?

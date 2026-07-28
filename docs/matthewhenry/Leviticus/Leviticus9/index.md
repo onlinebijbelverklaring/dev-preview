@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 9
 
 1. En het geschiedde op de achtsten dag, dat Mozes riep Aäron en zijn zonen, en de oudsten van Israël; 

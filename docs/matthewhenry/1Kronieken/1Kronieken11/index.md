@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 11
 
 1. Toen vergaderde zich gans Israël tot David naar Hebron, zeggende: Zie, wij zijn uw gebeente en uw vlees. 

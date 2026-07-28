@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 11
 
 1. WANT er zal een Rijsje voortkomen uit den afgehouwen tronk van Isaï, en een Scheut uit zijn wortelen zal vrucht voortbrengen.

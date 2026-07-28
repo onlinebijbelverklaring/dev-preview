@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Petrus 3
 
 1. DESGELIJKS gij vrouwen, zijt uw eigen mannen onderdanig; opdat ook zo enigen het Woord ongehoorzaam zijn, zij door den wandel der vrouwen zonder woord mogen gewonnen worden,

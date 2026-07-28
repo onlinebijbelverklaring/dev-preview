@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 126
 
 1. EEN lied Hammaäloth. Als de HEERE de gevangenen Sions wederbracht, waren wij gelijk degenen die dromen.

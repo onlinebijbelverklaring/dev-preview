@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 42
 
 1. Toen Jakob zag, dat er koren in Egypte was, zo zeide Jakob tot zijn zonen: Waarom ziet gij op elkander? 

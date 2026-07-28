@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 5
 
 1. NA dezen was een feest der Joden, en Jezus ging op naar Jeruzalem.

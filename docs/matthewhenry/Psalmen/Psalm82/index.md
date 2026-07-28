@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 82
 
 1. EEN psalm van Asaf. God staat in de vergadering Godes, Hij oordeelt in het midden der goden.

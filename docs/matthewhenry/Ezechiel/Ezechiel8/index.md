@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 8
 
 1. HET geschiedde nu in het zesde jaar, in de zesde maand, op den vijfde der maand, als ik in mijn huis zat en de oudsten van Juda voor mijn aangezicht zaten, dat de hand des Heeren HEEREN daar over mij viel.

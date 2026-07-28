@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 87
 
 1. EEN psalm, een lied voor de kinderen van Korach. Zijn grondslag is op de bergen der heiligheid.

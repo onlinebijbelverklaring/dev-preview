@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 52
 
 1. WAAK op, waak op, trek uw sterkte aan, o Sion, trek uw sierlijke klederen aan, o Jeruzalem, gij heilige stad, want in u zal voortaan geen onbesnedene noch onreine meer komen.

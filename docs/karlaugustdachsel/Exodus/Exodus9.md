@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 9
 
 PESTILENTIE. ZWEREN. HAGEL.

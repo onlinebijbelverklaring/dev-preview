@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 7
 
 1. De kinderen van Issaschar waren Thola en Pua, Jasib en Simron; vier. 

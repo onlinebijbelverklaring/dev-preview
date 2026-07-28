@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 18
 
 1. De Levietische priesteren, de ganse stam van Levi, zullen geen deel noch erve hebben met Israël; de vuuroffers des HEEREN en zijn erfdeel zullen zij eten. 

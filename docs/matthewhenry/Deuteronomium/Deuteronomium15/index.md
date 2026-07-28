@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Deuteronomium 15
 
 1. Ten einde van zeven jaren zult gij een vrijlating maken. 

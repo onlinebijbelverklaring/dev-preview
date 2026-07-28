@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 49
 
 JAKOBS VOORZEGGINGEN EN AFSCHEID.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Zacharia 7
 
 1. Het gebeurde nu in het vierde jaar van de koning Darius, dat het woord des HEEREN geschiedde tot Zacharia, op de vierden der negende maand, namelijk in Chisleu. 

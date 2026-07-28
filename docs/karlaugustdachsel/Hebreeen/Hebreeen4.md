@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 4
 
 HOE MEN TOT DE RUST VAN CHRISTUS KOMEN KAN

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 17
 
 ARBEID EN LOTGEVALLEN VAN PAULUS TE THESSALONICA, BEREA EN ATHENE

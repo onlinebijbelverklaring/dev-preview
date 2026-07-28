@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 1
 
 JOHANNES’ GEBOORTE EN JEUGD

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Galaten 4
 
 NADERE VERKLARING VAN DE GERECHTIGHEID DOOR DE WET

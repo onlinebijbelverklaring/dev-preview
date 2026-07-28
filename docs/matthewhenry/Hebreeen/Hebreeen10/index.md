@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 10
 
 1. WANT de wet, hebbende een schaduw der toekomende goederen, niet het beeld zelf der zaken, kan met dezelfde offeranden die zij alle jaar geduriglijk opofferen, nimmermeer heiligen degenen die daar toegaan.

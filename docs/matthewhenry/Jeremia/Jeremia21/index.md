@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 21
 
 1. HET woord dat van den HEERE geschied is tot Jeremía, als de koning Zedekía tot hem zond Pashur, den zoon van Malchía, en Zefánja, den zoon van Maäséja, den priester, zeggende:

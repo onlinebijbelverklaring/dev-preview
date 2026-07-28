@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Thessalonicenzen 5
 
 OVER DE TIJD VAN DE JONGSTEN DAG ENn HOE MEN ZICH DAARTOE MOET VOORBEREIDEN

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 5
 
 MOZES WORDT DOOR FARAO VERACHT, EN HET VOLK NOG MEER VERDRUKT.

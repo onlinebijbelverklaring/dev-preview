@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 31
 
 ISRAEL OVERWINT DE MIDIANIETEN EN BEHAALT EEN GROTEN BUIT.

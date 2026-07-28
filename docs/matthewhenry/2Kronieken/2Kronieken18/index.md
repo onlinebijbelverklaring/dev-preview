@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Kronieken 18
 
 1. Jósafath nu had rijkdom en eer in overvloed; en hij verzwagerde zich aan Achab. 

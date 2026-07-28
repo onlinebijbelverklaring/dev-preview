@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 13
 
 1. En ziet, een man Gods kwam uit Juda, door het woord des HEEREN tot Beth-el; en Jerobeam stond bij het altaar, om te roken. 

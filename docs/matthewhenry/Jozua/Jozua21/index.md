@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 21
 
 1. Toen naderden de hoofden der vaderen van de Levieten tot Eleazar, de priester, en tot Jozua, de zoon van Nun, en tot de hoofden der vaderen van de stammen der kinderen Israëls; 

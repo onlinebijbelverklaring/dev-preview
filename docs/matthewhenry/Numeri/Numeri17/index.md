@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 17
 
 1. Toen sprak de HEERE tot Mozes, zeggende: 

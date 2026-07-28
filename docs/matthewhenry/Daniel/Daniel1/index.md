@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 1
 
 1. IN het derde jaar des koninkrijks van Jójakim, den koning van Juda, kwam Nebukadnézar, de koning van Babel, te Jeruzalem en belegerde haar.

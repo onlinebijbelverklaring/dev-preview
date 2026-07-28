@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 1
 
 1. HET begin des Evangelies van JEZUS CHRISTUS, den Zone Gods.

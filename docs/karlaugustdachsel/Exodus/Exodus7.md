@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 7
 
 VERANDERING VAN HET WATER IN BLOED.

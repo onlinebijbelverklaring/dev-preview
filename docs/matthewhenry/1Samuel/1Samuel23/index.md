@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 23
 
 1. En men boodschapte David, zeggende: Zie, de Filistijnen strijden tegen Kehila, en zij beroven de schuren. 

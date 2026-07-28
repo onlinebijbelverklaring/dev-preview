@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 3
 
 1. DE koning Nebukadnézar maakte een beeld van goud, welks hoogte was zestig ellen, zijn breedte zes ellen; hij richtte het op in het dal Dura, in het landschap van Babel.

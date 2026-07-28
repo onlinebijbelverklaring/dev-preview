@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 117
 
 1 LOOFT den HEERE, alle heidenen; prijst Hem, alle natiën.

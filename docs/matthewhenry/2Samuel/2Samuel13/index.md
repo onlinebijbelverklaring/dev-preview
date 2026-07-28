@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 13
 
 1. En het geschiedde daarna, alzo Absalom, Davids zoon, een schone zuster had, welker naam was Thamar, dat Amnon, Davids zoon, haar lief kreeg. 

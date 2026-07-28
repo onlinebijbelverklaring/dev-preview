@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 25
 
 FEEST- EN JUBELJAAR.

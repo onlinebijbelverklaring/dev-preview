@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 3
 
 1. EN in het vijftiende jaar der regering van den keizer Tibérius, als Pontius Pilatus stadhouder was over Judéa, en Herodes een viervorst over Galiléa, en Filippus, zijn broeder, een viervorst over Ituréa en over het land Trachonítis, en Lysánias een viervorst over Abiléne,

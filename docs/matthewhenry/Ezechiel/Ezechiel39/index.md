@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 39
 
 1. VOORTS, gij mensenkind, profeteer tegen Gog, en zeg: Zo zegt de Heere HEERE: Zie, Ik wil aan u, o Gog, hoofdvorst van Mesech en Tubal.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Filippenzen 2
 
 DE VERNEDERING EN VERHOGING VAN CHRISTUS MOET TOT EENHEID EN OOTMOEDIGHEID DRINGEN

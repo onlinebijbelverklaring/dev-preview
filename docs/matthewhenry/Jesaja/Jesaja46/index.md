@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 46
 
 1. BEL is gekromd, Nebo wordt nedergebogen, hun afgoden zijn geworden voor de dieren en voor de beesten; uw opgeladen pakken zijn een last voor de vermoeide beesten.

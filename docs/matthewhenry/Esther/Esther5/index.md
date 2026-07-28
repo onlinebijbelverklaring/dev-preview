@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Esther 5
 
 1. HET geschiedde nu aan den derden dag, dat Esther een koninklijk kleed aantrok en stond in het binnenste voorhof van des konings huis, tegenover het huis des konings; de koning nu zat op zijn koninklijken troon in het koninklijke huis, tegenover de deur van het huis.

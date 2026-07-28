@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 24
 
 1. EN vijf dagen daarna kwam de hogepriester Ananías af met de ouderlingen en een zekeren voorspraak, genaamd Tertúllus, dewelke verschenen voor den stadhouder tegen Paulus.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 62
 
 1. OM Sions wil zal ik niet zwijgen, en om Jeruzalems wil zal ik niet stil zijn, totdat haar Gerechtigheid voortkome als een glans, en haar Heil als een fakkel die brandt.

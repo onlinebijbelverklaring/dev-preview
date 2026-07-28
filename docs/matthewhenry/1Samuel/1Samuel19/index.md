@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Samuel 19
 
 1. Derhalve sprak Saul tot zijn zoon Jonathan en tot al zijn knechten, om David te doden. Doch Jonathan, Sauls zoon, had groot welgevallen aan David. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 28
 
 1. En Izak riep Jakob, en zegende hem; en gebood hem, en zeide tot hem: Neem geen vrouw van de dochteren van Kanaän. 

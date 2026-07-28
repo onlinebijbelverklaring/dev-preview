@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jakobus 4
 
 1. VANWAAR komen krijgen en vechterijen onder u? Komen zij niet hiervan, namelijk uit uw wellusten, die in uw leden strijd voeren?

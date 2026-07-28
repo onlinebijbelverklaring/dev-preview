@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Efeze 5
 
 1. ZIJT dan navolgers Gods, als geliefde kinderen;

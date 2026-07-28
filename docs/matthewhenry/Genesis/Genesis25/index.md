@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 25
 
 1. En Abraham voer voort, en nam een vrouw, wier naam was Ketura. 

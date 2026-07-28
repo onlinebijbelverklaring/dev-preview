@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 24
 
 1. DE HEERE deed mij zien, en zie, er waren twee vijgenkorven, gezet voor den tempel des HEEREN; nadat Nebukadrézar, koning van Babel, gevankelijk had weggevoerd Jechónia, den zoon van Jójakim, den koning van Juda, mitsgaders de vorsten van Juda, en de timmerlieden en de smeden, van Jeruzalem, en hen te Babel gebracht had.

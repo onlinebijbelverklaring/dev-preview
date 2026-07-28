@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 1
 
 CHRISTUS’ GESLACHTSREGISTER, ONTVANGENIS, NAAM EN GEBOORTE.

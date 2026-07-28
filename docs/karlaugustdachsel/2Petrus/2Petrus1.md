@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Petrus 1
 
 HET GELOOF VRUCHTBAAR IN GOEDE WERKEN. LOF VAN DE HEILIGE SCHRIFT

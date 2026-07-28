@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Romeinen 11
 
 DE VERKIEZING IS ONVERANDERLIJK

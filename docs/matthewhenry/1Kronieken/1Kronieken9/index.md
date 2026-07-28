@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Kronieken 9
 
 1. En gans Israël werd in geslachtsregisters geteld, en ziet, zij zijn geschreven in het boek der koningen van Israël. En die van Juda waren weggevoerd naar Babel, om hunner overtredingen wil. 

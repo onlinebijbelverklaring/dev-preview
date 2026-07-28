@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 2
 
 1. EN op den derden dag was er een bruiloft te Kana in Galiléa; en de moeder van Jezus was aldaar.

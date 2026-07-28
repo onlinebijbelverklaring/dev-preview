@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 102
 
 1. EEN gebed des verdrukten, als hij overstelpt is, en zijn klacht uitstort voor het aangezicht des HEEREN.

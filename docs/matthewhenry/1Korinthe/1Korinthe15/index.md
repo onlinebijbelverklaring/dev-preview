@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Korinthe 15
 
 1. VOORTS, broeders, ik maak u bekend het Evangelie, dat ik u verkondigd heb, hetwelk gij ook aangenomen hebt, in hetwelk gij ook staat,

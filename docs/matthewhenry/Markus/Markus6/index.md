@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Markus 6
 
 1. EN Hij ging vandaar weg en kwam in Zijn vaderland, en Zijn discipelen volgden Hem.

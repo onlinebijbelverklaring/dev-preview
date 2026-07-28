@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 5
 
 DE WET VAN HET SCHULDOFFER.

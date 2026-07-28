@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hebreeen 9
 
 1. ZO had dan wel ook het eerste verbond rechten van den godsdienst, en het wereldlijk heiligdom.

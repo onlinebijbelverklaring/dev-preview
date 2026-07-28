@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Petrus 3
 
 1. DEZEN tweeden zendbrief, geliefden, schrijf ik nu aan u, in welke beide ik door vermaning uw oprecht gemoed opwek;

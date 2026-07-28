@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 8
 
 1. EN Saulus had mede een welbehagen aan zijn dood. En er werd te dien dage een grote vervolging tegen de gemeente die te Jeruzalem was; en zij werden allen verstrooid door de landen van Judéa en Samaría, behalve de apostelen.

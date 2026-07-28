@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 1
 
 1. IN het dertigste jaar, in de vierde maand, op den vijfde derzelver maand, als ik in het midden der weggevoerden was bij de rivier Chebar, zo geschiedde het dat de hemelen werden geopend en ik gezichten Gods zag.

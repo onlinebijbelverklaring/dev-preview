@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 20
 
 1. Als de kinderen Israëls, de ganse vergadering, in de woestijn Zin gekomen waren, in de eerste maand, zo bleef het volk te Kades. En Mirjam stierf aldaar, en zij werd aldaar begraven. 

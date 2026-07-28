@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 22
 
 OVER DE VREUGDE VAN HET EEUWIGE LEVEN

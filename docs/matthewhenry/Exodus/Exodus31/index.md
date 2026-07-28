@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 31
 
 1. Daarna sprak de HEERE tot Mozes, zeggende: 

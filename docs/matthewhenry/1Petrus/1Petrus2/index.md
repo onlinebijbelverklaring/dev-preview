@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Petrus 2
 
 1. ZO legt dan af alle kwaadheid en alle bedrog en geveinsdheid en nijdigheid en alle achterklappingen;

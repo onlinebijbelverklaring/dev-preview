@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 23
 
 1. EN Paulus de ogen op den Raad houdende, zeide: Mannen broeders, ik heb met alle goede consciëntie voor God gewandeld tot op dezen dag.

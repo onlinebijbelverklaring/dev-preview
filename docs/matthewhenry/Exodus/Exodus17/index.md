@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 17
 
 1. Daarna toog de ganse vergadering van de kinderen Israëls, naar hun dagreizen, uit de woestijn Sin, op het bevel des HEEREN, en zij legerden zich te Rafidim. Daar nu was geen water voor het volk om te drinken. 

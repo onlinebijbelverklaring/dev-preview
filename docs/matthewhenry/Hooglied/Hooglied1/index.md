@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Hooglied 1
 
 1. HET Hooglied, hetwelk van Sálomo is.

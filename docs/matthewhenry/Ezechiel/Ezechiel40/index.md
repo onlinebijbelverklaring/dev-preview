@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 40
 
 1. IN het vijf en twintigste jaar onzer gevankelijke wegvoering, in het begin des jaars, op den tiende der maand, in het veertiende jaar nadat de stad geslagen was; even op dienzelven dag, was de hand des HEEREN op mij en Hij bracht mij derwaarts.

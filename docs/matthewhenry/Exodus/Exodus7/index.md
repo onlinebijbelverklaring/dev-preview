@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 7
 
 1. Toen zeide de HEERE tot Mozes: Zie, Ik heb u tot een God gezet over Farao; en Aaron, uw broeder, zal uw profeet zijn. 

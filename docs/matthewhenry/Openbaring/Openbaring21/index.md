@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 21
 
 1. EN ik zag een nieuwen hemel en een nieuwe aarde; want de eerste hemel en de eerste aarde was voorbijgegaan, en de zee was niet meer.

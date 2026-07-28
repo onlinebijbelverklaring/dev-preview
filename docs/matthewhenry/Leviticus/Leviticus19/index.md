@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 19
 
 1. Verder sprak de HEERE tot Mozes, zeggende: 

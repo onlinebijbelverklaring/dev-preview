@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 29
 
 NOG ANDERE OFFERS.

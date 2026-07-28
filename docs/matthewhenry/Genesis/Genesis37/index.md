@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 37
 
 1. En Jakob woonde in het land der vreemdelingschappen zijns vaders, in het land Kanaän. 

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 6
 
 ***1. Verder sprak de HEERE, 1) tot Mozes, zeggende:***

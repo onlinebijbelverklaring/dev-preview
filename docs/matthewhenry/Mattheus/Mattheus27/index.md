@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Mattheus 27
 
 1. ALS het nu morgenstond geworden was, hebben al de overpriesters en de ouderlingen des volks tezamen raad genomen tegen Jezus, dat zij Hem doden zouden.

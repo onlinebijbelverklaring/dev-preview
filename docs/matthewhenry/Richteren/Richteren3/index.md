@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Richteren 3
 
 1. Dit nu zijn de heidenen, die de HEERE liet blijven, om door hen Israël te verzoeken, allen, die niet wisten van al de krijgen van Kanaän; 

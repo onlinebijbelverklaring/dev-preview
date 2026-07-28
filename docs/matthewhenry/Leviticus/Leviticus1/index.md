@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Leviticus 1
 
 1. En de HEERE riep Mozes, en sprak tot hem uit de tent der samenkomst, zeggende: 

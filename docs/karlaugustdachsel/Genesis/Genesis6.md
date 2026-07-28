@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 6
 
 AANKONDIGING VAN DE ZONDVLOED. BOUW VAN DE ARK.

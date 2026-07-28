@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 10
 
 1. HOORT het woord dat de HEERE tot ulieden spreekt, o huis Israëls.

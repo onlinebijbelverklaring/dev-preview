@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 21
 
 1. En de HEERE bezocht Sara, gelijk als Hij gezegd had; en de HEERE deed aan Sara, gelijk als Hij gesproken had. 

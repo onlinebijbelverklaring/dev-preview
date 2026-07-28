@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 25
 
 1. En Israël verbleef te Sittim, en het volk begon te hoereren met de dochteren der Moabieten. 

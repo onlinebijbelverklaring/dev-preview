@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 2 Samuel 15
 
 1. En het geschiedde daarna, dat Absalom zich liet bereiden wagenen en paarden, en vijftig mannen, lopende voor zijn aangezicht henen. 

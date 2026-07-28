@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Daniel 2
 
 1. IN het tweede jaar nu des koninkrijks van Nebukadnézar droomde Nebukadnézar dromen; daarvan werd zijn geest verslagen en zijn slaap werd in hem gebroken.

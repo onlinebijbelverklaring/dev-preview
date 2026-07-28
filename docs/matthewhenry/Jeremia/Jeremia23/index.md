@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jeremia 23
 
 1. WEE den herders die de schapen Mijner weide ombrengen en verstrooien, spreekt de HEERE.

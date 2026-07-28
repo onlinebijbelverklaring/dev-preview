@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 26
 
 HET JOODSE VOLK WORDT OPNIEUW GETELD.

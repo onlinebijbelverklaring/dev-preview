@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Exodus 26
 
 1. de tabernakel nu zult gij maken van tien gordijnen, van fijn getweernd linnen, en hemelsblauw, en purper, en scharlaken, met cherubim; van het allerkunstelijkste werk zult gij ze maken. 

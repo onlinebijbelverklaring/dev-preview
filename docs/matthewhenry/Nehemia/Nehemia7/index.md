@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Nehemia 7
 
 1. Voorts geschiedde het als de muur gebouwd was, dat ik de deuren oprichtte, en de portiers en de zangers en de Levieten werden besteld;

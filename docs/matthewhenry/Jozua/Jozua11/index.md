@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jozua 11
 
 1. Het geschiedde daarna, als Jabin, de koning van Hazor, dit hoorde, zo zond hij tot Jobab, de koning van Madon, en tot de koning van Simron, en tot de koning van Achsaf, 

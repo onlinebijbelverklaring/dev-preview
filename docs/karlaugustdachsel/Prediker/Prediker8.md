@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Prediker 8
 
 ANDERE REGELEN OM GELUKKIG TE WORDEN, TE MIDDEN VAN DE IJDELHEID VAN DIT LEVEN.

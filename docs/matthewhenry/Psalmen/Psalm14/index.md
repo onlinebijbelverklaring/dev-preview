@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 14
 
 1. EEN psalm van David, voor den opperzangmeester.

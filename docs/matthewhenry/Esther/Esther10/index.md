@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Esther 10
 
 1. DAARNA legde de koning Ahasvéros tribuut op het land en de eilanden der zee.

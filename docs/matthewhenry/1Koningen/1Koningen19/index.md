@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # 1 Koningen 19
 
 1. En Achab zeide Izébel aan al wat Elia gedaan had, en allen, die hij gedood had, te weten al de profeten, met het zwaard. 

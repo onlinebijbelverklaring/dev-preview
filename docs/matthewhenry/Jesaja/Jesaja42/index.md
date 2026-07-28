@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 42
 
 1. ZIE, Mijn Knecht, Dien Ik ondersteun, Mijn Uitverkorene, in Denwelken Mijn ziel een welbehagen heeft. Ik heb Mijn Geest op Hem gegeven, Hij zal het recht den heidenen voortbrengen.

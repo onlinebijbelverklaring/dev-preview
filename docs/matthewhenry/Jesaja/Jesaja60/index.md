@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 60
 
 1. MAAK u op, word verlicht, want uw Licht komt, en de heerlijkheid des HEEREN gaat over u op.

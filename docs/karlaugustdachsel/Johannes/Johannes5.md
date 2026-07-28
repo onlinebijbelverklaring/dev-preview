@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 5
 
 CHRISTUS’ VERDEDIGINGSREDE	VAN ZIJN WONDER AAN DE ACHT EN DERTIGJARIGE ZIEKE

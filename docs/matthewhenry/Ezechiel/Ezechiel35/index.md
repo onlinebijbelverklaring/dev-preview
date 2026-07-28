@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 35
 
 1. WIJDERS geschiedde des HEEREN woord tot mij, zeggende:

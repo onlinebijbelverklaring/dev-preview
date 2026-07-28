@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 63
 
 1. EEN psalm van David, als hij was in de woestijn van Juda.

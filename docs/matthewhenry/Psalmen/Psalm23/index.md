@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Psalm 23
 
 1. EEN psalm van David. De HEERE is mijn Herder, mij zal niets ontbreken.

@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Openbaring 9
 
 DE VIJFDE EN ZESDE BAZUIN

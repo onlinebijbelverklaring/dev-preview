@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Ezechiel 31
 
 1. HET gebeurde ook in het elfde jaar, in de derde maand, op den eerste der maand, dat des HEEREN woord tot mij geschiedde, zeggende:

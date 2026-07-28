@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Jesaja 9
 
 1. HET volk dat in duisternis wandelt, zal een groot licht zien; degenen die wonen in het land van de schaduw des doods, over dezelve zal een licht schijnen.

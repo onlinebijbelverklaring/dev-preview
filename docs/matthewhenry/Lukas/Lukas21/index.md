@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Lukas 21
 
 1. EN opziende, zag Hij de rijken hun gaven in de schatkist werpen.

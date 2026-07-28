@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Johannes 12
 
 1. JEZUS dan kwam zes dagen vóór het pascha te Bethanië, waar Lázarus was, die gestorven was geweest, welken Hij opgewekt had uit de doden.

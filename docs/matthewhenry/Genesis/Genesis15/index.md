@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 15
 
 1. Na deze dingen geschiedde het woord des HEEREN tot Abram in een gezicht, zeggende: Vrees niet, Abram! Ik ben u een Schild, uw Loon zeer groot.

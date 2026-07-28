@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Numeri 33
 
 1. Dit zijn de reizen der kinderen Israëls, die uit Egypteland uitgetogen zijn, naar hun heiren, door de hand van Mozes en Aäron. 

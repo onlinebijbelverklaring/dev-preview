@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Handelingen 6
 
 1. EN in dezelve dagen, als de discipelen vermenigvuldigden, ontstond een murmurering der Grieksen tegen de Hebreeën, omdat hun weduwen in de dagelijkse bediening verzuimd werden.

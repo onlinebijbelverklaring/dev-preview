@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Filipenzen 1
 
 1. PAULUS en Timótheüs, dienstknechten van JEZUS CHRISTUS, al den heiligen in Christus Jezus die te Filippi zijn, met de opzieners en diakenen:

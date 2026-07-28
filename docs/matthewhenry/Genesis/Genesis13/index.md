@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Genesis 13
 
 1. Alzo toog Abram op uit Egypte naar het zuiden, hij en zijn huisvrouw, en al wat hij had, en Lot met hem. 
