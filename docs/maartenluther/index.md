@@ -1,5 +1,3 @@
-# Maarten Luther
-
 ---
 hide:
   - toc

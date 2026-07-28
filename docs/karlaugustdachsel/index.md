@@ -1,5 +1,3 @@
-# Karl August Dachsel
-
 ---
 hide:
   - toc

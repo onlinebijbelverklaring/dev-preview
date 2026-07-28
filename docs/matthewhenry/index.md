@@ -1,5 +1,3 @@
-# Matthew Henry
-
 ---
 hide:
   - toc
