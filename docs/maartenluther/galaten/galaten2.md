@@ -1,3 +1,8 @@
+ ---
+icon: lucide/book-text
+---
+
+
 # Galaten 2
 
 

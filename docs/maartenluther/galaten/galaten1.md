@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Galaten 1
 
 ## Vers 1

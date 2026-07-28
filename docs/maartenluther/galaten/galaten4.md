@@ -1,3 +1,8 @@
+---
+icon: lucide/list-indent-increase
+---
+
+
 # Galaten 4
 
 ## Vers 1, 2

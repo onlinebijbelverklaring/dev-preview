@@ -1,3 +1,7 @@
+---
+icon: lucide/list-indent-increase
+---
+
 # Galaten 6
 
 ## Vers 1 

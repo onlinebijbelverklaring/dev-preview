@@ -1,3 +1,8 @@
+---
+icon: lucide/book-open-text
+---
+
+
 # Galaten 3
 
 ## Vers 1
