@@ -1,26 +1,54 @@
-name: Build MkDocs on Github Pages
+name: Build and Deploy Zensical to GitHub Pages
+
 on:
   push:
     branches:
       - main
+
+# Vereiste permissies voor het bouwen en deployen naar GitHub Pages
 permissions:
-  contents: write
+  contents: read
+  pages: write
+  id-token: write
+
+# Zorg ervoor dat er maar één concurrent deployment tegelijk draait
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: actions/setup-python@v5
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: 3.x
-      - uses: actions/cache@v4
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Zensical site
+        run: npx zensical build
+
+      - name: Upload artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v3
         with:
-          key: ${{ github.ref }}
-          path: .cache
-      - run: pip install mkdocs-material 
-      - run: pip install mkdocs-git-revision-date-localized-plugin
-      - run: pip install mkdocs-git-committers-plugin-2
-      - run: mkdocs gh-deploy --force
-      
+          path: ./docs # Pas aan naar de output map van Zensical als deze afwijkt (bijv. ./build of ./public)
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
