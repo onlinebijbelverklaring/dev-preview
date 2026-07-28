@@ -4,7 +4,7 @@ hide:
   - navigation
 
 icon: 
-  page: material/home
+  page: lucide/home
 ---
 
 # Welkom op Onlinebijbelverklaring.nl 

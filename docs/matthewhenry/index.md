@@ -2,7 +2,7 @@
 hide:
   - toc
 
-icon: material/bookshelf
+icon: lucide/bookshelf
 ---
 
 # Bijbelverklaring van Matthew Henry
