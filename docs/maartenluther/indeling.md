@@ -1,3 +1,7 @@
+---
+icon: lucide/file-text
+---
+
 # Indeling
 
 Vijftig Bewijzen en Uitwerkselen van eigengerechtigheid, uit de Werken aangetoond door de Apostel Paulus aan de Galaten.
