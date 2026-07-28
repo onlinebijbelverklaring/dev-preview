@@ -5,19 +5,20 @@ on:
     branches:
       - main
 
-# Vereiste permissies voor het bouwen en deployen naar GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Zorg ervoor dat er maar één concurrent deployment tegelijk draait
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
-  build:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -25,29 +26,22 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
-          node-version: 22
+          python-version: '3.x'
 
-      - name: Install dependencies
-        run: npm install
+      - name: Install Zensical
+        run: pip install zensical
 
-      - name: Build Zensical site
-        run: npx zensical build
+      - name: Build site with Zensical
+        run: zensical build --clean
 
       - name: Upload artifact for GitHub Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./docs # Pas aan naar de output map van Zensical als deze afwijkt (bijv. ./build of ./public)
+          path: site # Zensical bouwt de site standaard in de 'site/' map net als MkDocs
 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
