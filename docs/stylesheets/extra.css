@@ -13,37 +13,32 @@
 .font-size-toc-container {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  padding: 0.5rem 0.6rem;
+  justify-content: center;
+  padding: 0.4rem 0;
   margin: 0.6rem 0.8rem 0.8rem 0.8rem;
-  background-color: var(--md-default-bg-color--subtle, rgba(0, 0, 0, 0.03));
-  border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.1));
-  border-radius: 6px;
-}
-
-.font-size-label {
-  font-size: 0.7rem;
-  font-weight: 600;
-  color: var(--md-default-fg-color--light);
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
 }
 
 .font-size-buttons {
   display: flex;
-  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
 }
 
 .font-size-btn {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: var(--md-default-bg-color, #ffffff);
-  border: 1px solid var(--md-default-fg-color--lightest, rgba(0, 0, 0, 0.15));
+  width: 32px;
+  height: 32px;
+  padding: 0;
+  margin: 0;
+  background-color: var(--md-default-bg-color--subtle, rgba(255, 255, 255, 0.05));
+  border: 1px solid var(--md-default-fg-color--lightest, rgba(255, 255, 255, 0.15));
+  border-radius: 6px;
   color: var(--md-default-fg-color);
-  padding: 3px 6px;
-  border-radius: 4px;
   cursor: pointer;
+  box-sizing: border-box;
   transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
 }
 
@@ -53,7 +48,18 @@
   border-color: var(--md-accent-fg-color, #3f51b5);
 }
 
+/* Standaard icoongrootte (basis voor het reset-icoon) */
 .font-size-btn svg {
+  width: 17px;
+  height: 17px;
   display: block;
   pointer-events: none;
+  stroke-width: 2.2px;
+}
+
+/* Arrow UP en DOWN specifiek iets groter maken voor visuele balans */
+#fs-decrease svg,
+#fs-increase svg {
+  width: 20px;
+  height: 20px;
 }
