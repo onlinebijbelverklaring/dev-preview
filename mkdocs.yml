@@ -16,11 +16,11 @@ repo_name: onlinebijbelverklaring.github.io
 
 # Extra JavaScript
 extra_javascript:
-  - javascripts/font-size.js
+  - assets/javascripts/font-size.js
 
 # Extra CSS
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 
 # Configuration
