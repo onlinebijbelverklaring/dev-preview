@@ -1,3 +1,8 @@
+---
+icon: lucide/book
+---
+
+# Zefánja
 
 DE PROFEET ZEFANJA.
 
